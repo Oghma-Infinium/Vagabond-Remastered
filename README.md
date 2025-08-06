@@ -474,7 +474,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 >Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/CHANGELOG.md). It is suggested that you backup your saves before updating if you plan on continuing them.
 
 >[!TIP]
->RaceMenu presets can be placed in the `[NoDelete] RaceMenu Presets` mod under the `Stock List [NoDelete]'s` separator of MO2 if you want to ensure they are saved after an update.
+>RaceMenu presets can be placed in the `[NoDelete] RaceMenu Presets` mod under the `Optionals` separator of MO2 if you want to ensure they are saved after an update.
 
 # Removing the Modlist
 
