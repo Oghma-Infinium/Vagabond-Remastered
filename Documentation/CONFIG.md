@@ -73,7 +73,7 @@ Beyond what I can easily offer, you may want to consider reducing the `iShadowMa
 >[!CAUTION]
 >**DO NOT** use tools such as [Bethini](https://www.nexusmods.com/site/mods/631)! The `.ini` files have already been extensively tweaked, and many of the preconfigured settings set by these tools are not optimized for the list. 
 
-**DISCLAIMER:** I will not provide troubleshooting or support for performance as everyones' PC is different and I can only know for certain how performance is on my own machine. In addition to this, I (aljo) am not some massive computer hardware nerd and I am not qualified to make definitive statements about hardware performance when I have not personally tested it, if that hardware is borderline / similar to the hardware that I **expect** to work best for the list.
+**DISCLAIMER:** I will not provide troubleshooting or support for performance as everyones' PC is different and I can only know for certain how performance is on my own machine. In addition to this, I (Ylikollikas) am not some massive computer hardware nerd and I am not qualified to make definitive statements about hardware performance when I have not personally tested it, if that hardware is borderline / similar to the hardware that I **expect** to work best for the list.
 
 # Changing FPS Limit
 
