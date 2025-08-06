@@ -20,10 +20,6 @@
   - [Q: Can I delete the downloads?](#q-can-i-delete-the-downloads)
   - [Q: Can I uncap the FPS?](#q-can-i-uncap-the-fps)
   - [Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?](#q-why-does-unsheating-weapons-put-me-in-third-person-can-i-play-the-list-in-first-person)
-  - [Q: What mod is it that makes favorited items/potions/quest items show on my character?](#q-what-mod-is-it-that-makes-favorited-itemspotionsquest-items-show-on-my-character)
-  - [Q: How do I reposition my weapons? / Can I have swords on my back?](#q-how-do-i-reposition-my-weapons--can-i-have-swords-on-my-back)
-  - [Q: How do I remove the Glenmoril Witch Head from showing on my character?](#q-how-do-i-remove-the-glenmoril-witch-head-from-showing-on-my-character)
-  - [Q: How do I remove \[Insert Quest Item\] from showing on my character?](#q-how-do-i-remove-insert-quest-item-from-showing-on-my-character)
   - [Q: I still can not figure out how to use Immersive Equipment Displays!](#q-i-still-can-not-figure-out-how-to-use-immersive-equipment-displays)
   - [Q: My character is really skinny and the weight sliders only adjust the neck and wrist, how do I change my character's body appearance?](#q-my-character-is-really-skinny-and-the-weight-sliders-only-adjust-the-neck-and-wrist-how-do-i-change-my-characters-body-appearance)
   - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
@@ -64,18 +60,6 @@ A: The list is capped to 61 FPS by default. While [SSE Display Tweaks](https://w
 
 ### Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?
 A: The list is designed for third-person gameplay and first-person combat is not supported at all. Do not report any first-person gameplay related issues to me, I don't care.
-
-### Q: What mod is it that makes favorited items/potions/quest items show on my character?
-A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `F12` to customize what you want to show and what you don't want to show.
-
-### Q: How do I reposition my weapons? / Can I have swords on my back?
-A: Open the [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001) GUI with `F12` and reposition your equipment.
-
-### Q: How do I remove the Glenmoril Witch Head from showing on my character?
-A: Open the [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001) GUI with `F12`, under `Display Manager` click View > Custom items, look for `Quest - Left Skull`, scroll down to `Equipment overrides`, expand `Glenmoril Witch Head`, and under `General` tick the box next to `Disabled`.
-
-### Q: How do I remove [Insert Quest Item] from showing on my character?
-A: I'm not going to write a QA for *EVERY SINGLE* quest item that is displayed via IED. You can figure it out based on the instructions above.
 
 ### Q: I still can not figure out how to use Immersive Equipment Displays!
 A: Ask around the [discord](https://discord.gg/4WwqfK5yHg) then. Do not make a support thread for these issues.
