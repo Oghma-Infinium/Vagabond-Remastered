@@ -107,7 +107,7 @@ Vagabond Remastered modifies the vanilla leveling experience in a way to reward 
 
 ## Changes to Leveling
 
-Vagabond Remastered uses [Insightful Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/79951). Additional sources for insight are added in the list, including quest rewards and various bosses.
+Vagabond Remastered uses [Insightful Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/79951) with a custom patch for [FTweaks Skill Increase Menu](https://www.nexusmods.com/skyrimspecialedition/mods/124253). Additional sources for insight are added in the list, including quest rewards and various bosses.
 
 ## Perk Point Acquisition
 
