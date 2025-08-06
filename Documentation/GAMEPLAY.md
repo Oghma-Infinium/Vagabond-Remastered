@@ -63,7 +63,7 @@ The following mods are considered the "foundations" of the combat and gameplay f
    - Dodges are based on Armor Type. Heavy Armor and Cloth users gets a shorter step dodge with shortened iframes, Light Armor gets a longer roll dodge with longer iframes.
    - The Sneak Armor tree has multiple perks to upgrade your Dodge efficiency.
    - In First person, Dodges are always roll dodges.
- - [Maxsu Poise](https://github.com/max-su-2019/MaxsuPoise/blob/master/docs/en/Mechanics%20Manual.md) and [Modern Stagger Lock](https://github.com/max-su-2019/ModernStaggerLock) implement a Poise system, which has been fine tuned for the list. The Poise system is discussed in more depth in the [Difficulty and Mechanics](#difficulty-and-mechanics) section.
+ - [Maxsu Poise](https://github.com/max-su-2019/MaxsuPoise/blob/master/docs/en/Mechanics%20Manual.md) and [Modern Stagger Lock](https://github.com/max-su-2019/ModernStaggerLock) implement a Poise system, which has been fine tuned for the list.
  - **Custom Timed Blocking**: If you block just before enemy hit, gain increased block efficiency with a chance to stagger the attacker.
    - Unlocked by obtaining the very first perk in the Block skill tree.
    - The Block skill tree has multiple perks to upgrade Timed Block with additional effects and bonuses. 
@@ -72,7 +72,6 @@ The following mods are considered the "foundations" of the combat and gameplay f
    - By default, the Weapon Art of an unique weapon can be used only with that specific armament, but with the Artkeeper's Legacy perk from Weapon Arts skill tree, unique Weapon Arts become available while wielding any weapon.
    - Weapons featuring unique Weapon Arts can be crafted with **Void Shards** obtained from killing bosses. The exact recipes can be seen in the forge crafting menu when you have at least one Void Shard in your inventory.
    - Additionally, some daedric artifacts possess unique Weapon arts.
-
 
 # Leveling and Progression
 
