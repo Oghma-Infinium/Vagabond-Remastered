@@ -79,7 +79,7 @@ Beyond what I can easily offer, you may want to consider reducing the `iShadowMa
 
 By default, Vagabond Remastered is capped to 61 FPS and has several settings that will target 61 FPS. If you wish to increase your FPS Limit then these are changes that are recommended.
 
-The following `.ini` files must be edited **while out of game**. After tweaking these `.ini` files, you can uncap FPS or change the FPS cap in the in-game ENB GUI (`Shift+Enter` to open).
+The following `.ini` files must be edited **while out of game**. After tweaking these `.ini` files, you can uncap FPS or change the FPS cap in the in-game ENB GUI (`END` to open).
 
 <Details>
 <summary>SSE FPS Stabilizer & Shadow Boost</summary>
