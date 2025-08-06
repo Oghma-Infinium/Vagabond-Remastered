@@ -457,8 +457,8 @@ This will reduce the quality of certain large objects at far away distances, how
    >[!CAUTION]
    >**FOR THE LOVE OF AKATOSH, DO NOT CLICK THE UNLOCK BUTTON!**
  3. Select the **New Game** button.
- 4. Press **ENTER** on your keyboard and create your lovely character.
- 5. **(OPTIONAL)** Refer to the different MCM options listed on the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#in-game-mcm-options) to adjust any MCM settings you'd like.
+ 4. **(OPTIONAL)** Refer to the different MCM options listed on the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#in-game-mcm-options) to adjust any MCM settings you'd like.
+ 5. Press **ENTER** on your keyboard and create your lovely character.
  6. Press continue on the popup box. The game will now teleport you to a starting location.
  7. You're prompted to pick class. After that, you can start playing.
 
