@@ -80,15 +80,13 @@ Based on both internal performance testing and user feedback, the section below 
 >- An SSD is **required** to the play the modlist.
 >- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations also **WILL NOT WORK**.
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/main/images/perfTarget.PNG)
+My Specs:
+- GPU: RTX 4090
+- CPU: R7 7800X3D
+- RAM: Corsair Vengeance LPX 32GB 3.2 GHz
+- SSD: Samsung 970 EVO Plus 2TB
 
-<Details>
-<summary>Clarification on PC Requirements</summary>
-
-For complete clarity, my PC specs while building the list were a 5800X, 2080, and 32GB of RAM. This PC ran the list @ 50-60FPS on 1440p (16:9).  
-My current specs are a 7800X3D, 3080 (10gb), and 32GB of RAM with some BIOS tweaks (e.g., [ReBar](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/) and [PBO](https://community.amd.com/t5/gaming/understanding-precision-boost-overdrive-in-three-easy-steps/ba-p/416136)). This PC runs the list @ stable (locked) 61FPS on 1440p (16:9).
-
-</Details>
+The list may run on lower specs than mine, but extensive performance testing has not been conducted yet. However, at least 16GB VRAM is probably needed to have an acceptable performance.
 
 Downloads Size: ~232 GB  
 Install Size: ~278 GB  
