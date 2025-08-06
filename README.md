@@ -493,11 +493,11 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Vagabond-Remastered/blo
 # Credits and Thanks
 
 - *YOU* for reading this.
-- [aljo](https://next.nexusmods.com/profile/aljoxo?gameId=1704) for extensive patches, custom mods essential to the list and modding help.
+- [aljo](https://next.nexusmods.com/profile/aljoxo?gameId=1704) for custom mods essential to the list, extensive patches and modding help.
 - [Bingus](https://next.nexusmods.com/profile/bingusthecatto/about-me) for ENB tweaking, asset editing, and documentation help.
 - Fate for extensive testing, miscellaneous fixes and development contributions, saving me from getting carpal tunnel syndrome.
-- [biggie boss](https://next.nexusmods.com/profile/dabiggieboss?gameId=1704) for making Baseline, used as.. baseline installation for making the list.
 - [Waking Dreams](https://discord.gg/4WwqfK5yHg) helpers for their time and effort playtesting, providing feedback, and support assistance.
+- [biggie boss](https://next.nexusmods.com/profile/dabiggieboss?gameId=1704) for making Baseline, used as a baseline installation for making the list.
 - Everyone who participates in playtesting and provides feedback during development builds.
 - Bethesda Game Studios for Skyrim and the Creation Kit.
 - [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
