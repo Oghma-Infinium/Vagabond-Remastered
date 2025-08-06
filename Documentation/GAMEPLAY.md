@@ -49,7 +49,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
  - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408/) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul the Vampire and Werewolf systems.
  - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) cover Alchemy and Enchanting respectively.
  - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619), [Artifacts of the Ancestors](https://www.nexusmods.com/skyrimspecialedition/mods/92389), and [Mysterious Mementos](https://www.nexusmods.com/skyrimspecialedition/mods/118342) overhaul unique artifacts and add several new ones.
- - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) overhauls the vanilla shout system, improving upon vanilla shout choices. Speech perk tree also contains shout improving perks.
+ - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) overhauls the vanilla shouts. Speech perk tree also contains shout improving perks.
  - [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) overhauls food and drink, transforming the traditional "eat 30 cheese wheels mid combat" into a more complex buff system.
  - [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) manages the Survival changes, such as Exhaustion, Hunger, and Warmth.
 
