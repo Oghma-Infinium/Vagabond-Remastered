@@ -94,7 +94,11 @@ Vagabond Remastered takes a mixed approach to the acquisition of perks.
 
 - By default health regeneration is reduced by -100%, effectively negating natural health regeneration. All bonuses for health regeneration still remain as affective as vanilla.
 - Stamina and magicka regeneration are reduced by -50% during combat to encourage more careful resource management and preparation. Like health regeneration, all bonuses remain as affective as vanilla.
-- 
+- Hold block for 3 seconds without letting go of the button to gain +200% stamina regeneration boost until you let go. A mechanic inspired by Sekiro: Shadows Die Twice.
+- Enemies take 25% more damage from melee attacks when struck from behind.
+- Boss-type enemies become enraged during power attacks when above 25% stamina, taking drastically less physical and poise damage. Enrage is indicated by a faint red glow.
+- After player reachers level 10, dynamic scaling applies an additive, stacking +1.5% boost to enemy damage and health for every player's level.
+  - This mechanic is intended to keep the game from becoming a boring pushover due to aggressive power creep from various perks, items and other buffs player can obtain.
 
 ## Alternative Death Mechanics
 
@@ -129,7 +133,8 @@ Most mod-added creatures also follow the KYE2 rules through patches, but some ar
 
 # Quests Changes
 
-Vagabond Remastered changes a significant amount of vanilla quests in one way or another in order to offer a more complete roleplaying exprience. The following list is non-exhaustive.
+Vagabond Remastered changes a significant amount of vanilla quests in one way or another in order to offer a more complete roleplaying exprience. 
+**The thresholds should be verified as this list is copied from Apostasy and may not perfectly match the current state of this list**
 
 <Details>
 <summary>Vanilla Quests</summary>
