@@ -72,9 +72,11 @@ The following mods are considered the "foundations" of the combat and gameplay f
    - Weapons featuring unique Weapon Arts can be crafted with **Void Shards** obtained from killing bosses. The exact recipes can be seen in the forge crafting menu when you have at least one Void Shard in your inventory.
    - Additionally, some daedric artifacts possess unique Weapon arts.
 
-Spoiler warning! List of all unique Weapon Arts available in the list. New ones will be added over time as I update the list.
+List of all unique Weapon Arts available in the list. New ones will be added over time as I update the list!
 
 <Details>
+
+<summary>Spoiler warning! </summary>
   
 | Weapon  | Unique Weapon Art | Description |
 | ------------- | ------------- | ------------- |
