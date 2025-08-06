@@ -17,12 +17,8 @@
 </header>
 
 - [Optional Addons](#optional-addons)
-  - [Keybinds and Gamepad](#keybinds-and-gamepad)
-    - [Controller and Gamepad Support](#controller-and-gamepad-support)
+  - [Mouse and Keyboard Support](#mouse-and-keyboard-support)
   - [Performance Optimizations](#performance-optimizations)
-  - [Optional Visual Tweaks](#optional-visual-tweaks)
-  - [Optional Gameplay Tweaks](#optional-gameplay-tweaks)
-  - [Ultrawide Support](#ultrawide-support)
 - [Changing FPS Limit](#changing-fps-limit)
 - [Changing Resolution](#changing-resolution)
 - [Upscalers and FrameGen](#upscalers-and-framegen)
@@ -42,28 +38,14 @@
 
 The following sections detail the **supported** modifications to the list. Any other modifications should be discussed in the `#Vagabond Remastered-modified` channel of the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server.
 
-## Keybinds and Gamepad
+### Mouse and Keyboard Support
 
-This section is going to be short and basic and only cover keybinds that must be changed ***outside of the game***. Please refer the [this](https://ck.uesp.net/wiki/Input_Script) page for the DXScanCodes used by most mods.
+Vagabond Remastered is by default designed to be played with a controller. However, the list ships with a premade mouse and keyboard configuration, designed for the list. In order to activate the mouse and keyboard config, please follow the steps below:
 
- - **Dual Wield Blocking**: 
-   1. Open the mod `Vagabond Remastered - Dual Block Parry Keybinds`. 
-   2. In the mod open the `DualWieldParryingSKSE.ini` and the `BlockCancel.json` files and change the keybind(s). 
-     - **MAKE SURE THE KEYBIND YOU CHANGE TO IN THE `DualWieldParryingSKSE.ini` MATCHES THE KEYBIND FOR `"BlockCancel2"` IN THE `BlockCancel.json`**.
-   3. **In game**, edit the dual block keybind in the `Paragon Perks` MCM, or dual block will not be able to trigger timed blocks.
- - **Cycle Stances**: If you would prefer Stances cycle on a single key press instead of having 3 separate keybinds then you can do the following.
-   1. Open the mod `Stances NG`.
-   2. In the mod open the `StancesNG.ini`.
-   3. Change `bUseCycling` from `false` to `true`.
-
-### Controller and Gamepad Support
-
-Vagabond Remastered ships with a premade controller configuration, designed for the list. In order to activate the controller config, please follow the steps below:
-
- 1. Navigate to the `Keybinds and Gamepad` separator under the Optional Addons section in the **left pane** of MO2.
- 2. Deactivate the `Vagabond Remastered - Default Controlmap` mod.
- 3. Activate the `Wait Menu Redirected` mod.
- 4. Activate the `Vagabond Remastered - Controller Configuration` mod.
+ 1. Navigate to the `Optionals` separator under the Optional Addons section in the **left pane** of MO2.
+ 2. Activate the `Settings for mouse and keyboard gameplay` mod.
+ 3. Boot up the game.
+ 4. Open settings -> controlls and reset keybinds.
  5. ???
  6. Profit!
 
