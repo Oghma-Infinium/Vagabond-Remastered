@@ -81,7 +81,7 @@ You can find a summary of all relevant gameplay changes and notable mods on the 
 My Specs:
 - GPU: RTX 4090
 - CPU: R7 7800X3D
-- RAM: Corsair Vengeance LPX 32GB 3.2 GHz
+- RAM: G.Skill Trident Z5 Neo 6400 MHz
 - SSD: Samsung 970 EVO Plus 2TB
 
 The list may run on lower specs than mine, but extensive performance testing has not been conducted yet. However, at least 16GB VRAM is probably needed to have an acceptable performance.
