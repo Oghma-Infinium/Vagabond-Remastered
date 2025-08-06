@@ -1,8 +1,8 @@
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/156283">Nexus</a> |
   <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/README.md">Installation</a> |
-  <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
-  <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md">Gameplay Guide</a> |
+  <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CHANGELOG.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/vagabond-remastered-2">Load Order</a> |
   FAQ |
   <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md">Configuration</a> |
