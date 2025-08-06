@@ -43,13 +43,11 @@ The following sections detail the **supported** modifications to the list. Any o
 Vagabond Remastered is by default designed to be played with a controller. However, the list ships with a premade mouse and keyboard configuration, designed for the list. In order to activate the mouse and keyboard config, please follow the steps below:
 
  1. Navigate to the `Optionals` separator under the Optional Addons section in the **left pane** of MO2.
- 2. Activate the `Settings for mouse and keyboard gameplay` mod.
+ 2. Activate the `Settings for M&KB gameplay` mod.
  3. Boot up the game.
  4. Open settings -> controlls and reset keybinds.
  5. ???
  6. Profit!
-
-Please note that by default, the controller config does not support blocking with a weapon+spell. If you want to add this feature then you can change the **Dual Wield Blocking** keybind, however there isn't really an available bind for it.
 
 ## Performance Optimizations
 
