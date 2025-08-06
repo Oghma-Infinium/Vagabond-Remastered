@@ -87,13 +87,13 @@ A: Open the OBody menu with `;` (check or change the keybind in the OBody MCM if
 A: [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) skips the Act of the main questline. Dragons will start spawning at level 15, or earlier at certain locations. After slaying your first dragon, `Way of the Voice quest` starts.
 
 ### Q: How do I start Dac0da?
-A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md.md#quests-changes).
+A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#quests-changes).
 
 ### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
-A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md.md#quests-changes).
+A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#quests-changes).
 
 ### Q: How do I start UNSLAAD?
-A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md.md#quests-changes).
+A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#quests-changes).
 
 ### Q: How do I set up the quick wheel?
 A: There is extensive documentation on the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
