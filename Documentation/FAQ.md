@@ -64,7 +64,7 @@ A: The list is designed for third-person gameplay and first-person combat is not
 A: In racemenu when creating your character or after by opening the OBody menu with `;` (check or change the keybind in the OBody MCM if you do not have a QWERTY keyboard).
 
 ### Q: How do I start the main questline?  
-A: [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) skips the Act of the main questline. Dragons will start spawning at level 15, or earlier at certain locations. After slaying your first dragon, `Way of the Voice quest` starts.
+A: [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) skips the 1st Act of the main questline. Dragons will start spawning at level 15, or earlier at certain locations. After slaying your first dragon, `Way of the Voice quest` starts.
 
 ### Q: How do I start Dac0da?
 A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#quests-changes).
