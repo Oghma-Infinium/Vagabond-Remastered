@@ -20,7 +20,6 @@
   - [Q: Can I delete the downloads?](#q-can-i-delete-the-downloads)
   - [Q: Can I uncap the FPS?](#q-can-i-uncap-the-fps)
   - [Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?](#q-why-does-unsheating-weapons-put-me-in-third-person-can-i-play-the-list-in-first-person)
-  - [Q: I still can not figure out how to use Immersive Equipment Displays!](#q-i-still-can-not-figure-out-how-to-use-immersive-equipment-displays)
   - [Q: My character is really skinny and the weight sliders only adjust the neck and wrist, how do I change my character's body appearance?](#q-my-character-is-really-skinny-and-the-weight-sliders-only-adjust-the-neck-and-wrist-how-do-i-change-my-characters-body-appearance)
   - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
   - [Q: How do I start Dac0da?](#q-how-do-i-start-dac0da)
@@ -60,9 +59,6 @@ A: The list is capped to 61 FPS by default. While [SSE Display Tweaks](https://w
 
 ### Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?
 A: The list is designed for third-person gameplay and first-person combat is not supported at all. Do not report any first-person gameplay related issues to me, I don't care.
-
-### Q: I still can not figure out how to use Immersive Equipment Displays!
-A: Ask around the [discord](https://discord.gg/4WwqfK5yHg) then. Do not make a support thread for these issues.
 
 ### Q: My character is really skinny and the weight sliders only adjust the neck and wrist, how do I change my character's body appearance?
 A: Open the OBody menu with `;` (check or change the keybind in the OBody MCM if you do not have a QWERTY keyboard).
