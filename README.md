@@ -506,4 +506,5 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Vagabond-Remastered/blo
 - [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
 - [Sheson](https://ko-fi.com/sheson) for [DynDOLOD](https://dyndolod.info/) and associated tools.
 - [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from The Owl Archives server.
+- [Cosmofujia](www.patreon.com/fujiacosmo) for several high-quality weapon models used in the list.
 - All mod authors whose work is included, this list would not be possible without the greater modding community.
