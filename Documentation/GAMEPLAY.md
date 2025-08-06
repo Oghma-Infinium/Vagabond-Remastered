@@ -37,7 +37,7 @@ Before reading this guide, please follow the [Installation Guide](https://github
 
 This section will cover the absolute basics of the list. I suggest reading, or skimming all of the linked mod pages in this section if you are unfamiliar with the preceding mods.
 
-Before reading this section, I suggest looking over the [load order](https://loadorderlibrary.com/lists/Vagabond-Remastered) and [keybinds](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/images/Keybinds.png).
+Before reading this section, I suggest looking over the [load order](https://loadorderlibrary.com/lists/vagabond-remastered-2) and [keybinds](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/images/Keybinds.png).
 
 ## Core Overhauls
 
