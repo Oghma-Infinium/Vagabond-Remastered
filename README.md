@@ -491,7 +491,7 @@ Simply delete the Vagabond Remastered folder. Congratulations, you have uninstal
 Please check the [FAQ](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/FAQ.md) first if you have any issues.
 
 >[!TIP]
->If you encounter any bugs or issues while playing the list, the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report via Github's [Issues](https://github.com/Oghma-Infinium/Vagabond-Remastered/issues) page, using the repository's template.
+>If you encounter any bugs or issues while playing the list, the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server is preferred and will have the fastest turn around time for support.
 
 # Credits and Thanks
 
