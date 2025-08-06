@@ -417,7 +417,7 @@ This will reduce the quality of certain large objects at far away distances, how
 
 ## Gamepad Keybinds
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/main/images/controlmap.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/controlmap.png)
 
 ## Keyboard Keybinds
 
