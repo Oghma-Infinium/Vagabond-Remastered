@@ -8,7 +8,7 @@
   <a href="https://loadorderlibrary.com/lists/vagabond-remastered-2">Load Order</a> |
   <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/FAQ.md">FAQ</a> |
   Configuration |
-  <a href="https://trello.com/b/cVEDt7At/vagabond-remastered">TRELLO</a> ]
+  <a href="https://trello.com/b/cVEDt7At/vagabond-remastered">Trello</a> ]
 </p>
 
 ---
