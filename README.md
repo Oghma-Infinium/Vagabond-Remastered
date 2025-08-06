@@ -31,22 +31,21 @@
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ and .NET](#installing-microsoft-visual-c-and-net)
-    - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
     - [Setting Shader Cache Size (NVIDIA Users Only)](#setting-shader-cache-size-nvidia-users-only)
     - [Steam Setup](#steam-setup)
     - [Changing the Game Language](#changing-the-game-language)
-    - [Installing Creation Club Files](#installing-creation-club-files)
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
-    - [Downloading and Installing Vagabond Remastered](#downloading-and-installing-apostasy)
+    - [Downloading and Installing Vagabond Remastered](#downloading-and-installing-vagabond-remastered)
   - [Problems with installation](#problems-with-installation)
     - [Missing Manual Downloads](#missing-manual-downloads)
 - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
   - [Game Folder](#game-folder)
   - [Antivirus Exceptions](#antivirus-exceptions)
+  - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
   - [Post-Installation Issues and Troubleshooting](#post-installation-issues-and-troubleshooting)
-  - [Keyboard Keybinds](#keyboard-keybinds)
   - [Gamepad Keybinds](#gamepad-keybinds)
+  - [Keyboard Keybinds](#keyboard-keybinds)
 - [Playing the List](#playing-the-list)
   - [Before Launching the Game](#before-launching-the-game)
   - [Actually Playing the Game](#actually-playing-the-game)
@@ -279,7 +278,7 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
 
 ### Missing Manual Downloads
 
-Wabbajack frequently has trouble downloading mods hosted on sites other than Nexus. If you get an error such as **Missing Manual Downloads**, then read this section. You will need to manually download these files and place them in the `Resource Download Location` that is made in the [Downloading and Installing Vagabond Remastered](#downloading-and-installing-apostasy) section.
+Wabbajack frequently has trouble downloading mods hosted on sites other than Nexus. If you get an error such as **Missing Manual Downloads**, then read this section. You will need to manually download these files and place them in the `Resource Download Location` that is made in the [Downloading and Installing Vagabond Remastered](#downloading-and-installing-vagabond-remastered) section.
 
 >[!WARNING]
 > Make sure that you **DO NOT** unzip these files at all.
