@@ -87,6 +87,7 @@ The following `.ini` files must be edited **while out of game**. After tweaking 
  1. Open the `SSE FPS Stabilizer & Shadow Boost` mod under the `Optionals` separator.
  2. In ShadowBoost.ini, under the `[Settings]` Header, edit `fTargetFPS = 60.000000` (line 2) to your new Target FPS.
  2. In SSEFpsStabilizer.ini, under the `[Settings]` Header, edit `TargetFps = 60` (line 13) to your new Target FPS.
+</Details>
 
 # Changing Resolution
 
