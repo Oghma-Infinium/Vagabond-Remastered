@@ -4,8 +4,8 @@
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/156283">Nexus</a> |
   Installation |
-  <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
-  <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md">Gameplay Guide</a> |
+  <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CHANGELOG.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/vagabond-remastered-2">Load Order</a> |
   <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md">Configuration</a> |
@@ -60,7 +60,7 @@
 
 A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/vagabond-remastered-2).
 
-You can find a summary of all relevant gameplay changes and notable mods on the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/GAMEPLAY.md).
+You can find a summary of all relevant gameplay changes and notable mods on the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -431,7 +431,7 @@ This will reduce the quality of certain large objects at far away distances, how
 # Playing the List
 
 >[!WARNING]
->Before starting the list, read over the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md), [FAQ](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/FAQ.md), and [Gameplay](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/GAMEPLAY.md) pages.
+>Before starting the list, read over the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md), [FAQ](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/FAQ.md), and [Gameplay](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md) pages.
 
 ## Before Launching the Game
 
@@ -451,7 +451,7 @@ This will reduce the quality of certain large objects at far away distances, how
 
 ## Actually Playing the Game
 
- 1. Before Launching the game, read over the [Gameplay Guide](https://github.com/Oghma-Infinium/apostasy/blob/main/GAMEPLAY.md).
+ 1. Before Launching the game, read over the [Gameplay Guide](https://github.com/Oghma-Infinium/apostasy/blob/main/Documentation/GAMEPLAY.md).
  2. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
    >[!CAUTION]
    >**FOR THE LOVE OF AKATOSH, DO NOT CLICK THE UNLOCK BUTTON!**
@@ -473,7 +473,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
 >[!IMPORTANT]
->Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/CHANGELOG.md). It is suggested that you backup your saves before updating if you plan on continuing them.
+>Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CHANGELOG.md). It is suggested that you backup your saves before updating if you plan on continuing them.
 
 >[!TIP]
 >RaceMenu presets can be placed in the `[NoDelete] RaceMenu Presets` mod under the `Optionals` separator of MO2 if you want to ensure they are saved after an update.
