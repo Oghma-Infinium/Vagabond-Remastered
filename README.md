@@ -134,8 +134,11 @@ These steps are only required for installing the modlist for the first time. Add
 - Double-click `Driver Default` to the right of **Shader Cache Size** and select `10 GB`
 - Click `Apply` in the bottom right hand corner
 - Exit out of the application
+<Details>
+  
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
+</Details>
 ### Steam Setup
 
 - **If you have your Steam Library in Program Files**: read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
