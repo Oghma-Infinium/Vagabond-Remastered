@@ -72,13 +72,11 @@ You can find a summary of all relevant gameplay changes and notable mods on the 
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## System Requirements
-
-Based on both internal performance testing and user feedback, the section below outlines my *recommended* system specifications for the list. Please keep in mind that every PC is different, and these recommendations are an estimate based on available data and firsthand reports. Individual performance may vary depending on specific hardware and software configurations, as well as other system optimizations. **Troubleshooting & support for hardware related issues will not be provided.**
-
 >[!WARNING]
 >
 >- An SSD is **required** to the play the modlist.
 >- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations also **WILL NOT WORK**.
+
 
 My Specs:
 - GPU: RTX 4090
@@ -87,6 +85,8 @@ My Specs:
 - SSD: Samsung 970 EVO Plus 2TB
 
 The list may run on lower specs than mine, but extensive performance testing has not been conducted yet. However, at least 16GB VRAM is probably needed to have an acceptable performance.
+
+Individual performance may vary depending on specific hardware and software configurations, as well as other system optimizations. **Troubleshooting & support for hardware related issues will not be provided.**
 
 Downloads Size: ~232 GB  
 Install Size: ~278 GB  
