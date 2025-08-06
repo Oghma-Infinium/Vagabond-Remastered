@@ -20,7 +20,6 @@
   - [Mouse and Keyboard Support](#mouse-and-keyboard-support)
   - [Performance Optimizations](#performance-optimizations)
 - [Changing FPS Limit](#changing-fps-limit)
-- [Changing Resolution](#changing-resolution)
 - [Upscalers and FrameGen](#upscalers-and-framegen)
   - [ENB Frame Generation](#enb-frame-generation)
   - [Skyrim Upscaler](#skyrim-upscaler)
@@ -66,7 +65,8 @@ Vagabond Remastered is by default designed to be played with a controller. Howev
 Below are the list of mods you will find under the `Optionals` separator in MO2.
  1. `ENB Frame Generation`: This mod requires a GPU that supports DirectX 12.
  2. `ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA`: This mod requires a GPU that supports DirectX 12. It automatically enables correct AA type depending on your GPU brand.
- 3. `AVX 512 for HDT-SMP`: This mod contains the AVX512 version of the [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) `.dll` file compatible with the list. It is ***highly*** suggested that you try out this addon if you have a CPU that supports AVX-512 instruction. If you do not know if your CPU supports AVX-512, then google it or use a tool like HWinfo. **ENABLING THIS MOD WITH AN INCOMPATIBLE CPU WILL EITHER CRASH YOUR GAME OR BREAK ALL SMP**.
+ 3. `Force 1080p resolution`: As the name implies, this mod can be enabled to force the game run on 1080p. Intended as optional performance boost for those with 1440p or 4K screens.
+ 4. `AVX 512 for HDT-SMP`: This mod contains the AVX512 version of the [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) `.dll` file compatible with the list. It is ***highly*** suggested that you try out this addon if you have a CPU that supports AVX-512 instruction. If you do not know if your CPU supports AVX-512, then google it or use a tool like HWinfo. **ENABLING THIS MOD WITH AN INCOMPATIBLE CPU WILL EITHER CRASH YOUR GAME OR BREAK ALL SMP**.
 
 Beyond what I can easily offer, you may want to consider reducing the `iShadowMapResolution` from `2048` to `1024` or `512` in the `profiles/Vagabond Remastered/skyrimprefs.ini`.   
 
@@ -88,16 +88,6 @@ The following `.ini` files must be edited **while out of game**. After tweaking 
  2. In ShadowBoost.ini, under the `[Settings]` Header, edit `fTargetFPS = 60.000000` (line 2) to your new Target FPS.
  2. In SSEFpsStabilizer.ini, under the `[Settings]` Header, edit `TargetFps = 60` (line 13) to your new Target FPS.
 </Details>
-
-# Changing Resolution
-
-By default, Wabbajack will set the resolution in the list's `Skyrimprefs.ini` to match the native resolution of your monitor. However, Skyrim scales very poorly at resolutions above 1080p (`1920x1080`) and depending on your hardware, it might be difficult to achieve consistent FPS on higher resolutions.
-
-The preferable way to change your resolution is to find the `SSEDisplayTweaks.ini`. Open the file and navigate to the `[Render]` section and find the lines `#Resolution=1920x1080` and `#ResolutionScale=0.75`. Here you can change the resolution here to your desired resolution. After changing the resolution, remove the `#` in order for the settings to take affect when launching the game.
-
-Example for how the .ini line should look:  
-Before: `#Resolution=1920x1080`  
-After: `Resolution=2560x1440`  
 
 # Upscalers and FrameGen
 
