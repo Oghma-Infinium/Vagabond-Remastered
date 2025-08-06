@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/main/images/Banner.png)
-
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/156283">Nexus</a> |
   <a href="https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/README.md">Installation</a> |
@@ -21,6 +19,7 @@
   - [Q: Do I have to read this?](#q-do-i-have-to-read-this)
   - [Q: Can I delete the downloads?](#q-can-i-delete-the-downloads)
   - [Q: Can I uncap the FPS?](#q-can-i-uncap-the-fps)
+  - [Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?](#q-why-does-unsheating-weapons-put-me-in-third-person-can-i-play-the-list-in-first-person)
   - [Q: What mod is it that makes favorited items/potions/quest items show on my character?](#q-what-mod-is-it-that-makes-favorited-itemspotionsquest-items-show-on-my-character)
   - [Q: How do I reposition my weapons? / Can I have swords on my back?](#q-how-do-i-reposition-my-weapons--can-i-have-swords-on-my-back)
   - [Q: How do I remove the Glenmoril Witch Head from showing on my character?](#q-how-do-i-remove-the-glenmoril-witch-head-from-showing-on-my-character)
@@ -28,30 +27,22 @@
   - [Q: I still can not figure out how to use Immersive Equipment Displays!](#q-i-still-can-not-figure-out-how-to-use-immersive-equipment-displays)
   - [Q: My character is really skinny and the weight sliders only adjust the neck and wrist, how do I change my character's body appearance?](#q-my-character-is-really-skinny-and-the-weight-sliders-only-adjust-the-neck-and-wrist-how-do-i-change-my-characters-body-appearance)
   - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
-  - [Q: How do I get Brynjolf to talk to me? / How do I join the Thieves Guild?](#q-how-do-i-get-brynjolf-to-talk-to-me--how-do-i-join-the-thieves-guild)
   - [Q: How do I start Dac0da?](#q-how-do-i-start-dac0da)
   - [Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?](#q-i-cant-find-altano-in-the-windpeak-inn--how-do-i-start-vigilant)
   - [Q: How do I start UNSLAAD?](#q-how-do-i-start-unslaad)
-  - [Q: Why can't I use the Skyforge?](#q-why-cant-i-use-the-skyforge)
-  - [Q: Why does it cost a fee to join the College of Winterhold?](#q-why-does-it-cost-a-fee-to-join-the-college-of-winterhold)
   - [Q: How do I set up the quick wheel?](#q-how-do-i-set-up-the-quick-wheel)
   - [Q: I can't add a weapon/armor to the wheel.](#q-i-cant-add-a-weaponarmor-to-the-wheel)
   - [Q: Can I still use the vanilla favorites menu? I do not like the wheel.](#q-can-i-still-use-the-vanilla-favorites-menu-i-do-not-like-the-wheel)
-  - [Q: How do I feed as a vampire?](#q-how-do-i-feed-as-a-vampire)
   - [Q: Can I add/remove \[insert mod\] to the list?](#q-can-i-addremove-insert-mod-to-the-list)
   - [Q: Will you add \[insert mod\] to the list?](#q-will-you-add-insert-mod-to-the-list)
   - [Q: Will you add OStim/SexLab to the list?](#q-will-you-add-ostimsexlab-to-the-list)
 - [Known Issues](#known-issues)
   - [Failed to create download folder!](#failed-to-create-download-folder)
   - [When leveling up skills, new perk nodes do not get highlighted until exiting and re-entering the perk menu!](#when-leveling-up-skills-new-perk-nodes-do-not-get-highlighted-until-exiting-and-re-entering-the-perk-menu)
-  - [Dark Brotherhood abducted me when trying to start the Helgen Intro!](#dark-brotherhood-abducted-me-when-trying-to-start-the-helgen-intro)
-  - [Wicked Game Quest (Val Serano) bugged out because of the Dark Brotherhood trying to abduct me!](#wicked-game-quest-val-serano-bugged-out-because-of-the-dark-brotherhood-trying-to-abduct-me)
   - [Night Eye effects do not work well!](#night-eye-effects-do-not-work-well)
-  - [Carriage Horse in Solitude is partially in the wall!](#carriage-horse-in-solitude-is-partially-in-the-wall)
   - [Not receiving Courier Letter from Dark Brotherhood!](#not-receiving-courier-letter-from-dark-brotherhood)
   - [Being randomly attacked or arrested by NPCs!](#being-randomly-attacked-or-arrested-by-npcs)
   - [\[Insert Male NPC\] looks like he has tits / has a really big chest and arms!](#insert-male-npc-looks-like-he-has-tits--has-a-really-big-chest-and-arms)
-  - [Can't attack with Left Hand in First Person (Dual Wield or Unarmed)!](#cant-attack-with-left-hand-in-first-person-dual-wield-or-unarmed)
   - [Widgets overlap TrueHUD Attributes Widget!](#widgets-overlap-truehud-attributes-widget)
   - [Stuck in slow motion!](#stuck-in-slow-motion)
   - [Can't put an item into Wheeler!](#cant-put-an-item-into-wheeler)
@@ -69,16 +60,19 @@ A: No, but if you ask me any question on this document, I will refer you back to
 A: You can delete or move the download folder after Wabbajack is finished. However, when redownloading or updating the list Wabbajack will redownload *all* files that it can not find proper matches for, so consider this if you have slow internet, don't have nexus premium, or value your time in general.
 
 ### Q: Can I uncap the FPS?
-A: The list is capped to 61 FPS by default. While [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) adjusts timing values based on framerate to prevent physics from spazzing out at high framerates, some mods may use havok code that still rely on a ~60 FPS cap to prevent physics-based issues. If you wish to uncap the FPS, then you can do so in the ENB menu **AND** in the `SSEDisplayTweaks.ini` file in the `[Performance] SSE Display Tweaks - Modified` mod.
+A: The list is capped to 61 FPS by default. While [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) adjusts timing values based on framerate to prevent physics from spazzing out at high framerates, some mods may use havok code that still rely on a ~60 FPS cap to prevent physics-based issues. If you wish to uncap the FPS, then you can do so in the ENB menu by prressing `END` in-game.
+
+### Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?
+A: The list is designed for third-person gameplay and first-person combat is not supported at all. Do not report any first-person gameplay related issues to me, I don't care.
 
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
-A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Left Shift+Backspace` to customize what you want to show and what you don't want to show.
+A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `F12` to customize what you want to show and what you don't want to show.
 
 ### Q: How do I reposition my weapons? / Can I have swords on my back?
-A: Open the [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001) GUI with `Left Shift + Backspace` and reposition your equipment.
+A: Open the [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001) GUI with `F12` and reposition your equipment.
 
 ### Q: How do I remove the Glenmoril Witch Head from showing on my character?
-A: Open the [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001) GUI with `Left Shift + Backspace`, under `Display Manager` click View > Custom items, look for `Quest - Left Skull`, scroll down to `Equipment overrides`, expand `Glenmoril Witch Head`, and under `General` tick the box next to `Disabled`.
+A: Open the [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001) GUI with `F12`, under `Display Manager` click View > Custom items, look for `Quest - Left Skull`, scroll down to `Equipment overrides`, expand `Glenmoril Witch Head`, and under `General` tick the box next to `Disabled`.
 
 ### Q: How do I remove [Insert Quest Item] from showing on my character?
 A: I'm not going to write a QA for *EVERY SINGLE* quest item that is displayed via IED. You can figure it out based on the instructions above.
@@ -90,10 +84,7 @@ A: Ask around the [discord](https://discord.gg/4WwqfK5yHg) then. Do not make a s
 A: Open the OBody menu with `;` (check or change the keybind in the OBody MCM if you do not have a QWERTY keyboard).
 
 ### Q: How do I start the main questline?  
-A: Go to the Helgen Inn, speak to Matlara, and select the dialogue option `"Give me your best room. (X gold) (Start Intro)"` in order to start the intro sequence.
-
-### Q: How do I get Brynjolf to talk to me? / How do I join the Thieves Guild?
-A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/apostasy/blob/main/GAMEPLAY.md#quests-changes). 
+A: [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) skips the Act of the main questline. Dragons will start spawning at level 15, or earlier at certain locations. After slaying your first dragon, `Way of the Voice quest` starts.
 
 ### Q: How do I start Dac0da?
 A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/apostasy/blob/main/GAMEPLAY.md#quests-changes).
@@ -104,12 +95,6 @@ A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/apostasy/blob/mai
 ### Q: How do I start UNSLAAD?
 A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/apostasy/blob/main/GAMEPLAY.md#quests-changes).
 
-### Q: Why can't I use the Skyforge?
-A: In order to use the Skyforge you must ask [Eorlund](https://en.uesp.net/wiki/Skyrim:Eorlund_Gray-Mane) for permission. You will be allowed to use the forge if you are a member of the Circle or have completed [Missing in Action](https://en.uesp.net/wiki/Skyrim:Missing_In_Action).
-
-### Q: Why does it cost a fee to join the College of Winterhold?
-A: Because I needed to introduce something approximating Student Loans to the list somehow.
-
 ### Q: How do I set up the quick wheel?
 A: There is extensive documentation on the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
 
@@ -117,10 +102,7 @@ A: There is extensive documentation on the [mod page](https://www.nexusmods.com/
 A: This is usually caused by an alternate start mod that adds random items to your inventory. This only happens to the set of starting items you have. To fix this issue, simply drop the item onto the ground and pick it again.
 
 ### Q: Can I still use the vanilla favorites menu? I do not like the wheel.
-A: If you're on keyboard press `G` to open up the vanilla favorites menu.
-
-### Q: How do I feed as a vampire?
-A: Vampire feeding is impacted by [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/122597), and takes advantage of [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273) instead of dealing with several message box popups. Hold `Shift` while on keyboard to get the feeding option.
+A: If you're on controller press `LT + start` to open up the vanilla favorites menu.
 
 ### Q: Can I add/remove [insert mod] to the list?
 A: Yes, but if you have to ask, no. Also adding or removing a mod would void any official support.
@@ -141,23 +123,9 @@ Solution(s)
 Solution(s)
  1. This is a bug with advancing skills while inside of an active menu. I won't fix this, it's a minor visual bug, the perks can still be selected even if you don't exit and re-enter menu.
 
-### Dark Brotherhood abducted me when trying to start the Helgen Intro!
-> [!NOTE]  
-> This should no longer be an issue as of version 2.1+
-Solution(s)
- 1. Don't be stupid. Reload a save before starting the intro and make sure that you have been abducted BEFORE trying to start the Helgen Intro. 
-
-### Wicked Game Quest (Val Serano) bugged out because of the Dark Brotherhood trying to abduct me!
-Solution(s)
- 1. See above.
-
 ### Night Eye effects do not work well!
 Solution(s)
  1. This is an issue with IMODs and ENB not playing together nicely, unfortunately fixing Night Eye effects would require us to rewrite a large amount of the shader code for parts of the ENB used by the list, and we have decided that it is not worthwhile to do this.
-
-### Carriage Horse in Solitude is partially in the wall!
-Solution(s)
- 1. This bug isn't worthy of my time and I have already tried to fix it. For some reason that is beyond my current comprehension, he does not move after being moved in the CK. I will not waste more brain power and time trying to figure out the cause of this very very minor issue.
 
 ### Not receiving Courier Letter from Dark Brotherhood!
 Solution(s)
@@ -186,10 +154,6 @@ Solution(s)
 ### Can't put an item into Wheeler!
 Solution(s)
  1. Drop the item and pick it back up, this is usually an issue with items that are added via a script not properly initializing as a reference. 
-
-### Getting "Failed to start Dialogue Quest" error in the start room!
-Solution(s)
- 1. This issue only occurs if you (A.) Start a New Game by backing out of an existing save into main menu *without* restarting the game entirely - this breaks an incredible amount of scripts as they do not properly reset; or (B.) Modified the list and have conflicts with the scripts that Alternate Perspective edits.
 
 ## Known Crashes
 
