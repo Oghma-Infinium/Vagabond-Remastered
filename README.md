@@ -138,12 +138,8 @@ These steps are only required for installing the modlist for the first time. Add
 
 ### Steam Setup
 
->[!WARNING]
->If you have your Steam Library in Program Files, read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
-
- 1. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
- 2. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game.`
- 3. Please ensure you follow the steps outlined in the [Installing Creation Club Files](#installing-creation-club-files) section. **DO NOT SKIP THIS STEP OR YOUR INSTALL WILL FAIL.**
+- **If you have your Steam Library in Program Files**: read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
+- **Disabling Steam overlay**: right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game.`
 
 ### Changing the Game Language
 
