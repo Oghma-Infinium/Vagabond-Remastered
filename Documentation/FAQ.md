@@ -108,10 +108,10 @@ A: If you're on controller press `LT + start` to open up the vanilla favorites m
 A: Yes, but if you have to ask, no. Also adding or removing a mod would void any official support.
 
 ### Q: Will you add [insert mod] to the list?
-A: Use the `#apostasy-requests` channel on discord if you want to suggest mods.
+A: Use the `#vagabond-remastered-requests` channel on discord (when it is available) if you want to suggest mods.
 
 ### Q: Will you add OStim/SexLab to the list?
-A: If you want to commission me to do so, then maybe. Otherwise, no.
+A: No
 
 ## Known Issues
 
