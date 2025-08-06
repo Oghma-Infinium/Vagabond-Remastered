@@ -20,7 +20,7 @@
   - [Q: Can I delete the downloads?](#q-can-i-delete-the-downloads)
   - [Q: Can I uncap the FPS?](#q-can-i-uncap-the-fps)
   - [Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?](#q-why-does-unsheating-weapons-put-me-in-third-person-can-i-play-the-list-in-first-person)
-  - [Q: My character is really skinny and the weight sliders only adjust the neck and wrist, how do I change my character's body appearance?](#q-my-character-is-really-skinny-and-the-weight-sliders-only-adjust-the-neck-and-wrist-how-do-i-change-my-characters-body-appearance)
+  - [Q: How do I change my character's body appearance?](#q-how-do-i-change-my-characters-body-appearance)
   - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
   - [Q: How do I start Dac0da?](#q-how-do-i-start-dac0da)
   - [Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?](#q-i-cant-find-altano-in-the-windpeak-inn--how-do-i-start-vigilant)
@@ -60,8 +60,8 @@ A: The list is capped to 61 FPS by default. While [SSE Display Tweaks](https://w
 ### Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?
 A: The list is designed for third-person gameplay and first-person combat is not supported at all. Do not report any first-person gameplay related issues to me, I don't care.
 
-### Q: My character is really skinny and the weight sliders only adjust the neck and wrist, how do I change my character's body appearance?
-A: Open the OBody menu with `;` (check or change the keybind in the OBody MCM if you do not have a QWERTY keyboard).
+### Q: How do I change my character's body appearance?
+A: In racemenu when creating your character or after by opening the OBody menu with `;` (check or change the keybind in the OBody MCM if you do not have a QWERTY keyboard).
 
 ### Q: How do I start the main questline?  
 A: [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) skips the Act of the main questline. Dragons will start spawning at level 15, or earlier at certain locations. After slaying your first dragon, `Way of the Voice quest` starts.
