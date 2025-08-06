@@ -119,10 +119,6 @@ Solution(s)
 Solution(s)
  1. Change their OBody preset, do not report this as an issue to me, I'm tired of hearing about it.
 
-### Can't attack with Left Hand in First Person (Dual Wield or Unarmed)!
-Solution(s)
- 1. It works fine if you attack with right-hand first, otherwise right click (left-hand) will be treated as a "Block" input.
-
 ### Widgets overlap TrueHUD Attributes Widget!
 Solution(s)
  1. Seems to be a rare bug and it's fixed on game restart, not sure of cause.
