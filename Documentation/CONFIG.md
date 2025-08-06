@@ -68,7 +68,7 @@ Below are the list of mods you will find under the `Optionals` separator in MO2.
  2. `ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA`: This mod requires a GPU that supports DirectX 12. It automatically enables correct AA type depending on your GPU brand.
  3. `AVX 512 for HDT-SMP`: This mod contains the AVX512 version of the [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) `.dll` file compatible with the list. It is ***highly*** suggested that you try out this addon if you have a CPU that supports AVX-512 instruction. If you do not know if your CPU supports AVX-512, then google it or use a tool like HWinfo. **ENABLING THIS MOD WITH AN INCOMPATIBLE CPU WILL EITHER CRASH YOUR GAME OR BREAK ALL SMP**.
 
-Beyond what I can easily offer, you may want to consider reducing the `iShadowMapResolution` from `2048` to `1024` or `512` in the `profiles/Vagabondskyrimprefs.ini`.   
+Beyond what I can easily offer, you may want to consider reducing the `iShadowMapResolution` from `2048` to `1024` or `512` in the `profiles/Vagabond Remastered/skyrimprefs.ini`.   
 
 >[!CAUTION]
 >**DO NOT** use tools such as [Bethini](https://www.nexusmods.com/site/mods/631)! The `.ini` files have already been extensively tweaked, and many of the preconfigured settings set by these tools are not optimized for the list. 
