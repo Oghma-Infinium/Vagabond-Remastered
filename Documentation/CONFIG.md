@@ -124,6 +124,7 @@ Thanks to Wabbajack, MCMs will come pre-configured with the intended settings. T
 >[!WARNING]
 >Changing MCM Settings in any MCM that is not listed below is considered a list modification!
 
+ - `Skyrim Unbound`: Can change various settings related to start. Choosing non-dragonborn is not recommended. Also, **do NOT choose vampire or werewolf start**, these cause stuff to break.
  - `Better Third Person Selection`: ???
  - `CollisionReset`: Change the keybind for resetting SMP physics (Default: `F10`). 
  - `Quick Beri`: Can change lantern hotkey (Default: `L` or long-press activate) and other related settings.
