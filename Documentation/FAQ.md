@@ -41,7 +41,6 @@
   - [Widgets overlap TrueHUD Attributes Widget!](#widgets-overlap-truehud-attributes-widget)
   - [Stuck in slow motion!](#stuck-in-slow-motion)
   - [Can't put an item into Wheeler!](#cant-put-an-item-into-wheeler)
-  - [Getting "Failed to start Dialogue Quest" error in the start room!](#getting-failed-to-start-dialogue-quest-error-in-the-start-room)
 - [Known Crashes](#known-crashes)
   - [Wheeler.dll Crash!](#wheelerdll-crash)
   - [Crashing after loading a save!](#crashing-after-loading-a-save)
