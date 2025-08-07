@@ -22,6 +22,7 @@
   - [Changes to Leveling](#changes-to-leveling)
   - [Perk Point Acquisition](#perk-point-acquisition)
 - [New and Notable Mechanics](#new-and-notable-mechanics)
+- [Lockpicking Overhaul](#lockpicking-overhaul)
 - [Quests Changes](#quests-changes)
 - [New Armors and Weapons](#new-armors-and-weapons)
 - [Content Additions and Improvements](#content-additions-and-improvements)
@@ -181,6 +182,67 @@ Your real, re-calculated resistances can be seen in the magic effect menu.
 The list uses [Know Your Enemy 2](https://www.nexusmods.com/skyrimspecialedition/mods/93258) to introduce resistances and weaknesses depending on target type. 
 Fairly moderate Level 2 intensity is used, meaning the mod only has minor impact on real combat and can be considered an optimization feature or an immersion mechanic.
 Most mod-added creatures also follow the KYE2 rules through patches, but some are not fully integrated *yet*.
+
+# Lockpicking Overhaul
+
+Lockpicking in Vagabond Remastered is no longer done with a minigame, it’s now a dice roll-based system driven by your character’s skill and gear. This new system, powered by the [Auto-Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/59027) mod, removes the vanilla lockpicking minigame entirely and replaces it with a RPG-style dice roll mechanic. When attempting to pick a lock, the game performs a dice roll: you roll a number between 0 and 24. This number is then modified by your Lockpicking skill level, Security tree perks, and any gear, enchantments, or potions that affect lockpicking. This final result is compared to a lock's difficulty threshold. If your final roll meets or exceeds that threshold, the lock opens. Otherwise, it remains locked.
+
+<Details>
+<summary>Detailed explanation</summary>
+
+1. Base Roll
+Every time you try to pick a lock, a random number between 0 and 24 is rolled.
+
+2. Skill-Based Bonus: your Security skill gives a flat bonus of +1 for every 10 skill levels.
+For example:
+-	At Security 50 → +5
+-	At Security 100 → +10
+- This means that at max skill, your rolls will range from 10 to 34.
+
+3. Perk-Based Bonus
+-	The first perk gives +2 at Rank 1 and another +2 at Rank 2.
+-	The Locksmith perk grants an additional +4.
+- With all perks and max skill, your dice roll can reach a range of 18 to 42.
+
+4. Percentage Modifiers
+Any percentage bonuses to lockpicking from enchantments, potions, etc. multiply your final roll.
+For example:
+-	Final roll = 20
+-	With a 25% potion boost → 20 × 1.25 = 25
+
+Lock Difficulty Thresholds: each lock has a minimum required score that your final modified roll must meet or exceed.
+
+| Lock Level | Required Final Roll |
+| ------------- | ------------- |
+| Novice | 24 |
+| Apprentice | 28 |
+| Adept | 32 |
+| Expert | 36 |
+| Master | 40 |
+
+Even though these values may seem relatively close, in practice the gaps make a considerable difference.
+
+If your maximum possible final roll cannot exceed a lock's threshold, it’s impossible to unlock it, no matter how many times you try.
+
+This means:
+- Without perks or gear, you can only open Novice locks (and only if the roll is lucky enough).
+- Higher-tier locks require investment in Security skill, perks, consumables and gear.
+
+Example:
+- Security skill: 100 → +10
+- Perks: +8 total
+- Base roll: 0–24 → Now 18–42
+- Potion: +25% → Final roll range: 23 – 53
+
+In this case, even Master locks (40) are reliably unlockable.
+
+Tips:
+- Early Game: Stick to Novice or Apprentice locks unless you have potions or enchanted gear.
+- Security Tree: Invest in early perks to expand your possible roll range quickly.
+- Use Potions & Enchants: These percentage boosts scale with your roll, making them very powerful.
+- You can check your roll potential in Autolockpicking MCM. If your max potential roll is below a lock's threshold, you simply can’t open it yet.
+
+</Details>
 
 # Quests Changes
 
