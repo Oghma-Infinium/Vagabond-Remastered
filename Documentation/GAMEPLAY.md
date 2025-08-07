@@ -51,7 +51,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
    - Atronach: Your Magicka is increased by 200, and you have a 20% chance to absorb the Magicka from incoming spells. However, You can not regenerate Magicka in combat and potions that fortify or restore Magicka are half as effective.
    - Lady: Your Health, Magicka and Stamina are increased by 25. When you fall below half Health, Magicka, or Stamina, you gain 50% extra Health, Magicka, or Stamina Regeneration.
    - Lord: Upon receiving a melee hit your melee attacks restore Health for 5 seconds. However, your Fire and Poison Resistance is reduced by 25%.
-   - Lover: Your Stamina regenerates twice as fast, but you take 25% extra damage while power attacking or drawing a bow.
+   - Lover: Your Stamina regenerates twice as fast, but you take 20% extra attack damage while power attacking or drawing a bow.
    - Mage: Your Magicka is increased by 50, and your spells and enchantments cost 10% less.
    - Ritual: You can summon or reanimate one additional minion, but your summoning and reanimation spells last half as long.
    - Serpent: Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for 50% more hits. 
@@ -59,7 +59,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
    - Steed: Your Carry Weight is increased by 100. Sprint attacks deal 15% more and power attacks 10% more damage. However, you deal half as much physical damage and spells cost twice as much when you run out of Stamina.
    - Thief: Your Stamina is increased by 50, you deal 25% extra damage with sneak attacks, and you find more gold in your travels.
    - Tower: Your Armor Rating is increased by 100, and you reflect 100% of incoming melee damage back at your attacker.
-   - Warrior: Your Health is increased by 50, and you resist 10% of incoming weapon and spell damage. However, your attacks consume 15% more Stamina.
+   - Warrior: Your Health is increased by 50, and you resist 10% of incoming weapon and spell damage. However, your attacks consume 10% more Stamina.
    </Details>
  - Vagabond Remastered uses Archon - Faiths of Tamriel, aljo's amazing custom-made religion mod. Read more about it [here](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md#archon---faiths-of-tamriel)!
  - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408/) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul the Vampire and Werewolf systems.
