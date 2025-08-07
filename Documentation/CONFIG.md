@@ -132,7 +132,7 @@ Thanks to Wabbajack, MCMs will come pre-configured with the intended settings. T
  - `LOD Reload Bug Fix`: **(DEBUG ONLY)** Can fix unloaded LODs.
  - `moreHUD`: Can adjust certain widgets on the HUD.
  - `OBody NG`: Change the keybind for the OBody morphs menu (Default: `;`). **DO NOT ENABLE PERFORMANCE MODE!**
- - `One Click Power Attack`: Change the keybind for Power Attacks (Default: `RT`).
+ - `One Click Power Attack`: Change the keybind for Power Attacks. Note that the dual power attack button does nothing with MCO.
  - `Photo Mode`: Adjust the keybinds and settings for [po3's Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701).
  - `Precision`: Can enable or disable Hitstop (Default: `Enabled`).
  - `Quest Journal Limit Bug Fixer`: **(DEBUG ONLY)** Refreshes all active quest objectives.
@@ -144,7 +144,7 @@ Thanks to Wabbajack, MCMs will come pre-configured with the intended settings. T
      - Restore Health = `D-pad left`  
      - Restore Stamina = `LT + D-pad left`  
      - Restore Magicka = `D-pad right`  
- - `TK Dodge`: Change the hotkey for Dodging (Default: tap sprint or `C`).
+ - `TK Dodge`: Change the hotkey for Dodging.
  - `True Directional Movement`: Change the target lock hotkey (Default: `Right stick press`).
  - `TrueHUD`: Adjust core components of the HUD.
 
