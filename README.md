@@ -420,6 +420,9 @@ This will reduce the quality of certain large objects at far away distances, how
 
 ## Gamepad Keybinds
 
+>[!TIP]
+> Vagabond Remastered is by default designed to be played on a controller.
+
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/controlmap.png)
 
 ## Keyboard Keybinds
