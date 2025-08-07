@@ -41,7 +41,7 @@ The following sections detail the **supported** modifications to the list. Any o
 
 Vagabond Remastered is by default designed to be played with a controller. However, the list ships with a premade mouse and keyboard configuration, designed for the list. In order to activate the mouse and keyboard config, please follow the steps below:
 
- 1. Navigate to the `Optionals` separator under the Optional Addons section in the **left pane** of MO2.
+ 1. Navigate to the `OPTIONAL ADDONS` separator under the Optional Addons section in the **left pane** of MO2.
  2. Activate the `Settings for M&KB gameplay` mod.
  3. Boot up the game.
  4. Open settings -> controlls and reset keybinds.
@@ -62,7 +62,7 @@ Vagabond Remastered is by default designed to be played with a controller. Howev
 </Details>
 
 
-Below are the list of mods you will find under the `Optionals` separator in MO2.
+Below are the list of mods you will find under the `OPTIONAL ADDONS` separator in MO2.
  1. `ENB Frame Generation`: This mod requires a GPU that supports DirectX 12.
  2. `ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA`: This mod requires a GPU that supports DirectX 12. It automatically enables correct AA type depending on your GPU brand.
  3. `Force 1080p resolution`: As the name implies, this mod can be enabled to force the game run on 1080p. Intended as optional performance boost for those with 1440p or 4K screens. **DOES NOT WORK TOGETHER WITH FRAME GENERATION, WILL CAUSE A BLACK SCREEN**
@@ -84,7 +84,7 @@ The following `.ini` files must be edited **while out of game**. After tweaking 
 <Details>
 <summary>SSE FPS Stabilizer & Shadow Boost</summary>
 
- 1. Open the `SSE FPS Stabilizer & Shadow Boost` mod under the `Optionals` separator.
+ 1. Open the `SSE FPS Stabilizer & Shadow Boost` mod under the `OPTIONAL ADDONS` separator.
  2. In ShadowBoost.ini, under the `[Settings]` Header, edit `fTargetFPS = 60.000000` (line 2) to your new Target FPS.
  2. In SSEFpsStabilizer.ini, under the `[Settings]` Header, edit `TargetFps = 60` (line 13) to your new Target FPS.
 </Details>
