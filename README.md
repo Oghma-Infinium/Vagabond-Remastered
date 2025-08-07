@@ -28,7 +28,6 @@
 
 - [Introduction](#introduction)
   - [System Requirements](#system-requirements)
-  - [Video Guide](#video-guide)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ and .NET](#installing-microsoft-visual-c-and-net)
@@ -428,7 +427,15 @@ This will reduce the quality of certain large objects at far away distances, how
 >[!WARNING]
 >Keyboard and mouse setup may need additional setup in order to work as intended. Please refer to the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#mouse-and-keyboard-support) page.
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/main/images/Keybinds.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/keyboardmap.png)
+
+Modifier keys 1 and 2 are used with the quick potion key. Health by default, stamina with modifier 1 and magicka with modifier 2.
+
+Mouse controls
+- Left click: right hand / attack
+- Right click: left hand / block
+- Middle mouse: target lock
+- Mousewheel: zoom camera
 
 # Playing the List
 
