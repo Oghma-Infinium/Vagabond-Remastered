@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/main/images/Banner.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/Vagabond%20Remastered%20Header%20PNG.png)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/156283">Nexus</a> |

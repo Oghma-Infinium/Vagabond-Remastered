@@ -1,5 +1,4 @@
-
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/Vagabond%20Banner%20PNG.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/Vagabond%20Remastered%20Banner%20PNG.png)
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/156283">Nexus</a> |
@@ -427,14 +426,14 @@ This will reduce the quality of certain large objects at far away distances, how
 >[!TIP]
 > Vagabond Remastered is by default designed to be played on a controller.
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/controlmap.png?token=GHSAT0AAAAAADB3XEEHM6RHDH3D5M65KVME2EW6BBA)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/controlmap.png)
 
 ## Keyboard Keybinds
 
 >[!IMPORTANT]
 >Keyboard and mouse setup may need additional setup in order to work as intended. Please refer to the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#mouse-and-keyboard-support) page.
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/keyboardmap.png?token=GHSAT0AAAAAADB3XEEGE73YQFZ5E3PSTBY22EW6BHQ)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/keyboardmap.png)
 
 Modifier keys 1 and 2 are used with the quick potion key. Health by default, stamina with modifier 1 and magicka with modifier 2.
 
