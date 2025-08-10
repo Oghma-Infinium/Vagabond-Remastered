@@ -185,7 +185,7 @@ Downloading and installing Vagabond Remastered can take a while depending on you
 To install Vagabond Remastered, complete the following steps.
 
  1. Open Wabbajack and click `Browse Modlists`
- 2. Pick the **Skyrim Special Edition** option from the game filter drop-down box (or use the search bar to find the modlist).
+ 2. Tick on the `Non-Featured` check box and pick the **Skyrim Special Edition** option from the game filter drop-down box. Alternatively you can simply use the search bar to find the modlist.
  3. Press the download arrow on the Vagabond Remastered UI card and wait for it to download
  4. Set the `Modlist Installation Location` to a folder such as `C:\Vagabond Remastered`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
@@ -423,14 +423,14 @@ This will reduce the quality of certain large objects at far away distances, how
 >[!TIP]
 > Vagabond Remastered is by default designed to be played on a controller.
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/controlmap.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/controlmap.png?token=GHSAT0AAAAAADB3XEEHM6RHDH3D5M65KVME2EW6BBA)
 
 ## Keyboard Keybinds
 
 >[!IMPORTANT]
 >Keyboard and mouse setup may need additional setup in order to work as intended. Please refer to the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#mouse-and-keyboard-support) page.
 
-![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/keyboardmap.png)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/keyboardmap.png?token=GHSAT0AAAAAADB3XEEGE73YQFZ5E3PSTBY22EW6BHQ)
 
 Modifier keys 1 and 2 are used with the quick potion key. Health by default, stamina with modifier 1 and magicka with modifier 2.
 
@@ -482,7 +482,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`
 - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
 - In some rare cases, a fourth number will be used to designate a `HOTFIX`. These will only be utilized in cases where the list is recompiled with no other changes.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
+Updating is like installing the list. Simply download the new Wabbajack file, pick the same paths, and Wabbajack will update the list for you. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
 >[!IMPORTANT]
 >Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CHANGELOG.md). It is suggested that you backup your saves before updating if you plan on continuing them.
