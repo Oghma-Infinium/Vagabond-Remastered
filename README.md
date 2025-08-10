@@ -466,7 +466,7 @@ Mouse controls
 
 ## Actually Playing the Game
 
- 1. Before Launching the game, read over the [Gameplay Guide](https://github.com/Oghma-Infinium/apostasy/blob/main/Documentation/GAMEPLAY.md).
+ 1. Before Launching the game, read over the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md).
  2. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
    >[!CAUTION]
    >**FOR THE LOVE OF AKATOSH, DO NOT CLICK THE UNLOCK BUTTON!**
