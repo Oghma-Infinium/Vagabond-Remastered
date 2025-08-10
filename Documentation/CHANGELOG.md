@@ -22,7 +22,7 @@
 <details>
 <summary>Beta Versions</summary>
 
-- [0.3.4](#034) Release Date: August 11, 2025
+- [0.3.4](#034) Release Date: August 10, 2025
 
 ### 0.3.4
 
