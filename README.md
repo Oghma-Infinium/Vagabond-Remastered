@@ -286,11 +286,15 @@ Wabbajack frequently has trouble downloading mods hosted on sites other than Nex
 
 Google Drive Files:
 
-- []()
+- [[full_inu] Armor Pack 02 SSE](https://drive.google.com/u/0/uc?id=12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k&export=download)
+- [MCO Sprint Attack Stamina Fix](https://drive.google.com/file/d/1qY8Xe8LAF63m3UVJM58xVj1TOTd3uR-l)
+- [Olivier Kenjutsu Battleaxe MCO 1.0](https://drive.google.com/file/d/1f6y_L3TYrrhqgitPZqBXMdvNgtZAdQwp)
 
 Patreon Files: (These are free to download)
 
-- []()
+- [SC Horse Replacer](https://www.patreon.com/file?h=35289631&i=5312963)
+- [SC Horse SSE patch](https://www.patreon.com/file?h=35289631&i=5428357)
+- [Eskyrim MCO installer 1.2](https://www.patreon.com/file?h=68233071&i=11449877)
 
 # Post-Installation and Optional Setup
 
