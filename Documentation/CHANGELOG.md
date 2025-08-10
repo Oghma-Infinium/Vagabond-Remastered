@@ -22,9 +22,9 @@
 <details>
 <summary>Beta Versions</summary>
 
-- [0.3.0](#030) Release Date: August 11, 2025
+- [0.3.4](#034) Release Date: August 11, 2025
 
-### 0.3.0
+### 0.3.4
 
 Key Info
 
