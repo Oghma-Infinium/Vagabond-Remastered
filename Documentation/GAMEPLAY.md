@@ -326,7 +326,7 @@ The list features many new weapon types, which are given unique movesets differe
 
 # Content Additions and Improvements
 
-Vagabond Remastered comes with several new quest mods and expansions for several vanilla quests or quest lines. These content additions and improvements will expand on the game, offering new adventures, routes, and companions to explore and engage with!
+Vagabond Remastered comes with several new quest mods and expansions for several vanilla quests or quest lines. These content additions and improvements will expand on the game, offering new adventures to explore and engage with!
 
 ## New Quests
 
