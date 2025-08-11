@@ -236,7 +236,7 @@ Example:
 - Base roll: 0–24 → Now 18–42
 - Potion: +25% → Final roll range: 23 – 53
 
-In this case, even Master locks (40) are reliably unlockable.
+In this case, even Master locks (38) are reliably unlockable.
 
 Tips:
 - Early Game: Stick to Novice or Apprentice locks unless you have potions or enchanted gear.
