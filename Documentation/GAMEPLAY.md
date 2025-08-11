@@ -147,6 +147,7 @@ Vagabond Remastered takes a mixed approach to the acquisition of perks.
 
 - By default health regeneration is reduced by -100%, effectively negating natural health regeneration. All bonuses for health regeneration still remain as affective as vanilla.
 - Stamina and magicka regeneration are reduced by -50% during combat to encourage more careful resource management and preparation. Like health regeneration, all bonuses remain as affective as vanilla.
+- Exhaustion system: when you run out of stamina, enter exhaustion state for 10 seconds or until you recover at least half of your max stamina. During exhaustion, weapon damage, poise damage and block efficiency is reduced by 50% and movement speed by 25%. NPCs are also affected by exhaustion.
 - Hold block for 3 seconds without letting go of the button to gain +200% stamina regeneration boost until you let go. A mechanic inspired by Sekiro: Shadows Die Twice.
 - Enemies take 25% more damage from melee attacks when struck from behind.
 - Boss-type enemies become enraged during power attacks when above 25% stamina, taking drastically less physical and poise damage. Enrage is indicated by a faint red glow.
