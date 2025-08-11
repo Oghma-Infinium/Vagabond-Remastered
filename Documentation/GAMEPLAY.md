@@ -216,18 +216,18 @@ Lock Difficulty Thresholds: each lock has a minimum required score that your fin
 
 | Lock Level | Required Final Roll |
 | ------------- | ------------- |
-| Novice | 24 |
-| Apprentice | 28 |
-| Adept | 32 |
-| Expert | 36 |
-| Master | 40 |
+| Novice | 20 |
+| Apprentice | 23 |
+| Adept | 27 |
+| Expert | 32 |
+| Master | 38 |
 
 Even though these values may seem relatively close, in practice the gaps make a considerable difference.
 
 If your maximum possible final roll cannot exceed a lock's threshold, it’s impossible to unlock it, no matter how many times you try.
 
 This means:
-- Without perks or gear, you can only open Novice locks (and only if the roll is lucky enough).
+- Without perks or gear, you can only open Novice and Apprentice locks (and only if the roll is lucky enough).
 - Higher-tier locks require investment in Security skill, perks, consumables and gear.
 
 Example:
