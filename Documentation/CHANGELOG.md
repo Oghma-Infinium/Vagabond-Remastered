@@ -34,6 +34,7 @@ Key Info
 - Fixed clipping **ASS** on Penelope outfit worn by some female NPCs
 - Fixed male character underwear and feet having messed up textures
 - Reduced sprint stamina cost
+- Removed jumping stamina cost
 - Reduced stamina regen delay
 - Added [No Stamina Consumption Outside Combat](https://www.nexusmods.com/skyrimspecialedition/mods/77026)
 - Normal attacks can now be initiated while at zero stamina
