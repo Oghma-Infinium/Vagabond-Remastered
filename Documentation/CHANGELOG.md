@@ -27,6 +27,8 @@
 
 Key Info
 
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
 - Fixed missing Timeless Elegance mesh, causing some NPCs like Carlotta Valentia to have invisible body
 - Fixed missing textures on Wind Ruler armor, worn by Uthgerd the Unbroken
 - Fixed clipping **ASS** on Penelope outfit worn by some female NPCs
@@ -40,6 +42,7 @@ Key Info
 - Nerfed NPC wards
 - Add missing TrueHUD boss bars to some dungeon bosses
 - Added [SSE FPS Stabilizer](https://www.nexusmods.com/skyrimspecialedition/mods/38438) optional file which was missing by mistake
+- Removed Unslaad - Dragonslayer addon because it broke reward for killing a boss.
 - Updated [Temples of the Ancients Complex Material](https://www.nexusmods.com/skyrimspecialedition/mods/127371) to fix weirdly dark looking textures
 
 ### 0.3.4
