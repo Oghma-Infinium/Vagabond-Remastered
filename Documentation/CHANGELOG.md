@@ -17,10 +17,8 @@
 
  - [Beta Versions](#beta-versions)
 
-## Beta Versions
 
-<details>
-<summary>Beta Versions</summary>
+## Beta Versions
 
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
@@ -50,5 +48,3 @@ Key Info
 
 - Initial Release.
 - Open Beta.
-
-</details>
