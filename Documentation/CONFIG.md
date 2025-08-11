@@ -131,7 +131,7 @@ Thanks to Wabbajack, MCMs will come pre-configured with the intended settings. T
  - `EVG CLAMBER`: Change the EVG Clamber settings (Default: `Balanced`). This isn't recommended to be tampered with but you can.
  - `LOD Reload Bug Fix`: **(DEBUG ONLY)** Can fix unloaded LODs.
  - `moreHUD`: Can adjust certain widgets on the HUD.
- - `OBody NG`: Change the keybind for the OBody morphs menu (Default: `;`). **DO NOT ENABLE PERFORMANCE MODE!**
+ - `OBody NG`: Change the keybind for the OBody morphs menu (Default: `O`). **DO NOT ENABLE PERFORMANCE MODE!**
  - `One Click Power Attack`: Change the keybind for Power Attacks. Note that the dual power attack button does nothing with MCO.
  - `Photo Mode`: Adjust the keybinds and settings for [po3's Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701).
  - `Precision`: Can enable or disable Hitstop (Default: `Enabled`).
