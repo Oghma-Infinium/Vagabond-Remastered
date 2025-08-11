@@ -22,7 +22,27 @@
 <details>
 <summary>Beta Versions</summary>
 
+- [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
+
+### 0.3.5
+
+Key Info
+
+- Fixed missing Timeless Elegance mesh, causing some NPCs like Carlotta Valentia to have invisible body
+- Fixed missing textures on Wind Ruler armor, worn by Uthgerd the Unbroken
+- Fixed clipping **ASS** on Penelope outfit worn by some female NPCs
+- Fixed male character underwear and feet having messed up textures
+- Reduced sprint stamina cost
+- Reduced stamina regen delay
+- Added [No Stamina Consumption Outside Combat](https://www.nexusmods.com/skyrimspecialedition/mods/77026)
+- Normal attacks can now be initiated while at zero stamina
+- Made lockpicking less hardcore, the dice roll thersholds for all locks are lowered
+- Fixed excessive damage on mace power attack and weapon art
+- Nerfed NPC wards
+- Add missing TrueHUD boss bars to some dungeon bosses
+- Added [SSE FPS Stabilizer](https://www.nexusmods.com/skyrimspecialedition/mods/38438) optional file which was missing by mistake
+- Updated [Temples of the Ancients Complex Material](https://www.nexusmods.com/skyrimspecialedition/mods/127371) to fix weirdly dark looking textures
 
 ### 0.3.4
 
