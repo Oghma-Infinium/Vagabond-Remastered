@@ -38,7 +38,7 @@ Key Info
 - Added [No Stamina Consumption Outside Combat](https://www.nexusmods.com/skyrimspecialedition/mods/77026)
 - Normal attacks can now be initiated while at zero stamina
 - Made enemy arrows and bolts fly slower
-- Made lockpicking less hardcore, the dice roll thersholds for all locks are lowered
+- Made lockpicking less hardcore, the dice roll thresholds for all locks are lowered
 - Fixed excessive damage on mace power attack and weapon art
 - Nerfed NPC wards
 - Fixed wrong precision trail visuals
