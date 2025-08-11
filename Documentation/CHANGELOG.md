@@ -41,11 +41,12 @@ Key Info
 - Made lockpicking less hardcore, the dice roll thersholds for all locks are lowered
 - Fixed excessive damage on mace power attack and weapon art
 - Nerfed NPC wards
+- Fixed wrong precision trail visuals
 - Add missing TrueHUD boss bars to some dungeon bosses
 - Added [SSE FPS Stabilizer](https://www.nexusmods.com/skyrimspecialedition/mods/38438) optional file which was missing by mistake
 - Removed Unslaad - Dragonslayer addon because it broke reward for killing a boss.
 - Updated [Temples of the Ancients Complex Material](https://www.nexusmods.com/skyrimspecialedition/mods/127371) to fix weirdly dark looking textures
-
+- Updated [New Creature Animation - Giant](https://www.nexusmods.com/skyrimspecialedition/mods/83317?tab=posts), hopefully the new version is less jank
 ### 0.3.4
 
 Key Info
