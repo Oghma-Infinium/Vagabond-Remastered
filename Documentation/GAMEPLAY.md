@@ -135,6 +135,8 @@ Insight can be obtained from:
 - Quests
 - Skyshards (these do **NOT** grant perk points like the original mod)
 
+Note that insight from kills by followers / summons / other NPCSs is NOT granted. You must get the killing blow  yourself. The list is fundamentally designed for solo-play because that is what I enjoy.
+
 ## Perk Point Acquisition
 
 Vagabond Remastered takes a mixed approach to the acquisition of perks. 
