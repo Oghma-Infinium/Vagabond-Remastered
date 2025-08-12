@@ -33,8 +33,8 @@ Key Info
 - Many small bug fixes. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Made Weapon Arts more spammable, provided you have magicka. Also fixed any bugs where you lose magicka despite the attack not activating.
 - Rebalanced bandits spawning in wilderness to be closer to player level
-- Added ultrawide optional addon (thanks Sasquatch)
 - Locked chests now have a chance to contain extra insight
+- Added ultrawide optional addon (thanks Sasquatch)
 - Added [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203)
   - by default gore is disabled, but can be enabled in optional mod
   - thanks to Biggie_boss for config
