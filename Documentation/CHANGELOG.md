@@ -20,9 +20,30 @@
 
 ## Beta Versions
 
-- [0.3.6](#036) Release Date: August 11, 2025
+- [0.3.7](#037) Release Date: August 13, 2025
+- [0.3.6](#036) Release Date: August 12, 2025
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
+
+
+### 0.3.7
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+- Fixed an issue where player character was glowing red while attacking or blocking
+- Bug fixes and balance tweaks to poise system
+- Fixed first one-handed perk not providing intended damage on all stacks of mastery, also buffed the perk's damage bonus
+- Both one-handed and two-handed first perks now increase poise damage dealt on each stack of mastery
+- Made perfect dodge (sneak perk) more reliable to proc
+- Added bigger character collisions to fix issues with getting too close to enemies during combat
+- Gave non-boss NPCs proper katana and daikatana movesets
+- Generated a navmerge in CK to hopefully reduce NPC pathing issues (seems to have fixed some College jank)
+- Added [Maintained Magic](https://www.nexusmods.com/skyrimspecialedition/mods/114983)
+  - Untested, feedback welcome
+- Added [Death Idle Fix](https://www.nexusmods.com/skyrimspecialedition/mods/152344)
+- Added [NAT.ENB III - sun glare lens chroma edge visibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/156781)
 
 ### 0.3.6
 
