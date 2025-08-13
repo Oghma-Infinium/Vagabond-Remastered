@@ -97,26 +97,26 @@ List of all unique Weapon Arts available in the list. New ones will be added ove
 
 <summary>Spoiler warning! </summary>
   
-| Weapon  | Unique Weapon Art | Description |
-| ------------- | ------------- | ------------- |
-| Dawnbreaker | Meridia's Retribution | Arm yourself with Meridia's sacred sword and dispense her retribution, dealing massive damage against undead in a large area. Grants Radiating Aura for 30 seconds, restoring health and stamina to you and nearby allies. |
-| Volendrung | Malacath's Vengeance  | Swing Volendrung in a mighty downward blow, unleashing a ruinous cyclone that flings victims into the air. |
-| Rueful Axe | Regal Roar | Let loose a mighty war cry, raising attack power, while sending out a shockwave that knocks down victims. While active, strong attack becomes a lunging slash. |
-| Runed Black Blade | Destined Death | Set free the remnants of Destined Death, plunging the Black Blade into the ground to summon a myriad of blades. |
-| Runed Black Knife | Blade of Death | Unleash the power of the Rune of Death to fire off a flurry of blade-like projectiles. |
-| Mortal Blade | Mortal Draw | Draw the Mortal Blade and cut through enemies with the remnants of Destined Death. |
-| Darkmoon Sword | Moonlight Greatsword | Raise the sword aloft, bathing it in the light of the dark moon and releasing two powerful waves of moonlight. |
-| Illustrious Greatsword | Wolf's Assault | Infuse the greatsword with frost, then perform a forward somersault to plunge it into the ground. Then, pull it out to release a cold blast. |
-| Moonveil | Transient Moonlight | In a flash of a blade, release a wave of moonlight. |
-| Leviathan Axe | God of War | Manifest God of War's rage, raising attack power, while sending out a fiery explosion that knocks down victims. Can be followed-up by a ground slam, sending out a second fiery explosion. |
-| Hammer of Storms | Lightning Rod | Raise forth Kynareth's sacred hammer to imbdue yourself with lightning. Power attacks a release a lightning dash. |
-| Bolt of Mzark | Ancient Lightning Spear | Imbue the armament with the ancient dragons' red lightning, then throw it as a spear. |
-| Rivers of Blood | Corpse Piler | Forms a blade of cursed blood for repeated, interweaving successive attacks. Follow up with an additional input for further successive attacks. |
-| Speaker's Poleblade | Bloodblade Dance | Perform a flurry of tornado-like cursed blood attacks. Can be followed-up with a leap attack. |
-| Executioner's Dancing Blae | Dancing Blade | Infuse the sword with energy, then fling it forwards in a corkscrew attack. Can be followed-up by a dash attack. |
-| Blade of Rot | Waterfowl Dance | Perform a series of one-footed leaps in the manner of a waterfowl to unleash a swift yet graceful slashing combo. |
-| Godslayer Greatsword | Queen's Black Flame | Set the blade ablaze with the god-slaying black flame before delivering a sweeping slash. |
-| Dragon Cult Peeler | Black Flame Tornado | Spin armament overhead to summon a raging vortex of black flames. |
+| Weapon  | Quest or Void Shard recipe |Unique Weapon Art | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| Dawnbreaker | Break of Dawn (quest) | Meridia's Retribution | Arm yourself with Meridia's sacred sword and dispense her retribution, dealing massive damage against undead in a large area. Grants Radiating Aura for 30 seconds, restoring health and stamina to you and nearby allies. |
+| Volendrung | Cursed Tribe (quest) | Malacath's Vengeance  | Swing Volendrung in a mighty downward blow, unleashing a ruinous cyclone that flings victims into the air. |
+| Rueful Axe | Daedra's Best Friend (quest) | Regal Roar | Let loose a mighty war cry, raising attack power, while sending out a shockwave that knocks down victims. While active, strong attack becomes a lunging slash. |
+| Runed Black Blade | Daedric Ultra-Greatsword | Destined Death | Set free the remnants of Destined Death, plunging the Black Blade into the ground to summon a myriad of blades. |
+| Runed Black Knife | Daedric Dagger | Blade of Death | Unleash the power of the Rune of Death to fire off a flurry of blade-like projectiles. |
+| Mortal Blade | Daedric Daikatana | Mortal Draw | Draw the Mortal Blade and cut through enemies with the remnants of Destined Death. |
+| Darkmoon Sword | Stalhrim Greatsword | Moonlight Greatsword | Raise the sword aloft, bathing it in the light of the dark moon and releasing two powerful waves of moonlight. |
+| Illustrious Greatsword | Dwarven Ultra-Greatsword | Wolf's Assault | Infuse the greatsword with frost, then perform a forward somersault to plunge it into the ground. Then, pull it out to release a cold blast. |
+| Moonveil | Stalhrim Katana | Transient Moonlight | In a flash of a blade, release a wave of moonlight. |
+| Leviathan Axe | Stalhrim War Axe | God of War | Manifest God of War's rage, raising attack power, while sending out a fiery explosion that knocks down victims. Can be followed-up by a ground slam, sending out a second fiery explosion. |
+| Hammer of Storms | Stalhrim Mace | Lightning Rod | Raise forth Kynareth's sacred hammer to imbdue yourself with lightning. Power attacks a release a lightning dash. |
+| Bolt of Mzark | Dwarven Pike | Ancient Lightning Spear | Imbue the armament with the ancient dragons' red lightning, then throw it as a spear. |
+| Rivers of Blood | Daedric Katana | Corpse Piler | Forms a blade of cursed blood for repeated, interweaving successive attacks. Follow up with an additional input for further successive attacks. |
+| Speaker's Poleblade | Daedric Twinblade | Bloodblade Dance | Perform a flurry of tornado-like cursed blood attacks. Can be followed-up with a leap attack. |
+| Executioner's Dancing Blade | Orcish Greatsword | Dancing Blade | Infuse the sword with energy, then fling it forwards in a corkscrew attack. Can be followed-up by a dash attack. |
+| Blade of Rot | Elven Katana | Waterfowl Dance | Perform a series of one-footed leaps in the manner of a waterfowl to unleash a swift yet graceful slashing combo. |
+| Godslayer Greatsword | Ebony Greatsword | Queen's Black Flame | Set the blade ablaze with the god-slaying black flame before delivering a sweeping slash. |
+| Dragon Cult Peeler | Ebony Twinblade | Black Flame Tornado | Spin armament overhead to summon a raging vortex of black flames. |
 
 </Details>
 
