@@ -304,7 +304,7 @@ Vagabond Remastered changes a significant amount of vanilla quests in one way or
  - **DAc0da**: Requires level 25+
  - **Wyrmstooth**: Requires level 15+ and completion of [The Way of the Voice](https://en.uesp.net/wiki/Skyrim:The_Way_of_the_Voice).
  - **Vigilant**: Requires level 25+
- - **Unslaad**: Requires completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer).
+ - **Unslaad**: Requires level 25+
 
 *It is recommended to play [Vicn](https://next.nexusmods.com/profile/Vicn)'s quest mods in the following order: DAc0da -> Vigilant -> Unslaad.*
 
