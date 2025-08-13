@@ -23,6 +23,7 @@
 - [Leveling and Progression](#leveling-and-progression)
   - [Changes to Leveling](#changes-to-leveling)
   - [Perk Point Acquisition](#perk-point-acquisition)
+- [Gameplay Tips](#gameplay-tips)
 - [New and Notable Mechanics](#new-and-notable-mechanics)
 - [Lockpicking Overhaul](#lockpicking-overhaul)
 - [Quests Changes](#quests-changes)
@@ -144,6 +145,13 @@ Vagabond Remastered takes a mixed approach to the acquisition of perks.
 - Each level-up grants one perk point
 - Dragon and unique boss kills grant one perk point, with a cap of 50 in a playthrough
 - With default start settings the player starts with 3 free perk points at level 1
+
+# Gameplay Tips
+
+- Soldier is a safe starting class choice. Rogue is very strong for dodge-based builds. Battlemage is the best option for spellsword gameplay.
+- Recommended use for 3 starting perk points for melee focus: Timed Block, Weapon Art & 1H/2H mastery perk.
+- Lady is a good early choice for Standing Stone if you don't have more specialized plans yet.
+- Food buffs are VERY important for sustain. Remember that the list has food spoilage system, so don't hoard all food in inventory.
 
 # New and Notable Mechanics
 
