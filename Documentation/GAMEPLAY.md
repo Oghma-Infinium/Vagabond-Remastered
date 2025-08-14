@@ -185,6 +185,9 @@ To help manage item degradation, the player can find or craft hammers and whetst
 Vagabond Remastered changes the way in which resists are calculated with [Resistances Rescaled](https://www.nexusmods.com/skyrimspecialedition/mods/20503). 
 The mod changes resistance scaling for both armor and elements to a hyperbolic formula, which essentially means every point of armor and every percentage of resistance benefits your *effective HP* (aka how long you can survive) by an equal amount.
 This means that increasing armor or resistances will always benefit your character.
+
+In practice this means that +50 armor rating or +5% magic/elemental resistance roughly equals to +10% effective HP against resisted attacks.
+
 Your real, re-calculated resistances can be seen in the magic effect menu.
 
 ## Resistances and weaknesses
