@@ -35,7 +35,7 @@ Key Info
 - Many small bug fixes. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Fixed an issue where percentage bonuses for lockpicking were doing almost nothing.
 - Added [Dynamic Stat Scaler](https://www.nexusmods.com/skyrimspecialedition/mods/140409?tab=description)
-  - Effectively replaces features of the [Enhance Enemy Attributes](https://www.nexusmods.com/skyrimspecialedition/mods/65861) mod that were removed in the previous update
+  - Effectively replaces features of the [Enhance Enemy Attributes](https://www.nexusmods.com/skyrimspecialedition/mods/65861) mod that were removed in the previous update, but in a much more balanced manner
   - **ONLY** buffs enemies that are lower than player's level. The exact buff is +2% melee damage, +1% ranged damage, +5 HP, +10 armor per level below player
   - Completely script-free
 - Nerfed armor scaling of non-boss enemies by around 25%
