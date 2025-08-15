@@ -40,7 +40,7 @@ Key Info
   - Completely script-free
 - Nerfed armor scaling of non-boss enemies by around 25%
 - Reduced base stamina cost of attacks and dodges by 20%
-- Weapons with unique Weapon Arts (crafted with Void Shards) are now easier to obtain, requiring lower tier weapons than previously
+- Weapons with unique Weapon Arts (crafted with Void Shards) are now easier to obtain, requiring lower tier weapons than previously to craft them
 - Reduced intensity of [Know Your Enemy 2](https://www.nexusmods.com/skyrimspecialedition/mods/93258) and [armor module](https://www.nexusmods.com/skyrimspecialedition/mods/94067) resistances even more
   - These were already pretty mild, but now the settings are *lowest possible*. My intention is that these resistances only have very minor impact on the game for immersion / optimization purposes without feeling too restrictive.
 - Overhauled some mage outfits with variants of [Traveling Mage - My version SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/69577)
