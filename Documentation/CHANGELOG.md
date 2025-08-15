@@ -36,7 +36,7 @@ Key Info
 - Fixed an issue where percentage bonuses for lockpicking were doing almost nothing.
 - Added [Dynamic Stat Scaler](https://www.nexusmods.com/skyrimspecialedition/mods/140409?tab=description)
   - Effectively replaces features of the [Enhance Enemy Attributes](https://www.nexusmods.com/skyrimspecialedition/mods/65861) mod that were removed in the previous update, but in a much more balanced manner
-  - **ONLY** buffs enemies that are lower than player's level. The exact buff is +2% melee damage, +1% ranged damage, +5 HP, +10 armor amd +0.5% magic resistance level below player
+  - **ONLY** buffs enemies that are lower than player's level. The exact buff is +2% melee damage, +1% ranged damage, +5 HP, +10 armor amd +0.5% magic resistance per level below player
   - Completely script-free
 - Nerfed armor scaling of non-boss enemies by around 25%
 - Reduced base stamina cost of attacks and dodges by 20%
