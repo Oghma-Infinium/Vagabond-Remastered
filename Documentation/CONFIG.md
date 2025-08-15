@@ -25,7 +25,7 @@
   - [Skyrim Upscaler](#skyrim-upscaler)
   - [Lossless Scaling](#lossless-scaling)
 - [In-Game MCM Options](#in-game-mcm-options)
-- [Cleaning Saves](#cleaning-saves]
+- [Cleaning Saves](#cleaning-saves)
 - [Wheeler](#wheeler)
   - [Wheel Editing](#wheel-editing)
     - [Creation](#creation)
