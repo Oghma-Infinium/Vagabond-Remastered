@@ -43,6 +43,7 @@ Key Info
 - Weapons with unique Weapon Arts (crafted with Void Shards) are now easier to obtain, requiring lower tier weapons than previously to craft them
 - Reduced intensity of [Know Your Enemy 2](https://www.nexusmods.com/skyrimspecialedition/mods/93258) and [armor module](https://www.nexusmods.com/skyrimspecialedition/mods/94067) resistances even more
   - These were already pretty mild, but now the settings are *lowest possible*. My intention is that these resistances only have very minor impact on the game for immersion / optimization purposes without feeling too restrictive.
+- Expanded the number of bosses that reward perk point on kill. (It was already *many* and the cap is 50 per playthrough)
 - Overhauled some mage outfits with variants of [Traveling Mage - My version SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/69577)
 - Added [Tsor The Ultimate Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70460) and [Faarok The Norse God](https://www.nexusmods.com/skyrimspecialedition/mods/66722) male character presets
 - Removed [Drugs for Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/112760) mod because the impact of bandits constantly using Skooma or Sleeping Tree Sap was actually annoying and caused some bandits to literally commit suicide
