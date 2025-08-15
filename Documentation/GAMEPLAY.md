@@ -218,10 +218,7 @@ For example:
 - With all perks and max skill, your dice roll can reach a range of 18 to 42.
 
 4. Percentage Modifiers
-Any percentage bonuses to lockpicking from enchantments, potions, etc. multiply your final roll.
-For example:
--	Final roll = 20
--	With a 25% potion boost → 20 × 1.25 = 25
+For percentage bonuses 10% bonus equals +1 roll bonus.
 
 Lock Difficulty Thresholds: each lock has a minimum required score that your final modified roll must meet or exceed.
 
@@ -245,7 +242,7 @@ Example:
 - Security skill: 100 → +10
 - Perks: +8 total
 - Base roll: 0–24 → Now 18–42
-- Potion: +25% → Final roll range: 23 – 53
+- Potion: +20% → +2 Bonus roll → Final roll range: 20 – 44
 
 In this case, even Master locks (38) are reliably unlockable.
 
