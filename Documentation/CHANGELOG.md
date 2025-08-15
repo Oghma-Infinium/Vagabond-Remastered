@@ -44,6 +44,7 @@ Key Info
 - Reduced intensity of [Know Your Enemy 2](https://www.nexusmods.com/skyrimspecialedition/mods/93258) and [armor module](https://www.nexusmods.com/skyrimspecialedition/mods/94067) resistances even more
   - These were already pretty mild, but now the settings are *lowest possible*. My intention is that these resistances only have very minor impact on the game for immersion / optimization purposes without feeling too restrictive.
 - Added [Tsor The Ultimate Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70460) and [Faarok The Norse God](https://www.nexusmods.com/skyrimspecialedition/mods/66722) male character presets
+- Removed [Drugs for Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/112760) mod because the impact of bandits constantly using Skooma or Sleeping Tree Sap was actually annoying and caused some bandits to literally commit suicide
 
 ### 0.3.7
 
