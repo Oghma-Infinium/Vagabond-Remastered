@@ -25,6 +25,7 @@
   - [Skyrim Upscaler](#skyrim-upscaler)
   - [Lossless Scaling](#lossless-scaling)
 - [In-Game MCM Options](#in-game-mcm-options)
+- [Cleaning Saves](#cleaning-saves]
 - [Wheeler](#wheeler)
   - [Wheel Editing](#wheel-editing)
     - [Creation](#creation)
@@ -147,6 +148,14 @@ Thanks to Wabbajack, MCMs will come pre-configured with the intended settings. T
  - `TK Dodge`: Change the hotkey for Dodging.
  - `True Directional Movement`: Change the target lock hotkey (Default: `Right stick press`).
  - `TrueHUD`: Adjust core components of the HUD.
+
+# Cleaning saves
+
+[PLACEHOLDER, RESAVER IS NOT YET IN THE LIST]
+You can use Resaver to clean  your save of loose scripts, which may help your save's longevity. However it is not a silver bullet guaranteed to fix all issues, and in very unlucky cases it could make situation worse and break the save. **Should only be used if modlist update announcement or staff member advises to do it.**
+See steps in the image below on how to clean your save.
+
+![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/resaver.png)
 
 # Wheeler
 
