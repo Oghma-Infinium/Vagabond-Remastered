@@ -20,11 +20,30 @@
 
 ## Beta Versions
 
+- [0.3.8](#038) Release Date: August 15, 2025
 - [0.3.7](#037) Release Date: August 13, 2025
 - [0.3.6](#036) Release Date: August 12, 2025
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
+### 0.3.8
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+- Many small bug fixes. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Fixed an issue where percentage bonuses for lockpicking were doing almost nothing.
+- Added [Dynamic Stat Scaler](https://www.nexusmods.com/skyrimspecialedition/mods/140409?tab=description)
+  - Effectively replaces features of the [Enhance Enemy Attributes](https://www.nexusmods.com/skyrimspecialedition/mods/65861) mod that were removed in the previous update
+  - **ONLY** buffs enemies that are lower than player's level. The exact buff is +2% melee damage, +1% ranged damage, +5 HP, +10 armor per level below player
+  - Completely script-free
+- Nerfed armor scaling of non-boss enemies by around 25%
+- Reduced base stamina cost of attacks and dodges by 20%
+- Weapons with unique Weapon Arts (crafted with Void Shards) now are now easier to obtain, requiring lower tier weapons than previously
+- Reduced intensity of [Know Your Enemy 2](https://www.nexusmods.com/skyrimspecialedition/mods/93258) and [armor module](https://www.nexusmods.com/skyrimspecialedition/mods/94067) resistances even more
+  - These were already pretty mild, but now the settings are *lowest possible*. My intention is that these resistances only have very minor impact on the game for immersion / optimization purposes without feeling too restrictive.
+- Added [Tsor The Ultimate Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70460) and [Faarok The Norse God](https://www.nexusmods.com/skyrimspecialedition/mods/66722) male character presets
 
 ### 0.3.7
 
