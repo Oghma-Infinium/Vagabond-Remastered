@@ -23,6 +23,7 @@
 - [Leveling and Progression](#leveling-and-progression)
   - [Changes to Leveling](#changes-to-leveling)
   - [Perk Point Acquisition](#perk-point-acquisition)
+- [Difficulty Overhaul](#difficulty-overhaul)
 - [Gameplay Tips](#gameplay-tips)
 - [New and Notable Mechanics](#new-and-notable-mechanics)
 - [Lockpicking Overhaul](#lockpicking-overhaul)
@@ -145,6 +146,19 @@ Vagabond Remastered takes a mixed approach to the acquisition of perks.
 - Each level-up grants one perk point
 - Dragon and unique boss kills grant one perk point, with a cap of 50 in a playthrough
 - With default start settings the player starts with 3 free perk points at level 1
+
+# Difficulty Overhaul
+
+[NOT IMPLEMENTED YET, ETA IN UPDATE 0.3.9]
+
+|Difficulty |Damage Taken|Damage Dealt|Poise Damage Taken|Combat Stamina/Magicka Regen|Base Health Regeneration >50%|Base Health Regeneration <50%|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Novice |50% |120% |50%|100%|100%|100%|
+|Apprentice|75% |110% |75%|100%|50%|100%|
+|Adept |100%|100%|100%|100%|0%|100%|
+|Expert |125%|90%|125%|50%|0%|0%|
+|Master |150%|80%|150%|50%|0%|0%|
+|Legendary |200%|70%|150%|50%|0%|0%|
 
 # Gameplay Tips
 
