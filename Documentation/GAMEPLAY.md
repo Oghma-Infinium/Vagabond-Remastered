@@ -106,7 +106,7 @@ List of all unique Weapon Arts available in the list. New ones will be added ove
 | Runed Black Blade | Ebony Ultra-Greatsword | Destined Death | Set free the remnants of Destined Death, plunging the Black Blade into the ground to summon a myriad of blades. |
 | Runed Black Knife | Ebony Dagger | Blade of Death | Unleash the power of the Rune of Death to fire off a flurry of blade-like projectiles. |
 | Mortal Blade | Ebony Daikatana | Mortal Draw | Draw the Mortal Blade and cut through enemies with the remnants of Destined Death. |
-| Darkmoon Sword | Glass Greatsword | Moonlight Greatsword | Raise the sword aloft, bathing it in the light of the dark moon and releasing two powerful waves of moonlight. |
+| Darkmoon Greatsword | Glass Greatsword | Moonlight Greatsword | Raise the sword aloft, bathing it in the light of the dark moon and releasing two powerful waves of moonlight. |
 | Illustrious Greatsword | Dwarven Ultra-Greatsword | Wolf's Assault | Infuse the greatsword with frost, then perform a forward somersault to plunge it into the ground. Then, pull it out to release a cold blast. |
 | Moonveil | Glass Katana | Transient Moonlight | In a flash of a blade, release a wave of moonlight. |
 | Leviathan Axe | Nordic War Axe | God of War | Manifest God of War's rage, raising attack power, while sending out a fiery explosion that knocks down victims. Can be followed-up by a ground slam, sending out a second fiery explosion. |
