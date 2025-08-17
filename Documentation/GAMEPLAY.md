@@ -149,8 +149,6 @@ Vagabond Remastered takes a mixed approach to the acquisition of perks.
 
 # Difficulty Overhaul
 
-[NOT IMPLEMENTED YET, ETA IN UPDATE 0.3.9]
-
 |Difficulty |Damage Taken|Damage Dealt|Poise Damage Taken|Combat Stamina/Magicka Regen|Base Health Regeneration >50%|Base Health Regeneration <50%|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Novice |50% |120% |50%|100%|100%|100%|
