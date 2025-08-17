@@ -45,6 +45,7 @@ Key Info
 - Reduced reach of NPC melee attacks
 - Removed bunch of terrible SPID outfit distributions (Khajit with a summer dress, Torvar with gladiator outfit)
 - Fixed an issue where Skyrim Outfit System item search crashed the game because of Chinese characters
+- Added [Bows Can Break](https://www.nexusmods.com/skyrimspecialedition/mods/104758) for NPCs only
 
 ### 0.3.8
 
