@@ -20,11 +20,30 @@
 
 ## Beta Versions
 
+
+- [0.3.9](#039) Release Date: August 17, 2025
 - [0.3.8](#038) Release Date: August 15, 2025
 - [0.3.7](#037) Release Date: August 13, 2025
 - [0.3.6](#036) Release Date: August 12, 2025
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
+
+### 0.3.8
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+- Many small bug fixes. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Difficulty settings overhaul. See [guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#difficulty-overhaul) for details
+  - Default difficulty Adept is now easier than before, with Expert, Master and Legendary intended as "challenge" difficulties
+- Reduced poise damage taken by player by 33% (This is **separate** change from the difficulty overhaul)
+- Fixed tempering, it was barely doing anything before
+- Reduced intensity of dynamic scaling for low level enemies
+- Made most player one-handed animations 10% faster, because it felt like those weren't quite fast enough compared to two-handed
+- Reduced reach of NPC melee attacks
+- Removed bunch of terrible SPID outfit distributions (Khajit with a summer dress, Torvar with gladiator outfit)
+- Fixed an issue where Skyrim Outfit System item search crashed the game because of Chinese characters
 
 ### 0.3.8
 
