@@ -38,6 +38,7 @@ Key Info
 - Difficulty settings overhaul. See [guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#difficulty-overhaul) for details
   - Default difficulty Adept is now easier than before, with Expert, Master and Legendary intended as "challenge" difficulties
 - Reduced poise damage taken by player by 33% (This is **separate** change from the difficulty overhaul)
+- Reduced baseline physical damage enemies deal by 20% (this is remedied by difficulty overhaul for those who still want it tough)
 - Fixed tempering, it was barely doing anything before
 - Reduced intensity of dynamic scaling for low level enemies
 - Made most player one-handed animations 10% faster, because it felt like those weren't quite fast enough compared to two-handed
