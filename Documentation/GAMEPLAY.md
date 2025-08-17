@@ -175,6 +175,8 @@ Vagabond Remastered takes a mixed approach to the acquisition of perks.
 - Hold block for 3 seconds without letting go of the button to gain +200% stamina regeneration boost until you let go. A mechanic inspired by Sekiro: Shadows Die Twice.
 - Enemies take 25% more damage from melee attacks when struck from behind.
 - Boss-type enemies become enraged during power attacks when above 25% stamina, taking drastically less physical and poise damage. Enrage is indicated by a faint red glow.
+- NPCs **below** player's level gain extra scaling of +1% melee damage, +5 health, +5 Armor and +0.5% Magic Resistance per level below player.
+  - For example if Player is level 20 and enemy level 5, then enemy gains the bonuses above for 15x (20 - 5 = 15)
 
 ## Alternative Death Mechanics
 
