@@ -28,7 +28,7 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
-### 0.3.8
+### 0.3.9
 
 Key Info
 
