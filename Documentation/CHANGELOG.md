@@ -47,7 +47,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
   - (untested) You can refund perk points by taking 5 Daedra Hearts to a cooking pot and crafting a Scroll of Legends.
 - Fixed a balance oversight causing power attacks to deal more damage against blocking targets than intended. Affects both normal and timed block.
   - In practice a major buff to block builds
-- Fixed issues with some enemies dropping more insight than inteded (especially those with particularly high stamina or magicka)
+- Fixed issues with some enemies dropping more insight than intended (especially those with particularly high stamina or magicka)
   - Slightly increased insight drops from some other sources to compensate
 - Reduced level multiplier of Hard enemy spawns from 1.25 to 1.15 and Very Hard spawns from 1.5 to 1.3 to reduce frequency of sudden difficulty spikes.
 - Made battlemage magicka battery not restore magicka on Weapon Art attacks
