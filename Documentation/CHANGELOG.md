@@ -53,6 +53,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Made battlemage magicka battery not restore magicka on Weapon Art attacks
   - Before this change some Weapon Arts like the Sword Dance could refund more magicka than they cost
 - Removed wards from almost all mage enemies (and nerfed them for those who still do)
+  - Player wards still remain as effective as before
 - Made valuable weapons on Jorrvaskr walls to be only decorative
 - Made Starfrost Hunger and Sleeping bonuses actually do something
 
