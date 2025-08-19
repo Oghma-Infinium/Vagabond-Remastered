@@ -21,6 +21,7 @@
 ## Beta Versions
 
 
+- [0.3.10](#0310) Release Date: August 17, 2025
 - [0.3.9](#039) Release Date: August 17, 2025
 - [0.3.8](#038) Release Date: August 15, 2025
 - [0.3.7](#037) Release Date: August 13, 2025
