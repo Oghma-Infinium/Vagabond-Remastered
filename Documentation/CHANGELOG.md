@@ -36,6 +36,8 @@ Key Info
 
 **Ignore missing plugins warning when loading a save. It doesn't matter!**
 
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
 - Many small bug fixes. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Added [Skyparkour](https://www.nexusmods.com/skyrimspecialedition/mods/132292?tab=posts)
 - Added [Sprint Swim Redux SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/156417)
