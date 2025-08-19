@@ -36,12 +36,20 @@ Key Info
 **Ignore missing plugins warning when loading a save. It doesn't matter!**
 
 - Many small bug fixes. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
-- Fixed a balance overisght causing power attacks to deal more damage against block than intended. Affects both normal and timed block.
 - Added [Skyparkour](https://www.nexusmods.com/skyrimspecialedition/mods/132292?tab=posts)
 - Added [Sprint Swim Redux SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/156417)
 - Added [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
 - Added [Zen's presets](https://next.nexusmods.com/profile/RelentlessZen/mods)
-- 
+- Removed two shrine blessing related perks from Restoration tree because they don't work properly with the [religion mod](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md#archon---faiths-of-tamriel)
+  - (untested) You can refund perk points by taking 5 Daedra Hearts to a cooking pot and crafting a Scroll of Legends.
+- Fixed a balance overisght causing power attacks to deal more damage against block than intended. Affects both normal and timed block.
+- Reduced level multiplier of Hard enemy spawns from 1.25 to 1.15 and Very Hard spawns from 1.5 to 1.3 to reduce frequency of sudden difficulty spikes.
+- Made battlemage magicka battery not restore magicka on Weapon Art attacks
+  - Before this change some Weapon Arts like the Sword Dance could refund more magicka than they cost
+- Removed wards from almost all mage enemies (and nerfed them for those who still do)
+- Made valuable weapons on Jorrvaskr walls to be only decorative
+- Made Starfrost Hunger and Sleeping bonuses actually do something
+
 
 ### 0.3.9
 
