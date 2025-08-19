@@ -45,7 +45,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Added [Zen's presets](https://next.nexusmods.com/profile/RelentlessZen/mods)
 - Removed two shrine blessing related perks from Restoration tree because they don't work properly with the [religion mod](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md#archon---faiths-of-tamriel)
   - (untested) You can refund perk points by taking 5 Daedra Hearts to a cooking pot and crafting a Scroll of Legends.
-- Fixed a balance overisght causing power attacks to deal more damage against block than intended. Affects both normal and timed block.
+- Fixed a balance oversight causing power attacks to deal more damage against blocking targets than intended. Affects both normal and timed block.
   - In practice a major buff to block builds
 - Fixed issues with some enemies dropping more insight than inteded (especially those with particularly high stamina or magicka)
   - Slightly increased insight drops from some other sources to compensate
