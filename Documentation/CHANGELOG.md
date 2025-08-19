@@ -56,7 +56,31 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
   - Player wards still remain as effective as before
 - Made valuable weapons on Jorrvaskr walls to be only decorative
 - Made Starfrost Hunger and Sleeping bonuses actually do something
+- Significantly slowed food spoilage. All food now lasts at least 7 days, with most lasting 14+ days.
+  - This does not automatically update on existing saves, but you can use the console commands below.
+  - <details> <summary>**Updating food spoilage times with console commands**</summary>
+    
+    set SFSS_SpoilDaysCat0 to 42
 
+    set SFSS_SpoilDaysCat1 to 14
+
+    set SFSS_SpoilDaysCat2 to 14
+
+    set SFSS_SpoilDaysCat3 to 14
+
+    set SFSS_SpoilDaysCat4 to 7
+
+    set SFSS_SpoilDaysCat5 to 7
+
+    set SFSS_SpoilDaysCat6 to 7
+
+    set SFSS_SpoilDaysCat7 to 7
+
+    set SFSS_SpoilDaysCat8 to 21
+
+    set SFSS_SpoilDaysCat9 to 28
+  
+</details>
 
 ### 0.3.9
 
