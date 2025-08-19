@@ -28,6 +28,21 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
+
+### 0.3.10
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+- Many small bug fixes. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Fixed a balance overisght causing power attacks to deal more damage against block than intended. Affects both normal and timed block.
+- Added [Skyparkour](https://www.nexusmods.com/skyrimspecialedition/mods/132292?tab=posts)
+- Added [Sprint Swim Redux SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/156417)
+- Added [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
+- Added [Zen's presets](https://next.nexusmods.com/profile/RelentlessZen/mods)
+- 
+
 ### 0.3.9
 
 Key Info
