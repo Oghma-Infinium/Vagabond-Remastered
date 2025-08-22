@@ -37,6 +37,8 @@ Key Info
 
 **Ignore missing plugins warning when loading a save. It doesn't matter!**
 
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
 - Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Fixed Battlemage magicka battery not working against enemies with 0 or less magicka
 - Fixed issues with Void Shards sometimes not dropping when they should
