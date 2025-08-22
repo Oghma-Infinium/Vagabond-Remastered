@@ -47,6 +47,7 @@ Key Info
   - Personally felt leveling was bit too fast in my current playthrough
 - Rebalanced weapon and armor weights
 - Rebalanced Silver Weapons, they now deal 50% extra damage against undead and werewolves, but degrade in durability 3 times faster than other materials
+  - Before they dealt flat +20 + 25% extra damage against undead & WW with no penalty on degration speed
 - Removed most Mihail mod summon spell tomes from being obtainable
 - Made attacking immediately after blocking an attack feel more responsive
 
