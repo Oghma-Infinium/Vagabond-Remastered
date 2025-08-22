@@ -55,6 +55,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Increased base poise health of both player and enemies, meaning everyone gets staggered slightly less frequently
 - Disabled features of Skyrim Save Safe Overhaul by default because I suspect it might be causing crashes/freezes
 - Made Lady Stone the default starting Standing Stone if another one is not picked in Skyrim Unbound MCM
+- Added [DD - Jewelry Replacer by Vergi](https://www.nexusmods.com/skyrimspecialedition/mods/157252)
 
 ### 0.3.10
 
