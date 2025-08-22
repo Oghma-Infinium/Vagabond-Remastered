@@ -20,8 +20,8 @@
 
 ## Beta Versions
 
-
-- [0.3.10](#0310) Release Date: August 17, 2025
+- [0.3.11](#0311) Release Date: August 22, 2025
+- [0.3.10](#0310) Release Date: August 19, 2025
 - [0.3.9](#039) Release Date: August 17, 2025
 - [0.3.8](#038) Release Date: August 15, 2025
 - [0.3.7](#037) Release Date: August 13, 2025
@@ -29,6 +29,26 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
+
+
+### 0.3.11
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+- Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Fixed Battlemage magicka battery not working against enemies with 0 or less magicka
+- Fixed issues with Void Shards sometimes not dropping when they should
+- Removed sprinting and sprint attacks from Awoken Draugr (this was not intended in the first place)
+- Buffed resistances of some unique dungeon bosses because I felt like they died a bit too fast
+- Made the damage bonus from sprint attack perks in 1H and 2H trees actually work
+- Slightly reduced drop rates of Diluted Insight from enemies and containers (around 15%, just regular; greater is unaffected)
+  - Personally felt leveling was bit too fast in my current playthrough
+- Rebalanced weapon and armor weights
+- Rebalanced Silver Weapons, they now deal 50% extra damage against undead and werewolves, but degrade in durability 3 times faster than other materials
+- Removed most Mihail mod summon spell tomes from being obtainable
+- Made attacking immediately after blocking an attack feel more responsive
 
 ### 0.3.10
 
