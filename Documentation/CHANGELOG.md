@@ -50,6 +50,7 @@ Key Info
   - Before they dealt flat +20 + 25% extra damage against undead & WW with no penalty on degration speed
 - Removed most Mihail mod summon spell tomes from being obtainable
 - Made attacking immediately after blocking an attack feel more responsive
+- Disabled features of Skyrim Save Safe Overhaul by default because I suspect it might be causing crashes/freezes
 
 ### 0.3.10
 
