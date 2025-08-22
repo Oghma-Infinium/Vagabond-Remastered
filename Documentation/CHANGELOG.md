@@ -50,7 +50,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Rebalanced weapon and armor weights
 - Rebalanced Silver Weapons, they now deal 50% extra damage against undead and werewolves, but degrade in durability 3 times faster than other materials
   - Before they dealt flat +20 + 25% extra damage against undead & WW with no penalty on degration speed
-- Removed most Mihail mod summon spell tomes from being obtainable
+- Removed most Mihail mod summon spell tomes from being obtainable (I actually missed some)
 - Made attacking immediately after blocking an attack feel more responsive
 - Increased base poise health of both player and enemies, meaning everyone gets staggered slightly less frequently
 - Disabled features of Skyrim Save Safe Overhaul by default because I suspect it might be causing crashes/freezes
