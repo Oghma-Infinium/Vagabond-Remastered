@@ -53,6 +53,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Removed most Mihail mod summon spell tomes from being obtainable
 - Made attacking immediately after blocking an attack feel more responsive
 - Disabled features of Skyrim Save Safe Overhaul by default because I suspect it might be causing crashes/freezes
+- Made Lady Stone the default starting Standing Stone if another one is not picked in Skyrim Unbound MCM
 
 ### 0.3.10
 
