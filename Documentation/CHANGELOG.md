@@ -42,7 +42,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Fixed Battlemage magicka battery not working against enemies with 0 or less magicka
 - Fixed issues with Void Shards sometimes not dropping when they should
-- Removed sprinting and sprint attacks from Awoken Draugr (this was not intended in the first place)
+- Removed dodges, sprinting and sprint attacks from Awoken Draugr (this was not intended in the first place)
 - Buffed resistances of some unique dungeon bosses because I felt like they died a bit too fast
 - Made the damage bonus from sprint attack perks in 1H and 2H trees actually work
 - Slightly reduced drop rates of Diluted Insight from enemies and containers (around 15%, just regular; greater is unaffected)
