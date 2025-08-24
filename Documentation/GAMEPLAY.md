@@ -381,7 +381,6 @@ Vagabond Remastered comes with several new quest mods and expansions for several
  - [In the Shadow of the Crown](https://www.nexusmods.com/skyrimspecialedition/mods/79600): Provides an alternative route to completing the Stones of Barenziah, without ever dealing with the Thieves Guild.
  - [Infiltration - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/114054): Turns one of vanilla's most underwhelming quests into an epic adventure with real decisions to be made!
  - [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974): Have you ever wanted to give consequences to Grelod the Kind without acting like the average murder-hobo? Well look no further!
- - [Jarl Balgruuf Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/41132): Jarl Balgruuf can now be convinced to join the Stormcloaks!
  - [Jiub's Opus](https://www.nexusmods.com/skyrimspecialedition/mods/17056): Adds quest markers to one of the most annoying quests in the vanilla game. 
  - [Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending](https://www.nexusmods.com/skyrimspecialedition/mods/119502): Adds new choices to Mehrunes Dagon's daedric quest, providing some additional potential outcomes to be experienced.
  - [Muiri's Revenge](https://www.nexusmods.com/skyrimspecialedition/mods/24312): Provides a way to obtain Muiri's Ring without joining the Dark Brotherhood. 
