@@ -52,6 +52,7 @@ After updating and loading your existing character, save and close the game, the
 - Fixed a common crash in Dragonsreach
 - Made nights a bit brighter (thanks Bingus)
 - Removed [Immersive Patrols Lite](https://www.nexusmods.com/skyrimspecialedition/mods/718) since I suspect random fights between civil war NPCs were prone to causing crashes
+- Updated [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) to fix a bug where fast travel could become disabled even outside survival mode
 
 ### 0.3.11
 
