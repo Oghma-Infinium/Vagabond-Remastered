@@ -38,6 +38,8 @@ Key Info
 
 If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
 
+After updating and loading the list for the first time, make a new save, then [clean your save](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#cleaning-saves). This step is highly recommended.
+
 - Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Fixed an issue where entering skills menu immediately after obtaining insight may result in gaining up to triple the intended amount of insight points
 - Greater Insight is now required after skill level 51 instead of 50 for consistency with training costs
@@ -48,6 +50,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Made quest level gates actually work, should now be consistent with the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#quests-changes)
 - Fixed Paladin Martih getting aggressive too easily from friendly hits (thanks Fate)
 - Fixed a common crash in Dragonsreach
+- Removed [Immersive Patrols Lite](https://www.nexusmods.com/skyrimspecialedition/mods/718) since I suspect random fights between civil war NPCs were prone to causing crashes
 
 ### 0.3.11
 
