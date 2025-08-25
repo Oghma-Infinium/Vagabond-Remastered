@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.3.12](#0312) Release Date: August 25, 2025
 - [0.3.11](#0311) Release Date: August 22, 2025
 - [0.3.10](#0310) Release Date: August 19, 2025
 - [0.3.9](#039) Release Date: August 17, 2025
@@ -29,7 +30,24 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
+### 0.3.12
 
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
+- Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Fixed an issue where entering skills menu immediately after obtaining insight may result in gaining up to triple the intended amount of insight points
+- Greater Insight is now required after skill level 51 instead of 50 for consistency with training costs
+- Enable regular to greater insight conversion with 5:1 ratio
+- Nerfed excessively spongy dragon HP
+- Nerfed Bleak Falls Barrow boss
+- Fixed an issue where equipping some unique weapons would increase regular weapon art cost
+- Made quest level gates actually work, should now be consistent with the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#quests-changes)
+- Fixed Paladin Martih getting aggressive too easily from friendly hits (thanks Fate)
+- Fixed a common crash in Dragonsreach
 
 ### 0.3.11
 
@@ -40,6 +58,8 @@ Key Info
 If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
 
 - Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- First Heavy Armor perk now gives 0.5% poise resistance per level of Heavy Armor skill when wearing heavy chestpiece
+- First Light Armor perk now gives 0.35% poise resistance per level of Light Armor skill when wearing light chestpiece
 - Fixed Battlemage magicka battery not working against enemies with 0 or less magicka
 - Fixed issues with Void Shards sometimes not dropping when they should
 - Removed dodges, sprinting and sprint attacks from Awoken Draugr (this was not intended in the first place)
