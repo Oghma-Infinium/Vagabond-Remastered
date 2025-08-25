@@ -50,6 +50,7 @@ After updating and loading your existing character, save the game, then [clean y
 - Made quest level gates actually work, should now be consistent with the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#quests-changes)
 - Fixed Paladin Martih getting aggressive too easily from friendly hits (thanks Fate)
 - Fixed a common crash in Dragonsreach
+- Made nights a bit brighter (thanks Bingus)
 - Removed [Immersive Patrols Lite](https://www.nexusmods.com/skyrimspecialedition/mods/718) since I suspect random fights between civil war NPCs were prone to causing crashes
 
 ### 0.3.11
