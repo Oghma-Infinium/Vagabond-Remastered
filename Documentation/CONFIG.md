@@ -152,7 +152,7 @@ Thanks to Wabbajack, MCMs will come pre-configured with the intended settings. T
 # Cleaning saves
 
 >[!IMPORTANT]
->Installing [Java 8](https://www.java.com/en/) is necessary to run Resaver tool!
+>Installing [this version of Java 8](https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe) is necessary to run Resaver tool!
 
 You can use Resaver to clean  your save of loose scripts, which may help your save's longevity. However it is not a silver bullet guaranteed to fix all issues, and in very unlucky cases it could make situation worse and break the save. **Should only be used if modlist update announcement or staff member advises to do it.**
 See steps in the image below on how to clean your save.
