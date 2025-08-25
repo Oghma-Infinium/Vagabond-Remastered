@@ -24,6 +24,7 @@
   - [Q: Why does unsheating weapons put me in third-person? Can I play the list in first-person?](#q-why-does-unsheating-weapons-put-me-in-third-person-can-i-play-the-list-in-first-person)
   - [Q: How do I change my character's body appearance?](#q-how-do-i-change-my-characters-body-appearance)
   - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
+  - [Q: Why is courier not appearing?](#q-why-is-courier-not-appearing)
   - [Q: How do I start Dac0da?](#q-how-do-i-start-dac0da)
   - [Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?](#q-i-cant-find-altano-in-the-windpeak-inn--how-do-i-start-vigilant)
   - [Q: How do I start UNSLAAD?](#q-how-do-i-start-unslaad)
@@ -66,6 +67,11 @@ A: In racemenu when creating your character or after by opening the OBody menu w
 
 ### Q: How do I start the main questline?  
 A: [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) skips the 1st Act of the main questline. Dragons will start spawning at level 15, or earlier at certain locations. After slaying your first dragon, `Way of the Voice quest` starts.
+
+
+### Q: Why is courier not appearing?
+
+A: Sometimes the courier can get stuck somewhere. You can teleport to courier by copy-pasting console command `player.moveto 00039fb7`
 
 ### Q: How do I start Dac0da?
 A: Read the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#quests-changes).
