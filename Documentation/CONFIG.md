@@ -64,7 +64,7 @@ Vagabond Remastered is by default designed to be played with a controller. Howev
 
 
 Below are the list of mods you will find under the `OPTIONAL ADDONS` separator in MO2.
- 1. `ENB Frame Generation`: This mod requires a GPU that supports DirectX 12.
+ 1. `ENB Frame Generation`: This mod requires a GPU that supports DirectX 12. **MUST DISABLE SMOOTH MOTION IN NVIDIA APP OR THE GAME CRASHES** (both global and program settings)
  2. `ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA`: This mod requires a GPU that supports DirectX 12. It automatically enables correct AA type depending on your GPU brand.
  3. `Force 1080p resolution`: As the name implies, this mod can be enabled to force the game run on 1080p. Intended as optional performance boost for those with 1440p or 4K screens. **DOES NOT WORK TOGETHER WITH FRAME GENERATION, WILL CAUSE A BLACK SCREEN**
  5. `AVX 512 for HDT-SMP`: This mod contains the AVX512 version of the [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) `.dll` file compatible with the list. It is ***highly*** suggested that you try out this addon if you have a CPU that supports AVX-512 instruction. If you do not know if your CPU supports AVX-512, then google it or use a tool like HWinfo. **ENABLING THIS MOD WITH AN INCOMPATIBLE CPU WILL EITHER CRASH YOUR GAME OR BREAK ALL SMP**.
