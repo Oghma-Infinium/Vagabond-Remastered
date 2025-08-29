@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.3.13](#0313) Release Date: August 29, 2025
 - [0.3.12](#0312) Release Date: August 25, 2025
 - [0.3.11](#0311) Release Date: August 22, 2025
 - [0.3.10](#0310) Release Date: August 19, 2025
@@ -29,6 +30,31 @@
 - [0.3.6](#036) Release Date: August 12, 2025
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
+
+
+### 0.3.13
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
+After updating and loading your existing character, save and close the game, then [clean your save](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#cleaning-saves). *This step is highly recommended.*
+
+- Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Reworked the respawn mechanic. Now the last location you slept at is saved as the default respawn point. You must sleep once after the update to register a point, otherwise Bannered Mare is the default location.
+  - Works with tent bedrolls rom [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) as a portable respawn point.
+- Introduced Grand Insight, a rare potion that grants 1 perk point when consumed, up to 20 total, after which the potion grants 50 Greater Insight points instead.
+  - These can be found as very rare loot in dungeon chests, with higher chance from locked chests. There are also 15 of them placed in the world in very hidden locations.
+  - Smithing perk Seeker's End (100) allows the player to just craft these potions with 5 Void Shards.
+- Overhauled even more NPC outfits, with focus on Fine Clothes and Priest Robes.
+- Gave enemy NPC dremoras unique 2H moveset
+- Made some bosses of Skyrim Boss Overhaul have reasonable stamina values, previously being practically unlimited
+- Nerfed the damage of dragon breath attacks by around 30%
+- Nerfed Enchanted Sphere bosses found in Dwemer dungeons
+- Reduced the weight of Essence and Refined Essence from 0.5 to 0.1
+
 
 ### 0.3.12
 
