@@ -44,12 +44,12 @@ After updating and loading your existing character, save and close the game, the
 
 - Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Reworked the respawn mechanic. Now the last location you slept at is saved as the default respawn point. You must sleep once after the update to register a point, otherwise Bannered Mare is the default location.
-  - Works with tent bedrolls rom [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) as a portable respawn point.
+  - Works with tent bedrolls from [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) as a portable respawn point.
 - Introduced Grand Insight, a rare potion that grants 1 perk point when consumed, up to 20 total, after which the potion grants 50 Greater Insight points instead.
   - These can be found as very rare loot in dungeon chests, with higher chance from locked chests. There are also 15 of them placed in the world in very hidden locations.
   - Smithing perk Seeker's End (100) allows the player to just craft these potions with 5 Void Shards.
 - Overhauled even more NPC outfits, with focus on Fine Clothes and Priest Robes.
-- Gave enemy NPC dremoras unique 2H moveset
+- Gave enemy NPC Dremoras unique 2H moveset
 - Made some bosses of Skyrim Boss Overhaul have reasonable stamina values, previously being practically unlimited
 - Nerfed the damage of dragon breath attacks by around 30%
 - Nerfed Enchanted Sphere bosses found in Dwemer dungeons
