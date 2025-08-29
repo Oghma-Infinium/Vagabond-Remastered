@@ -54,6 +54,7 @@ After updating and loading your existing character, save and close the game, the
 - Nerfed the damage of dragon breath attacks by around 30%
 - Nerfed Enchanted Sphere bosses found in Dwemer dungeons
 - Reduced the weight of Essence and Refined Essence from 0.5 to 0.1
+- Reduced the lightning damage weakness of conductive armor from 33% to 10%
 
 
 ### 0.3.12
