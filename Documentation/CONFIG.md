@@ -127,7 +127,8 @@ Thanks to Wabbajack, MCMs will come pre-configured with the intended settings. T
 
  - `Skyrim Unbound`: Can change various settings related to start. Choosing non-dragonborn is not recommended. Also, **do NOT choose vampire or werewolf start**, these cause stuff to break.
  - `Better Third Person Selection`: ???
- - `CollisionReset`: Change the keybind for resetting SMP physics (Default: `F10`). 
+ - `CollisionReset`: Change the keybind for resetting SMP physics (Default: `F10`).
+ - `Dismembering Framework`: By default gore features are disabled, but can be enabled by `Dismembering Framework enable gore` onder `optionals` separator. However, these changes may not automatically apply on an existing save, in which case you can copy the settings from [this image](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/dismemberingMCM.png)
  - `Quick Beri`: Can change lantern hotkey (Default: `L` or long-press activate) and other related settings.
  - `EVG CLAMBER`: Change the EVG Clamber settings (Default: `Balanced`). This isn't recommended to be tampered with but you can.
  - `LOD Reload Bug Fix`: **(DEBUG ONLY)** Can fix unloaded LODs.
