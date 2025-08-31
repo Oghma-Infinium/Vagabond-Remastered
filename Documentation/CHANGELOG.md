@@ -55,6 +55,8 @@ After updating and loading your existing character, save and close the game, the
 - Nerfed Enchanted Sphere bosses found in Dwemer dungeons
 - Reduced the weight of Essence and Refined Essence from 0.5 to 0.1
 - Reduced the lightning damage weakness of conductive armor from 33% to 10%
+- Added Wound Dressing consumable which increases health regeneration by 100% for 5 minutes, but the effect is instantly removed when receiving an unblocked hit.
+  - Wound Dressings can be crafted on tanning rack with 1 linen wrap + common alcohol types. They are also found as common loot from many enemy NPCs.
 
 
 ### 0.3.12
