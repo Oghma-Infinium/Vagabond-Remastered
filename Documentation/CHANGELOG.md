@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.3.14](#0314) Release Date: September 3rd, 2025
 - [0.3.13](#0313) Release Date: August 29, 2025
 - [0.3.12](#0312) Release Date: August 25, 2025
 - [0.3.11](#0311) Release Date: August 22, 2025
@@ -31,6 +32,28 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
+### 0.3.14
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
+After updating and loading your existing character, save and close the game, then [clean your save](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#cleaning-saves). *This step is highly recommended.*
+
+- Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Added [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000) and [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285)
+  - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) still take priority for overhauling vanilla spells!
+  - Some spells/enchantments with overlapping design or bad balance implications were culled
+- Added Halgari's RPG loot Synthesis patcher
+  - It makes almost all non-enchanted loot have 5% chance to get 1 enchantment and 1% chance to get 2 enchantments
+  - Has no effect no existing enchanted loot, so this is basically a pure bonus to amount of enchanted gear you will find
+  - The randomizer gear only contains enchantments from Thaumaturgy and Summermyst
+- Reduced drop rate of Grand Insight from most containers
+- Buffed extra loot from locked containers, including chance to get Grand Insight
+- Moved dodge related perks from Sneak skill tree to Weapon Arts tree
+  - Unfortunately this means that if you've already taken the perks form Sneak tree, they are reverted to default Vokord ones which buff the sneak roll
 
 ### 0.3.13
 
