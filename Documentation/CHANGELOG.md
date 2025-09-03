@@ -48,10 +48,10 @@ After updating and loading your existing character, save and close the game, the
   - Some spells/enchantments with overlapping design or bad balance implications were culled
 - Added Halgari's RPG loot Synthesis patcher
   - It makes almost all non-enchanted loot have 5% chance to get 1 enchantment and 1% chance to get 2 enchantments
-  - Has no effect no existing enchanted loot, so this is basically a pure bonus to amount of enchanted gear you will find
+  - Has no effect on existing enchanted loot, so this is basically a pure bonus to amount of enchanted gear you will find
   - The randomizer gear only contains enchantments from Thaumaturgy and Summermyst
 - Reduced drop rate of Grand Insight from most containers
-- Buffed extra loot from locked containers, including chance to get Grand Insight
+- Buffed extra loot from locked containers, including the chance to get Grand Insight
 - Moved dodge related perks from Sneak skill tree to Weapon Arts tree
   - Unfortunately this means that if you've already taken the perks form Sneak tree, they are reverted to default Vokord ones which buff the sneak roll
 
