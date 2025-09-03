@@ -44,7 +44,7 @@ After updating and loading your existing character, save and close the game, the
 
 - Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Added [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000) and [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285)
-  - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) still take priority for overhauling vanilla spells!
+  - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) still take priority for overhauling vanilla spells and enchantments!
   - Some spells/enchantments with overlapping design or bad balance implications were culled
 - Added Halgari's RPG loot Synthesis patcher
   - It makes almost all non-enchanted loot have 5% chance to get 1 enchantment and 1% chance to get 2 enchantments
