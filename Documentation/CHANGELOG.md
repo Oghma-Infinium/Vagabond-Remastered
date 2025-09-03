@@ -46,6 +46,7 @@ After updating and loading your existing character, save and close the game, the
 - Added [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000) and [Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6285)
   - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) still take priority for overhauling vanilla spells and enchantments!
   - Some spells/enchantments with overlapping design or bad balance implications were culled
+  - May take up to 2 in-game days for vendor and loot lists to update with the new items
 - Added Halgari's RPG loot Synthesis patcher
   - It makes almost all non-enchanted loot have 5% chance to get 1 enchantment and 1% chance to get 2 enchantments
   - Has no effect on existing enchanted loot, so this is basically a pure bonus to amount of enchanted gear you will find
