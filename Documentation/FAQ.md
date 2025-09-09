@@ -67,7 +67,7 @@ A: The list is designed for third-person gameplay and first-person combat is not
 A: By default you can only do so while inside Tween Menu (aka tab/character menu). You can disable this behavior by disabling the mod `Wait Menu Redirected` in optionals separator. Controller players must keep this enabled or power attack behavior since the feature is used to free up RT for power attack behavior.
 
 ### Q: How do I change my character's body appearance?
-A: In racemenu when creating your character or after by opening the OBody menu with `;` (check or change the keybind in the OBody MCM if you do not have a QWERTY keyboard).
+A: In racemenu when creating your character or after by opening the OBody menu with `O` (check or change the keybind in the OBody MCM if you do not have a QWERTY keyboard).
 
 ### Q: How do I start the main questline?  
 A: [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) skips the 1st Act of the main questline. Dragons will start spawning at level 15, or earlier at certain locations. After slaying your first dragon, `Way of the Voice quest` starts.
