@@ -52,10 +52,10 @@ After updating and loading your existing character, save and close the game, the
   - Backflip Shot (Requires Bow Mastery Rank 2): While sprinting, press the bash button to leap backwards and fire at the same time. This move creates distance from enemies, letting you disengage quickly while dealing damage.
   - The entire Archery skill tree is overhauled with these changes in mind.
   - Baseline Marksman physical damage has been increased to make the playstyle more competitive with melee builds.
-- Bash now gives Timed Block frames, effectively working like a parr. Applies to bow bash too. (Still requires the first Block perk to function)
-- Waterbreathing effects from Spells, Enchantments and Potions now replaced with Fortify Swim Speed, as the player already had unlimited breath underwater by default
-  - Obviously I might have missed some, Argonian racial passive for instance still remains unchanged.
-  - If the Waterbreathing spell is already learned, the change to Deep Dive (swim speed buff) spell might not apply.
+- Bash now gives Timed Block frames, effectively working like a parry. Applies to bow bash too. (Still requires the first Block perk to function)
+- Waterbreathing effects from spells, enchantments and potions now replaced with Fortify Swim Speed, as the player already had unlimited breath underwater by default
+  - Obviously, I might have missed some, Argonian racial passive for instance still remains unchanged.
+  - If the Waterbreathing spell is already learned, the change to Deep Dive (swim speed buff) might not apply.
 - Removed many remaining Odin spells which had identical variant from Mysticism
   - If you have already learned these spells, they won't get removed
 - Made Vigilant boss summon spells unobtainable, as killing them unintentionally grants perk points, and they never were part of intended summoner balance in the list
