@@ -52,6 +52,7 @@ After updating and loading your existing character, save and close the game, the
   - Backflip Shot (Requires Bow Mastery Rank 2): While sprinting, press the bash button to leap backwards and fire at the same time. This move creates distance from enemies, letting you disengage quickly while dealing damage.
   - The entire Archery skill tree is overhauled with these changes in mind.
   - Baseline Marksman physical damage has been increased to make the playstyle more competitive with melee builds.
+  - Bows now come with a default Weapon Art. Unique Weapon Arts also work with bows if you have the Artkeeper’s Legacy perk.
 - Bash now gives Timed Block frames, effectively working like a parry. Applies to bow bash too. (Still requires the first Block perk to function)
 - Waterbreathing effects from spells, enchantments and potions now replaced with Fortify Swim Speed, as the player already had unlimited breath underwater by default
   - Obviously, I might have missed some, Argonian racial passive for instance still remains unchanged.
