@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.3.15](#0315) Release Date: September 10rd, 2025
 - [0.3.14](#0314) Release Date: September 3rd, 2025
 - [0.3.13](#0313) Release Date: August 29, 2025
 - [0.3.12](#0312) Release Date: August 25, 2025
@@ -31,6 +32,35 @@
 - [0.3.6](#036) Release Date: August 12, 2025
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
+
+
+### 0.3.15
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
+After updating and loading your existing character, save and close the game, then [clean your save](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#cleaning-saves). *This step is highly recommended.*
+
+- Lots of bug fixes, too many to list. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Complete bow gameplay rework, with custom combination of [Bow Rapid Combo V3](https://www.nexusmods.com/skyrimspecialedition/mods/89308), [MCO Skyrim Hunter Bow](https://www.nexusmods.com/skyrimspecialedition/mods/114608) and [Dynamic Dodge Shot](https://www.nexusmods.com/skyrimspecialedition/mods/114101)
+  - Kick Attack (Unlocked by default): While holding a bow or crossbow, press the power attack button to perform a quick melee kick to deal light damage at close range and stagger the opponent.
+  - Rapid Shot (Requires Bow Mastery Rank 1): Tap the attack button repeatedly to fire a rapid stream of arrows. This attack consumes ammunition and Stamina less efficiently, but delivers much higher DPS compared to standard bow drawing.
+  - Dodge Shot (Requires Bow Mastery Rank 2): With a fully drawn arrow, press the dodge button to fire instantly while performing a dodge with extended distance. Great for avoiding attacks while staying on the offensive.
+  - Backflip Shot (Requires Bow Mastery Rank 2): While sprinting, press the bash button to leap backwards and fire at the same time. This move creates distance from enemies, letting you disengage quickly while dealing damage.
+  - The entire Archery skill tree is overhauled with these changes in mind.
+  - Baseline Marksman physical damage has been increased to make the playstyle more competitive with melee builds.
+- Bash now gives Timed Block frames, effectively working like a parr. Applies to bow bash too. (Still requires the first Block perk to function)
+- Waterbreathing effects from Spells, Enchantments and Potions now replaced with Fortify Swim Speed, as the player already had unlimited breath underwater by default
+  - Obviously I might have missed some, Argonian racial passive for instance still remains unchanged.
+  - If the Waterbreathing spell is already learned, the change to Deep Dive (swim speed buff) spell might not apply.
+- Removed many remaining Odin spells which had identical variant from Mysticism
+  - If you have already learned these spells, they won't get removed
+- Made Vigilant boss summon spells unobtainable, as killing them unintentionally grants perk points, and they never were part of intended summoner balance in the list
+  - If you have already learned these spells, they won't get removed
+- Further adjusted stat scaling of some bosses in mod-added content
 
 ### 0.3.14
 
