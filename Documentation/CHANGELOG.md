@@ -52,7 +52,7 @@ After updating and loading your existing character, save and close the game, the
 - Fixed bow rapid shot applying enchantment effects even with zero charge.
 - Fixed Fool's Gold enchant not properly killing the player when unequipped with insufficient gold.
 - Disabled Bound Weapon enchantments from NPCs as it caused buggy behavior.
-- Reworked Breton racial skill Stones of Gallen for Tower Stone as the default one had no effect. It now gives +2 bonus to lockpicking dice rolls.
+- Reworked Breton racial skill Stones of Gallen for Tower Stone as the default one had no effect. It now gives +2 to lockpicking dice rolls.
 - More tweaks on boss balance.
 
 ### 0.3.15
