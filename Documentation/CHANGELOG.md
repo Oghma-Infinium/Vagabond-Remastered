@@ -48,6 +48,7 @@ After updating and loading your existing character, save and close the game, the
 - Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Some UI tweaks, such as changing style of HUD attribute bars and some text boxes.
 - Reduced frequency of extra enchanted drops from RPG loot, as the drop rates were clearly excessive. Has no impact other enchanted loot.
+  - Does not affect containers/NPCs already loaded by the save.
 - Fixed some circular leveled list errors, causing potentially unexpected/unintended outcomes from loot drops.
 - Fixed issues with Bow overhaul when entering dialogue menus.
 - Fixed bow rapid shot applying enchantment effects even with zero charge.
