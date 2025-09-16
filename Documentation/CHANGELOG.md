@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.3.16](#0316) Release Date: September 16th, 2025
 - [0.3.15](#0315) Release Date: September 10th, 2025
 - [0.3.14](#0314) Release Date: September 3rd, 2025
 - [0.3.13](#0313) Release Date: August 29, 2025
@@ -33,6 +34,26 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
+
+### 0.3.16
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
+After updating and loading your existing character, save and close the game, then [clean your save](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#cleaning-saves). *This step is highly recommended.*
+
+- Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Reduced frequency of extra enchanted drops from RPG loot, as the drop rates were clearly excessive. Has no impact other enchanted loot.
+- Fixed some circular leveled list errors, causing potentially unexpected/unintended outcomes from loot drops.
+- Fixed issues with Bow overhaul when entering dialogue menus.
+- Fixed bow rapid shot applying enchantment effects even with zero charge.
+- Fixed Fool's Gold enchant not properly killing the player when unequipped with insufficient gold.
+- Disabled Bound Weapon enchantments from NPCs as it caused buggy behavior.
+- Reworked Breton racial skill Stones of Gallen for Tower Stone as the default one had no effect. It now gives +2 bonus to lockpicking dice rolls.
+- More tweaks on boss balance.
 
 ### 0.3.15
 
