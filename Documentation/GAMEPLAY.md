@@ -354,20 +354,20 @@ Vagabond Remastered comes with several new quest mods and expansions for several
  - [Artifacts - The Tournament of the ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264): Travel to Attribution's Share and earn Boethiah's favor by taking on her Champions, gaining some powerful artifacts along the way.
  - [Belethor's Sister](https://www.nexusmods.com/skyrimspecialedition/mods/92381): What if Belethor actually sold his sister?
  - [The Welkynar Knight](https://www.nexusmods.com/skyrimspecialedition/mods/89510): A quest mod to help a knight and fight against the Thalmor.
- - [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405): Work with the Psijic order to uncover the secrets of the destroyed Numidium that suddenly appears off the coast of Solitude.
  - [Demon of Dream](https://www.nexusmods.com/skyrimspecialedition/mods/118719): While wandering Skyrim, you may come across three ex-cultists of Vaermina. Enter their nightmares and uncover the secrets within!
  - [Final Farewell](https://www.nexusmods.com/skyrimspecialedition/mods/127894?): Come across a ghost who searches for vengeance, and help him come to terms with the afterlife.
  - [Sleepwalking Into A Nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/141047): Adds a new Daedric prince quest where you track down a missing woman, delving into her nightmares and overcoming her fears.
- - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) + [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847): New Notice Board type system, reminiscent of The Witcher and other classic RPG titles.
+ - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576): New Notice Board type system, reminiscent of The Witcher and other classic RPG titles.
  - [More to do in the Soul Cairn](https://www.nexusmods.com/skyrimspecialedition/mods/115962): Three new inhabitants have been added to the Soul Cairn, help them settle their affairs before they face the judgement of the Ideal Masters.
  - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061): Expands upon the Destroy the Dark Brotherhood quest, adding an entire Penitus Oculatus questline for "good guy" playthroughs!
  - [Redeeming Fultheim](https://www.nexusmods.com/skyrimspecialedition/mods/136788): Convince Fultheim to rejoin the Blades.
  - [Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/109541): Travel to Icemoth, an island hidden in the Sea of Ghosts, and uncover the secrets that lay buried there.
  - [Meridia's Order](https://www.nexusmods.com/skyrimspecialedition/mods/102584): Take up the mantle of Meridia's Champion, and work with Meridia's Order to destroy a threat of Necromantic Tyranny in this new adventure!
- - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772): Travel to the Shivering Isles in a fully-voiced overhaul of Skyrim's CC Saints and Seducers Addon!
- - [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789): What happens to the Hero when the adventure is over?
- - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849): Join the remnants of the Vigilant of Stendarr and embark on an epic journey through the lore of the Elder Scrolls.
  - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565): Travel to the island of Wyrmstooth to assist the East Empire Company take on an ancient and powerful dragon. 
+ - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772): Travel to the Shivering Isles in a fully-voiced overhaul of Skyrim's CC Saints and Seducers Addon!
+ - [DAc0da](https://www.nexusmods.com/skyrimspecialedition/mods/134405): Work with the Psijic order to uncover the secrets of the destroyed Numidium that suddenly appears off the coast of Solitude.
+ - [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849): Join the remnants of the Vigilant of Stendarr and embark on an epic journey through the lore of the Elder Scrolls.
+ - [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789): What happens to the Hero when the adventure is over?
 
 ## Vanilla Quest Expansions and Edits
 
