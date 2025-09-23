@@ -53,6 +53,9 @@ After updating and loading your existing character, save and close the game, the
 - Timed Block on a spell with Apocalypse Proof perk now sends back most projectiles back towards attacker.
 - Removed one Whiterun horse statue which I think was causing a crash sometimes.
 - Removed [Security Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/58224) and addons because I realized it was completely redundant when the list doesn't even have lockpicking minigame.
+- Added [Japhet's Folly Paper Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/158551)
+- Added [https://www.nexusmods.com/skyrimspecialedition/mods/159863](https://www.nexusmods.com/skyrimspecialedition/mods/159863)
+- Updated bunch of mods to latest versions
 
 ### 0.3.16
 
