@@ -52,6 +52,7 @@ After updating and loading your existing character, save and close the game, the
 - Fixed an issue where entering bleedout state (fallback when respawn doesn't work) did not properly heal enemies in the area.
 - Timed Block on a spell with Apocalypse Proof perk now sends back most projectiles back towards attacker.
 - Removed one Whiterun horse statue which I think was causing a crash sometimes.
+- Removed [Security Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/58224) and addons because I realized it was completely redundant when the list doesn't even have lockpicking minigame.
 
 ### 0.3.16
 
