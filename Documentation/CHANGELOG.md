@@ -48,6 +48,7 @@ After updating and loading your existing character, save and close the game, the
 
 - Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Reworked enemy scaling to try to ensure strength of each enemy is more consistent and appropriate for their level. This shouldn't make the list easier or harder, just more consistent.
+- Added ceiling to level scaling on enemy spawns in many dungeons which previously had unlimited level scaling. Now each dungeon should a maximum level for enemies that can spawn there.
 - Lots of tweaks and fixes to Dac0da for stuff I encountered on personal playthrough.
 - Fixed an issue where entering bleedout state (fallback when respawn doesn't work) did not properly heal enemies in the area.
 - Timed Block on a spell with Apocalypse Proof perk now sends back most projectiles back towards attacker.
