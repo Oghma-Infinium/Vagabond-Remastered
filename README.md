@@ -172,7 +172,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
 
 >[!IMPORTANT]
->The list requires Wabbajack version **4.0.0.0 or later**. Installing the modlist on older versions of Wabbajack will result in issues.
+>The list requires Wabbajack version **4.0.0.0 or later**. Installing the modlist on older versions of Wabbajack will result in issues. **Unofficial versions of Wabbajack are NOT supported** and will most likely result in a broken install. Do not ask for support if you're using outdated or unofficial versions of Wabbajack app.
 
 ### Downloading and Installing Vagabond Remastered
 
