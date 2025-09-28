@@ -66,7 +66,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
    - Tower: Your Armor Rating is increased by 100, and you reflect 100% of incoming melee damage back at your attacker.
    - Warrior: Your Health is increased by 50, and you resist 10% of incoming weapon and spell damage. However, your attacks consume 10% more Stamina.
    </Details>
- - Vagabond Remastered uses Archon - Faiths of Tamriel, aljo's amazing custom-made religion mod. Read more about it [here](https://github.com/Oghma-Infinium/Apostasy/blob/main/GAMEPLAY.md#archon---faiths-of-tamriel)!
+ - Vagabond Remastered uses [Archon - Faiths of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/160141?tab=files), for religion and blessings.
  - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408/) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul the Vampire and Werewolf systems.
  - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) cover Alchemy and Enchanting respectively.
  - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619), [Artifacts of the Ancestors](https://www.nexusmods.com/skyrimspecialedition/mods/92389), and [Mysterious Mementos](https://www.nexusmods.com/skyrimspecialedition/mods/118342) overhaul unique artifacts and add several new ones.
