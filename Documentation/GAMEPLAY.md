@@ -181,7 +181,7 @@ Vagabond Remastered changes the way death works in Skyrim with [Acheron](https:/
 
 When you die on three outcomes will happen:
 - You teleport to the last bed you slept at. **This is the primary respawn method.**
-- You enter a bleedout state for 30 seconds, during which enemies will de-aggro and regenerate their health.
+- You enter a bleedout state for a few seconds, during which enemies will de-aggro and regenerate their health.
 - You teleport to some nearby exterior location.
 - You're teleported to one of the inns.
 
