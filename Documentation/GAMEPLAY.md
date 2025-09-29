@@ -185,8 +185,6 @@ When you die on three outcomes will happen:
 - You teleport to some nearby exterior location.
 - You're teleported to one of the inns.
 
-In select story-based locations where alt-death doesn't work well, the mechanic disables itself and your character simply dies like normal.
-
 ## Item Durability
 
 Vagabond Remastered utilizes [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544), which makes armor and weapons lose their tempering durability over time, the weapons can degrade all the way to zero durability, meaning they provide no armor nor damage.
