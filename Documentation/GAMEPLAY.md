@@ -145,6 +145,7 @@ Vagabond Remastered takes a mixed approach to the acquisition of perks.
 
 - Each level-up grants one perk point
 - Dragon and unique boss kills grant one perk point, with a cap of 50 in a playthrough
+- Grand Insight, a potion found as rare loot grants one perk point, with a cap of 20 in a playthrough
 - With default start settings the player starts with 3 free perk points at level 1
 
 # Difficulty Overhaul
