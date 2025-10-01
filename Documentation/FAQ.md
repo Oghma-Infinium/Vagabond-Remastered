@@ -64,7 +64,7 @@ A: The list is capped to 61 FPS by default. While [SSE Display Tweaks](https://w
 A: The list is designed for third-person gameplay and first-person combat is not supported at all. Do not report any first-person gameplay related issues to me, I don't care.
 
 ### Q: How do I wait?
-A: By default you can only do so while inside Tween Menu (aka tab/character menu). You can disable this behavior by disabling the mod `Wait Menu Redirected` in optionals separator. Controller players must keep this enabled or power attack behavior since the feature is used to free up RT for power attack behavior.
+A: By default you can only do so while inside Tween Menu (aka tab/character menu). You can disable this behavior by disabling the mod `Wait Menu Redirected` in optionals separator. Controller players must keep this enabled because the feature is used to free up RT for power attack behavior.
 
 ### Q: How do I change my character's body appearance?
 A: In racemenu when creating your character or after by opening the OBody menu with `O` (check or change the keybind in the OBody MCM if you do not have a QWERTY keyboard).
