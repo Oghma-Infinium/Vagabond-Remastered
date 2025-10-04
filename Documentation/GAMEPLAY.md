@@ -82,7 +82,7 @@ The following mods are considered the "foundations" of the combat and gameplay f
  - [Spell Hotbar 2](https://github.com/pWn3d1337/Skyrim_SpellHotbar2) overhauls magic gameplay and is recommended to be used over vanilla casting.
  - [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) adds Dodging to the game.
    - Dodges are based on Armor Type. Heavy Armor and Cloth users gets a shorter step dodge with shortened iframes, Light Armor gets a longer roll dodge with longer iframes.
-   - The Sneak skill tree has multiple perks to upgrade your Dodge efficiency.
+   - The Weapon Arts skill tree has multiple perks to upgrade your Dodge efficiency.
  - [Maxsu Poise](https://github.com/max-su-2019/MaxsuPoise/blob/master/docs/en/Mechanics%20Manual.md) and [Modern Stagger Lock](https://github.com/max-su-2019/ModernStaggerLock) implement a Poise system, which has been fine tuned for the list.
  - **Custom Timed Blocking**: If you block just before enemy hit, gain increased block efficiency with a chance to stagger the attacker.
    - Unlocked by obtaining the very first perk in the Block skill tree.
