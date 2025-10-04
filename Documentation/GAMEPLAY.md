@@ -52,18 +52,18 @@ Before reading this section, I suggest looking over the [load order](https://loa
  - Standing Stones are covered by a mix of [Stones of Sacrifice](https://www.nexusmods.com/skyrimspecialedition/mods/121629) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411)
     <Details>
       
-   - Apprentice: Magicka Regenerates twice as fast, and spells randomly cost up to 50% less. However, your Magic Resistance is reduced by 25% and you take twice as much Magicka damage.
+   - Apprentice: Magicka Regenerates twice as fast, and spells randomly cost up to 50% less. However, your Magic Resistance is reduced by 25% and you take 50% more Magicka damage.
    - Atronach: Your Magicka is increased by 200, and you have a 20% chance to absorb the Magicka from incoming spells. However, You can not regenerate Magicka in combat and potions that fortify or restore Magicka are half as effective.
-   - Lady: Your Health, Magicka and Stamina are increased by 25. When you fall below half Health, Magicka, or Stamina, you gain 50% extra Health, Magicka, or Stamina Regeneration.
+   - Lady: Your Health, Magicka and Stamina are increased by 25. When you fall below half Health, Magicka, or Stamina, you gain 25% extra Health, Magicka, or Stamina Regeneration.
    - Lord: Upon receiving a melee hit your melee attacks restore Health for 5 seconds. However, your Fire and Poison Resistance is reduced by 25%.
    - Lover: Your Stamina regenerates twice as fast, but you take 20% extra attack damage while power attacking or drawing a bow.
-   - Mage: Your Magicka is increased by 50, and your spells and enchantments cost 10% less.
+   - Mage: Your Magicka is increased by 50, and you cast spells 20% faster. However, you take 50% more damage when charging or casting a spell.
    - Ritual: You can summon or reanimate one additional minion, but your summoning and reanimation spells last half as long.
-   - Serpent: Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for 50% more hits. 
+   - Serpent: Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for 50% more hits. However, your Armor Rating is reduced by 50 points.
    - Shadow: You move 20% faster, and have a chance to become intangible during incoming melee attacks. However, your blocking and bashing are 50% less effective.
-   - Steed: Your Carry Weight is increased by 100. Sprint attacks deal 15% more and power attacks 10% more damage. However, you deal half as much physical damage and spells cost twice as much when you run out of Stamina.
-   - Thief: Your Stamina is increased by 50, you deal 25% extra damage with sneak attacks, and you find more gold in your travels.
-   - Tower: Your Armor Rating is increased by 100, and you reflect 100% of incoming melee damage back at your attacker.
+   - Steed: Your Carry Weight is increased by 100. Sprint attacks deal 15% more damage and power attacks 10% more damage. However, you deal half as much physical damage and spells cost twice as much when you run out of Stamina.
+   - Thief: Your Stamina is increased by 50, you deal 25% extra damage with sneak attacks, and you find more gold in your travels. However, you take 10% more poise damage.
+   - Tower: Your Armor Rating is increased by 100, your Magic Resistance is increased by 10% and you reflect 100% of incoming melee damage back at your attacker. However, you move 20% slower while in combat.
    - Warrior: Your Health is increased by 50, and you resist 10% of incoming weapon and spell damage. However, your attacks consume 10% more Stamina.
    </Details>
  - Vagabond Remastered uses [Archon - Faiths of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/160141?tab=files), for religion and blessings.
