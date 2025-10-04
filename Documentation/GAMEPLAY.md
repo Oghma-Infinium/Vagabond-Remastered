@@ -61,7 +61,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
    - Ritual: You can summon or reanimate one additional minion, but your summoning and reanimation spells last half as long.
    - Serpent: Your Poison Resistance is increased by 50%, your potions last 50% longer, and your poisons last for 50% more hits. However, your Armor Rating is reduced by 50 points.
    - Shadow: You move 20% faster, and have a chance to become intangible during incoming melee attacks. However, your blocking and bashing are 50% less effective.
-   - Steed: Your Carry Weight is increased by 100. Sprint attacks deal 15% more damage and power attacks 10% more damage. However, you deal half as much physical damage and spells cost twice as much when you run out of Stamina.
+   - Steed: Your Carry Weight is increased by 100. Sprint attacks deal 20% more damage and power attacks 10% more damage. However, you deal half as much physical damage and spells cost twice as much when you run out of Stamina.
    - Thief: Your Stamina is increased by 50, you deal 25% extra damage with sneak attacks, and you find more gold in your travels. However, you take 10% more poise damage.
    - Tower: Your Armor Rating is increased by 100, your Magic Resistance is increased by 10% and you reflect 100% of incoming melee damage back at your attacker. However, you move 20% slower while in combat.
    - Warrior: Your Health is increased by 50, and you resist 10% of incoming weapon and spell damage. However, your attacks consume 10% more Stamina.
