@@ -83,8 +83,7 @@ Key Info
 - [Forgotten Vale Guardians - Chakra's Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/159743)
 - [Even more mods from MihailMods](https://next.nexusmods.com/profile/MihailMods/mods?gameId=1704)
   
-
-<\Details>  
+</Details> 
 
 ### 0.3.17
 
