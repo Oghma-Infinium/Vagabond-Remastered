@@ -71,9 +71,12 @@ Before reading this section, I suggest looking over the [load order](https://loa
  - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408/) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul the Vampire and Werewolf systems.
  - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) cover Alchemy and Enchanting respectively.
  - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619), [Artifacts of the Ancestors](https://www.nexusmods.com/skyrimspecialedition/mods/92389), and [Mysterious Mementos](https://www.nexusmods.com/skyrimspecialedition/mods/118342) overhaul unique artifacts and add several new ones.
- - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) overhauls the vanilla shouts. Speech perk tree also contains shout improving perks.
+ - [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) overhauls the vanilla shouts. Speech perk tree also contains shout improving perks.
+   - Note that the Dragonborn shouts custom perk tree from the mod is removed because the Speech Skill tree already covers shout perks.
  - [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) overhauls food and drink, transforming the traditional "eat 30 cheese wheels mid combat" into a more complex buff system.
  - [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) manages the Survival changes, such as Exhaustion, Hunger, and Warmth.
+ - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) overhauls the enchanting system, combined with [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) via patch.
+ - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) overhauls the magic system, combined with [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) and most of [Kittytail's spell packs](https://next.nexusmods.com/profile/Kittytail/mods?gameId=1704) for a large arsenal of spell options.
 
 
 ## Combat Foundations
@@ -360,11 +363,12 @@ Vagabond Remastered changes a significant amount of vanilla quests in one way or
 <summary>Modded Quests</summary>
 
  - **Wyrmstooth**: Requires level 15+ and completion of [The Way of the Voice](https://en.uesp.net/wiki/Skyrim:The_Way_of_the_Voice).
- - **DAc0da**: Requires level 25+ and clearing [Yngol Barrow](https://en.uesp.net/wiki/Skyrim:Yngol_Barrow).
- - **Vigilant**: Requires level 30+ and completion of [The House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors).
+ - **DAc0da**: Requires level 25+, clearing [Yngol Barrow](https://en.uesp.net/wiki/Skyrim:Yngol_Barrow) and completion of [Arniel's Endeavor](https://en.uesp.net/wiki/Skyrim:Arniel%27s_Endeavor).
+ - **Vigilant**: Requires level 30+ and completion of [The House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors) and [Kindred Judgment](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment).
  - **Unslaad**: Requires level 35+ and completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer) (main story).
 
 *It is recommended to play [Vicn](https://next.nexusmods.com/profile/Vicn)'s quest mods in the following order: DAc0da -> Vigilant -> Unslaad.*
+*You can skip the quest requirements for DAc0da, Vigilant and Unslaad with console command `set VicnSkipPrequisites to 1`*
 
 </Details>
 
