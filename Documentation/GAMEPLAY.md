@@ -205,7 +205,7 @@ In vanilla game, the player chooses between health, magicka or stamina on level 
 - Soldier is a safe starting class choice. Rogue is very strong for dodge-based builds. Battlemage is the best option for spellsword gameplay.
 - Recommended use for 3 starting perk points for melee focus: Timed Block, Weapon Art & 1H/2H mastery perk.
 - Lady is a good early choice for Standing Stone if you don't have more specialized plans yet.
-- Food buffs are VERY important for sustain. Remember that the list has food spoilage system, so don't hoard all food in inventory.
+- Food buffs are VERY important for sustain. Remember that the list has food spoilage system when Survival Mode is enabled, so don't hoard all food in inventory.
 
 # New and Notable Mechanics
 
