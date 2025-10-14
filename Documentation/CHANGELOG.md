@@ -47,7 +47,6 @@ Key Info
 - Many miscellaneous balance and perk tweaks, also too many to list.
 - List of mods added below. Not comprehensive but should cover the most important ones.
 
-<Details>
 <summary>Details</summary>
 
 - [Children of the North Wind - Ruins of the Ancient Nords](https://www.nexusmods.com/skyrimspecialedition/mods/147701)
