@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.4.0](#040) Release Date: TBD
 - [0.3.17](#0317) Release Date: September 23rd, 2025
 - [0.3.16](#0316) Release Date: September 16th, 2025
 - [0.3.15](#0315) Release Date: September 10th, 2025
@@ -35,6 +36,54 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
+### 0.4.0
+
+Key Info
+
+**This update is NOT save-safe. You must create a new character to play this update!**
+
+- Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- New Attribute system, see [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md) for details.
+- Many miscellaneous balance and perk tweaks, also too many to list.
+- List of mods added below. Not comprehensive but should cover the most important ones.
+
+<Details>
+<summary>Details</summary>
+
+- [Children of the North Wind - Ruins of the Ancient Nords](https://www.nexusmods.com/skyrimspecialedition/mods/147701)
+  - Replacing Nordic Ruins of Skyrim
+- [Grand Solitude - The Walls of High King Erling](https://www.nexusmods.com/skyrimspecialedition/mods/157506?tab=images) and [JK's Solitude Outskirts](https://www.nexusmods.com/skyrimspecialedition/mods/103209)
+  - Replacing Redbag's Solitude.
+- [The Great City Of Dawnstar SSE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/19491)
+  - Combo patched with JK's Skyrim and Cities of the North Dawnstar which were already in the list.
+- [Icy Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/55329), [Windhelm Exterior Altered](https://www.nexusmods.com/skyrimspecialedition/mods/5824), [JK's Windhelm Outskirts](https://www.nexusmods.com/skyrimspecialedition/mods/86975) and [Little Touches for Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/136364)
+  - Replacing Capital Windhelm Expansion (JK's Skyrim still remains combo patched)
+- [Aspects - An Attribute Mod](https://www.nexusmods.com/skyrimspecialedition/mods/153640)
+- [Legends of Aetherium](https://www.nexusmods.com/skyrimspecialedition/mods/69807)
+- [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494)
+- [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155)
+- [Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/76385)
+- [Across the Border - Diverse Border Gates](https://www.nexusmods.com/skyrimspecialedition/mods/159570)
+- [Additional Hunter Camps SSE](https://www.nexusmods.com/skyrimspecialedition/mods/17299)
+- [Stormcrown - A Shout Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/90659)
+- [Oathvein UI](https://www.nexusmods.com/skyrimspecialedition/mods/160916)
+  - Replacing EdgeUI
+- [Legendary Map](https://www.nexusmods.com/skyrimspecialedition/mods/157397)
+- [Loading Menu Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/149874)
+- [STB Active Effects](https://www.nexusmods.com/skyrimspecialedition/mods/140002)
+- [Favorites Menu Effects Description](https://www.nexusmods.com/skyrimspecialedition/mods/143532)
+- [Inconsequential Incantations - Minor Immersive Spells](https://www.nexusmods.com/skyrimspecialedition/mods/145512)
+- [Temper and Recharge Services](https://www.nexusmods.com/skyrimspecialedition/mods/129279)
+  - Replacing Honed Metal
+- [Mortar and Pestle - Portable Alchemy](https://www.nexusmods.com/skyrimspecialedition/mods/87105)
+- [Nightingale Powers Redone](https://www.nexusmods.com/skyrimspecialedition/mods/144539)
+- [Crime Bounty Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25457)
+- [MCO-DXP Attack Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/160188)
+- [Mountain LOD Helper](https://www.nexusmods.com/skyrimspecialedition/mods/146350)
+- [Forgotten Vale Guardians - Chakra's Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/159743)
+- [Even more mods from MihailMods](https://next.nexusmods.com/profile/MihailMods/mods?gameId=1704)
+  
+  
 
 ### 0.3.17
 
