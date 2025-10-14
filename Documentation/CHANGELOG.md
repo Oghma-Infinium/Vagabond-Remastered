@@ -43,7 +43,7 @@ Key Info
 **This update is NOT save-safe. You must create a new character to play this update!**
 
 - Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
-- New Attribute system, see [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md) for details.
+- New Attribute system, see [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#attributes) for details.
 - Many miscellaneous balance and perk tweaks, also too many to list.
 - List of mods added below. Not comprehensive but should cover the most important ones.
 
