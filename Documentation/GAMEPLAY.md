@@ -397,6 +397,9 @@ Vagabond Remastered comes with several new quest mods and expansions for several
  - [Sleepwalking Into A Nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/141047): Adds a new Daedric prince quest where you track down a missing woman, delving into her nightmares and overcoming her fears.
  - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576): New Notice Board type system, reminiscent of The Witcher and other classic RPG titles.
  - [More to do in the Soul Cairn](https://www.nexusmods.com/skyrimspecialedition/mods/115962): Three new inhabitants have been added to the Soul Cairn, help them settle their affairs before they face the judgement of the Ideal Masters.
+ - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155): Discover a castle high in the Velothi Mountains, lost to the world for over a hundred years.
+ - [Legends of Aetherium](https://www.nexusmods.com/skyrimspecialedition/mods/69807): Explore the lost Dwarven Ruins of Itharzel and hunt down lost Aetherium weapons and armours.
+ - [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494): Delve into the depths of an underground swamp in the aid of a priest in order to heal the Heart of the Reach.
  - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061): Expands upon the Destroy the Dark Brotherhood quest, adding an entire Penitus Oculatus questline for "good guy" playthroughs!
  - [Redeeming Fultheim](https://www.nexusmods.com/skyrimspecialedition/mods/136788): Convince Fultheim to rejoin the Blades.
  - [Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/109541): Travel to Icemoth, an island hidden in the Sea of Ghosts, and uncover the secrets that lay buried there.
