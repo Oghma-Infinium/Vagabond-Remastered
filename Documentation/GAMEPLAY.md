@@ -359,10 +359,10 @@ Vagabond Remastered changes a significant amount of vanilla quests in one way or
 <Details>
 <summary>Modded Quests</summary>
 
- - **DAc0da**: Requires level 25+
  - **Wyrmstooth**: Requires level 15+ and completion of [The Way of the Voice](https://en.uesp.net/wiki/Skyrim:The_Way_of_the_Voice).
- - **Vigilant**: Requires level 25+
- - **Unslaad**: Requires level 25+
+ - **DAc0da**: Requires level 25+ and clearing [Yngol Barrow](https://en.uesp.net/wiki/Skyrim:Yngol_Barrow).
+ - **Vigilant**: Requires level 30+ and completion of [The House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors).
+ - **Unslaad**: Requires level 35+ and completion of [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer) (main story).
 
 *It is recommended to play [Vicn](https://next.nexusmods.com/profile/Vicn)'s quest mods in the following order: DAc0da -> Vigilant -> Unslaad.*
 
