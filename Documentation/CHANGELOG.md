@@ -82,7 +82,7 @@ Key Info
 - [MCO-DXP Attack Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/160188)
 - [Mountain LOD Helper](https://www.nexusmods.com/skyrimspecialedition/mods/146350)
 - [Forgotten Vale Guardians - Chakra's Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/159743)
-- [Even more monsters from MihailMods](https://next.nexusmods.com/profile/MihailMods/mods?gameId=1704)
+- Even more monsters and animals from [MihailMods](https://next.nexusmods.com/profile/MihailMods/mods?gameId=1704)
   
 </Details> 
 
