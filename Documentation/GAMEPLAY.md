@@ -69,11 +69,10 @@ Before reading this section, I suggest looking over the [load order](https://loa
    </Details>
  - Vagabond Remastered uses [Archon - Faiths of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/160141?tab=files), for religion and blessings.
  - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408/) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul the Vampire and Werewolf systems.
- - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) cover Alchemy and Enchanting respectively.
  - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619), [Artifacts of the Ancestors](https://www.nexusmods.com/skyrimspecialedition/mods/92389), and [Mysterious Mementos](https://www.nexusmods.com/skyrimspecialedition/mods/118342) overhaul unique artifacts and add several new ones.
  - [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) overhauls the vanilla shouts. Speech perk tree also contains shout improving perks.
    - Note that the Dragonborn shouts custom perk tree from the mod is removed because the Speech Skill tree already covers shout perks.
- - [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) overhauls food and drink, transforming the traditional "eat 30 cheese wheels mid combat" into a more complex buff system.
+ - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) cover Alchemy and Cooking respectively. 
  - [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) manages the Survival changes, such as Exhaustion, Hunger, and Warmth.
  - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) overhauls the enchanting system, combined with [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) via patch.
  - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) overhauls the magic system, combined with [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) and most of [Kittytail's spell packs](https://next.nexusmods.com/profile/Kittytail/mods?gameId=1704) for a large arsenal of spell options.
