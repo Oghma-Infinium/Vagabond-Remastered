@@ -23,6 +23,7 @@
 - [Leveling and Progression](#leveling-and-progression)
   - [Changes to Leveling](#changes-to-leveling)
   - [Perk Point Acquisition](#perk-point-acquisition)
+  - [Attributes](#attributes)
 - [Difficulty Overhaul](#difficulty-overhaul)
 - [Gameplay Tips](#gameplay-tips)
 - [New and Notable Mechanics](#new-and-notable-mechanics)
@@ -147,6 +148,43 @@ Vagabond Remastered takes a mixed approach to the acquisition of perks.
 - Dragon and unique boss kills grant one perk point, with a cap of 50 in a playthrough
 - Grand Insight, a potion found as rare loot grants one perk point, with a cap of 20 in a playthrough
 - With default start settings the player starts with 3 free perk points at level 1
+
+## Attributes
+
+In vanilla game, the player chooses between health, magicka or stamina on level up. The list replaces this with [Aspects - An Attribute Mod](https://www.nexusmods.com/skyrimspecialedition/mods/153640)
+
+- 1 Attribute Point is given on each level up.
+- All Attributes start at 0 by default and cap at 20.
+- The attribute are as follows (with benefit per point inside brackets):
+  - Strength: physical damage (+1%), carry weight (+5), health and stamina (+5)
+  - Agility: stamina cost of attacks and dodges (-1%), movement speed (+1%), stamina (+10)
+  - Endurance: poise damage (+1%), poise resistance (-1%), carry weight (+5), health (+10)
+  - Intelligence: spell cost  (-1%), spell duration (+1%), magicka (+10)
+  - Willpower: spell magnitude (+1%), weapon enchant power (+1%), health and magicka (+5)
+  - Personality: Improved prices (+/-1%), shout power/duration (+1%), potion duration (+2.5%), magicka and stamina (+5)
+- All starting classes from [Nirn's Chosen](https://www.nexusmods.com/skyrimspecialedition/mods/121427) are given 6 starting points, which are distributed as follows:
+  
+  <Details>
+  
+  |Class|Strength|Agility|Endurance|Intelligence|Willpower|Personality|
+  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+  |Assassin|1|2|1|1|1|0|
+  |Barbarian|3|2|1|0|0|0|
+  |Bard|0|1|0|1|1|3|
+  |Battlemage|1|1|1|1|2|0|
+  |Crusader|2|0|2|1|1|0|
+  |Hero|1|1|2|0|0|2|
+  |Mage|0|0|0|3|2|1|
+  |Monk|1|0|1|1|1|2|
+  |Nightblade|0|1|0|2|1|2|
+  |Rogue|1|3|1|0|0|1|
+  |Soldier|2|1|3|0|0|0|
+  |Sorcerer|0|0|0|2|3|1|
+  |Summoner|0|0|1|2|2|1|
+  |Vagabond|2|1|2|0|0|1|
+  |Witch Hunter|1|2|0|1|1|1|
+  
+  </Details>
 
 # Difficulty Overhaul
 
