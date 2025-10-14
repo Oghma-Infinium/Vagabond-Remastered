@@ -155,7 +155,8 @@ In vanilla game, the player chooses between health, magicka or stamina on level 
 
 - 1 Attribute Point is given on each level up.
 - All Attributes start at 0 by default and cap at 20.
-- The attribute are as follows (with benefit per point inside brackets):
+- The default benefits listed in the mod page don't apply in this list, as the bonuses are reworked for the list.
+- The attribute bonuses are as follows (with benefit per point inside brackets):
   - Strength: physical damage (+1%), carry weight (+5), health and stamina (+5)
   - Agility: stamina cost of attacks and dodges (-1%), movement speed (+1%), stamina (+10)
   - Endurance: poise damage (+1%), poise resistance (-1%), carry weight (+5), health (+10)
