@@ -47,6 +47,8 @@ Key Info
 - Many miscellaneous balance and perk tweaks, also too many to list.
 - List of mods added below. Not comprehensive but should cover the most important ones.
 
+<Details> 
+
 <summary>Details</summary>
 
 - [Children of the North Wind - Ruins of the Ancient Nords](https://www.nexusmods.com/skyrimspecialedition/mods/147701)
@@ -80,7 +82,7 @@ Key Info
 - [MCO-DXP Attack Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/160188)
 - [Mountain LOD Helper](https://www.nexusmods.com/skyrimspecialedition/mods/146350)
 - [Forgotten Vale Guardians - Chakra's Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/159743)
-- [Even more mods from MihailMods](https://next.nexusmods.com/profile/MihailMods/mods?gameId=1704)
+- [Even more monsters from MihailMods](https://next.nexusmods.com/profile/MihailMods/mods?gameId=1704)
   
 </Details> 
 
