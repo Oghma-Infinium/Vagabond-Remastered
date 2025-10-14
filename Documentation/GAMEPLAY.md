@@ -237,7 +237,7 @@ Vagabond Remastered changes the way in which resists are calculated with [Resist
 The mod changes resistance scaling for both armor and elements to a hyperbolic formula, which essentially means every point of armor and every percentage of resistance benefits your *effective HP* (aka how long you can survive) by an equal amount.
 This means that increasing armor or resistances will always benefit your character.
 
-In practice this means that +50 armor rating equals to roughly +10% effective HP against physical attacks and +1% magic/elemental resistance to roughly +3% effective HP against resisted element.
+In practice this means that +50 armor rating equals to roughly +10% effective HP against physical attacks and +1% magic/elemental resistance to roughly +2% effective HP against resisted element.
 
 Your real, re-calculated resistances can be seen in the magic effect menu.
 
