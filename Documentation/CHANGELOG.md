@@ -69,7 +69,7 @@ Key Info
 - [Stormcrown - A Shout Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/90659)
 - [Oathvein UI](https://www.nexusmods.com/skyrimspecialedition/mods/160916)
   - Replacing EdgeUI
-  - Ultrawide config is included, but untested (I don't own UW monitor test)
+  - Ultrawide config is included, but untested (I don't own UW monitor to test it)
 - [Legendary Map](https://www.nexusmods.com/skyrimspecialedition/mods/157397)
 - [Loading Menu Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/149874)
 - [STB Active Effects](https://www.nexusmods.com/skyrimspecialedition/mods/140002)
