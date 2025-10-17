@@ -41,11 +41,9 @@
 
 Key Info
 
-**Ignore missing plugins warning when loading a save. It doesn't matter!**
+**This update is save-safe. Ignore missing plugins warning when loading a save. It doesn't matter!**
 
 If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
-
-After updating and loading your existing character, save and close the game, then [clean your save](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#cleaning-saves). *This step is highly recommended.*
 
 - Downgraded Survival Mode Improved SKSE to fix a bug where the option to turn on Survival Mode was missing from the Gameplay settings menu.
 - Unhid Kace Autoloot 2 MCM to fix an issue where MCM Recorder did not properly enable autoloot for Insight.
