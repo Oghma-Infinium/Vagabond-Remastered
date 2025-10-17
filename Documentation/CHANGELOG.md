@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.4.1](#041) Release Date: October 17th, 2025
 - [0.4.0](#040) Release Date: October 15th, 2025
 - [0.3.17](#0317) Release Date: September 23rd, 2025
 - [0.3.16](#0316) Release Date: September 16th, 2025
@@ -35,6 +36,21 @@
 - [0.3.6](#036) Release Date: August 12, 2025
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
+
+### 0.4.1
+
+Key Info
+
+**Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
+After updating and loading your existing character, save and close the game, then [clean your save](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#cleaning-saves). *This step is highly recommended.*
+
+- Downgraded Survival Mode Improved SKSE to fix a bug where the option to turn on Survival Mode was missing from the Gameplay settings menu.
+- Unhid Kace Autoloot 2 MCM to fix an issue where MCM Recorder did not properly enable autoloot for Insight.
+  - On an existing save you can fix this by manually enabling potion autoloot in the MCM. (It only autoloots insight, not any other potions)
+- Few mod updates.
 
 ### 0.4.0
 
