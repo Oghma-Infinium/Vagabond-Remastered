@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.4.2](#042) Release Date: October 19th, 2025
 - [0.4.1](#041) Release Date: October 17th, 2025
 - [0.4.0](#040) Release Date: October 15th, 2025
 - [0.3.17](#0317) Release Date: September 23rd, 2025
@@ -36,6 +37,29 @@
 - [0.3.6](#036) Release Date: August 12, 2025
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
+
+### 0.4.2
+
+Key Info
+
+**This update is save-safe. Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
+- Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Fixed several landscape/worldspace/location issues
+- Fixed an issue where Agility attribute dodge cost reduction was 100 times more effective then intended, resulting in player GAINING stamina from dodging (lol)
+- Made Giants a bit more dangerous due to feedback (didn't test)
+- Made glacier look a bit nicer by making them more blue and reflective
+  - Doesn't affect LODs, but I don't think it is worth it regenerate DynDOLOD for such minor visual tweak  
+- Added [Prevent Overabundance Of Plunder](https://www.nexusmods.com/skyrimspecialedition/mods/160397?tab=posts)
+  - (Technically was already in the list but all features were disabled before this update)
+  - Dramatically reduces loot from killed enemies, making armor unlootable with 75% chance by piece and weapon with 60% chance
+  - I personally found Bethesda design of every enemy dropping all their items quite silly and makes the player always drown in mountain of loot
+  - Does not affect enchanted or quest items, which still continue to always drop
+  - If item you think should be always lootable becomes unlootable, feel free to report it as a bug and I will add it to exclusion list
+  - Big thanks to [Styyx](https://next.nexusmods.com/profile/Styyxus/mods?gameId=1704) for making the mods because of my request
+- Few mod updates
 
 ### 0.4.1
 
