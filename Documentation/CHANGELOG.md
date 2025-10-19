@@ -50,12 +50,12 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Fixed several landscape/worldspace/location issues
 - Fixed an issue where Agility attribute dodge cost reduction was 100 times more effective then intended, resulting in player GAINING stamina from dodging (lol)
 - Made Giants a bit more dangerous due to feedback (didn't test)
-- Made glacier look a bit nicer by making them more blue and reflective
+- Made glaciers look a bit nicer by making them more blue and reflective
   - Doesn't affect LODs, but I don't think it is worth it regenerate DynDOLOD for such minor visual tweak  
 - Added [Prevent Overabundance Of Plunder](https://www.nexusmods.com/skyrimspecialedition/mods/160397?tab=posts)
   - (Technically was already in the list but all features were disabled before this update)
   - Dramatically reduces loot from killed enemies, making armor unlootable with 75% chance by piece and weapon with 60% chance
-  - I personally found Bethesda design of every enemy dropping all their items quite silly and makes the player always drown in mountain of loot
+  - I personally found Bethesda design of every enemy dropping all their items silly and makes the player drown in mountain of loot
   - Does not affect enchanted or quest items, which still continue to always drop
   - If item you think should be always lootable becomes unlootable, feel free to report it as a bug and I will add it to exclusion list
   - Big thanks to [Styyx](https://next.nexusmods.com/profile/Styyxus/mods?gameId=1704) for making the mods because of my request
