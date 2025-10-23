@@ -219,7 +219,7 @@ Listed changes **ONLY** affect Survival Mode play!
 - Increased the movement speed penalty during exhaustion from 25% to 50%
 - Dodge requires 1st Light Armor perk OR **any** dodge-related perk (Dodge Mastery, Distortion, Dodge Shot)
 - On maximum cold stage (Freezing), running out of Stamina begins damaging Health
-- [Food Spoilage](https://www.nexusmods.com/skyrimspecialedition/mods/113658) is only enabled for Survival Mode (spoiled food can be encountered in the world without survival)
+- [Food Spoilage](https://www.nexusmods.com/skyrimspecialedition/mods/113658) is only enabled for Survival Mode (spoiled food can be encountered in the world even without survival)
 
 # Gameplay Tips
 
