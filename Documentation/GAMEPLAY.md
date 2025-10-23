@@ -331,16 +331,6 @@ Tips:
 
 Vagabond Remastered changes a significant amount of vanilla quests in one way or another in order to offer a more complete roleplaying exprience. 
 
-<Details>
-<summary>Vanilla Quests</summary>
-
- - [Awakening](https://en.uesp.net/wiki/Skyrim:Awakening) Requires level 20, however this can be started at any point by going to [Dayspring Canyon](https://en.uesp.net/wiki/Skyrim:Dayspring_Canyon).
- - [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) Letter Requires level 15.
- - [Dragonborn](https://en.uesp.net/wiki/Skyrim:Dragonborn_(quest)) Requires level 30 and completion of [The Horn of Jurgen Windcaller](https://en.uesp.net/wiki/Skyrim:The_Horn_of_Jurgen_Windcaller).
- - [A Chance Arrangement](https://en.uesp.net/wiki/Skyrim:A_Chance_Arrangement) Requires the player to have an apprentice level Sneak skill (25 or higher), have picked at least 10 pockets, and stolen at least 100 items.
- - [Loud and Clear](https://en.uesp.net/wiki/Skyrim:Loud_and_Clear) Requires the player to complete a minimum of 4 radiant jobs for the Thieves Guild.
- - [Dampened Spirits](https://en.uesp.net/wiki/Skyrim:Dampened_Spirits) Requires the player to complete a minimum of 6 jobs for the Thieves Guild.
-
 </Details>
 
 <Details>
@@ -351,6 +341,7 @@ Vagabond Remastered changes a significant amount of vanilla quests in one way or
    - [Kill the Giant](https://en.uesp.net/wiki/Skyrim:Kill_the_Giant_(Jarl))
    - [Missing in Action](https://en.uesp.net/wiki/Skyrim:Missing_In_Action)
    - [The Forsworn Conspiracy](https://en.uesp.net/wiki/Skyrim:The_Forsworn_Conspiracy)
+   - [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) Letter Requires level 15.
  - **Level 20+**
    - [A Night To Remember](https://en.uesp.net/wiki/Skyrim:A_Night_To_Remember)
    - [Kill the Vampire](https://en.uesp.net/wiki/Skyrim:Kill_the_Vampire)
@@ -358,6 +349,8 @@ Vagabond Remastered changes a significant amount of vanilla quests in one way or
    - [The Break of Dawn](https://en.uesp.net/wiki/Skyrim:The_Break_of_Dawn)
    - [The Mind of Madness](https://en.uesp.net/wiki/Skyrim:The_Mind_of_Madness)
    - [Unfathomable Depths](https://en.uesp.net/wiki/Skyrim:Unfathomable_Depths)
+   - [Awakening](https://en.uesp.net/wiki/Skyrim:Awakening)
+     - However, this can be started at any point by going to [Dayspring Canyon](https://en.uesp.net/wiki/Skyrim:Dayspring_Canyon).
  - **Level 25+**
    - [A Daedra's Best Friend](https://en.uesp.net/wiki/Skyrim:A_Daedra%27s_Best_Friend)
    - [The Cursed Tribe](https://en.uesp.net/wiki/Skyrim:The_Cursed_Tribe)
@@ -372,6 +365,8 @@ Vagabond Remastered changes a significant amount of vanilla quests in one way or
    - [Pieces of the Past](https://en.uesp.net/wiki/Skyrim:Pieces_of_the_Past)
    - [The Only Cure](https://en.uesp.net/wiki/Skyrim:The_Only_Cure)
    - [The Whispering Door](https://en.uesp.net/wiki/Skyrim:The_Whispering_Door)
+   - [Dragonborn](https://en.uesp.net/wiki/Skyrim:Dragonborn_(quest))
+     - Requires completion of [The Horn of Jurgen Windcaller](https://en.uesp.net/wiki/Skyrim:The_Horn_of_Jurgen_Windcaller).
  - **Level 40+**
    - [The Ebony Warrior](https://en.uesp.net/wiki/Skyrim:The_Ebony_Warrior)
 
