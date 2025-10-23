@@ -206,7 +206,7 @@ In vanilla game, the player chooses between health, magicka or stamina on level 
 [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) and [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) handle the main Survival changes, such as Exhaustion, Hunger, and Warmth.
 However, many custom changes to Survival Mode have been implemented, mainly inspired by mechanics of [Requiem - The Roleplaying Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60888).
 
-Listed changes **ONLY** affect survival mode play!
+Listed changes **ONLY** affect Survival Mode play!
 - Need first Smithing perk to use smithing stations (smelter, forge, tanning rack, workbench, sharpening wheel)
 - Need first Enchanting perk to use enchanting tables and recharge weapons with Soul Gems
 - Need first Alchemy perk to use alchemy labs
@@ -219,6 +219,7 @@ Listed changes **ONLY** affect survival mode play!
 - Increased the movement speed penalty during exhaustion from 25% to 50%
 - Dodge requires 1st Light Armor perk OR **any** dodge-related perk (Dodge Mastery, Distortion, Dodge Shot)
 - On maximum cold stage (Freezing), running out of Stamina begins damaging Health
+- [Food Spoilage](https://www.nexusmods.com/skyrimspecialedition/mods/113658) is only enabled for Survival Mode (spoiled food can be encountered in the world without survival)
 
 # Gameplay Tips
 
