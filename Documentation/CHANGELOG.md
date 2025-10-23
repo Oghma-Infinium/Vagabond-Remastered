@@ -51,6 +51,7 @@ If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/m
 - Major overhaul to Survival Mode, read more about it in the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#survival-mode-overhaul)!
 - Reduced Stamina and Magicka regeneration in combat for [Master and Legendary difficulties](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#difficulty-overhaul)
 - Reduced damage of Rapid Shot by around 20%
+  - Still very powerful, I think it was bit too overpowered before
 - Reduced cost of priest healing services from 200 to 50 gold (also cures diseases)
 - Reduced cost and weight of tents and travel packs
 - Other minor undocumented balance changes (I don't remember what they were)
