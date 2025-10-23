@@ -25,6 +25,7 @@
   - [Perk Point Acquisition](#perk-point-acquisition)
   - [Attributes](#attributes)
 - [Difficulty Overhaul](#difficulty-overhaul)
+- [Survival Mode Overhaul](#survival-mode-overhaul)
 - [Gameplay Tips](#gameplay-tips)
 - [New and Notable Mechanics](#new-and-notable-mechanics)
 - [Lockpicking Overhaul](#lockpicking-overhaul)
@@ -74,7 +75,6 @@ Before reading this section, I suggest looking over the [load order](https://loa
    - Note that the Dragonborn shouts custom perk tree from the mod is removed because the Speech Skill tree already covers shout perks.
  - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) cover Alchemy and Cooking respectively.
    - Also added a custom feature to first Alchemy Skill perk, which adds an additional effect to every food item in the game.
- - [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) manages the Survival changes, such as Exhaustion, Hunger, and Warmth.
  - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) overhauls the enchanting system, combined with [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) via patch.
  - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) overhauls the magic system, combined with [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) and most of [Kittytail's spell packs](https://next.nexusmods.com/profile/Kittytail/mods?gameId=1704) for a large arsenal of spell options.
 
@@ -200,6 +200,25 @@ In vanilla game, the player chooses between health, magicka or stamina on level 
 |Expert |125%|90%|125%|50%|0%|0%|
 |Master |150%|80%|150%|40%|0%|0%|
 |Legendary |200%|70%|150%|30%|0%|0%|
+
+# Survival Mode Overhaul
+
+[Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) and [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536) handle the main Survival changes, such as Exhaustion, Hunger, and Warmth.
+However, many custom changes to Survival Mode have been implemented, mainly inspired by mechanics of [Requiem - The Roleplaying Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60888).
+
+Listed changes **ONLY** affect survival mode play!
+- Need first Smithing perk to use smithing stations (smelter, forge, tanning rack, workbench, sharpening wheel)
+- Need first Enchanting perk to use enchanting tables and recharge weapons with Soul Gems
+- Need first Alchemy perk to use alchemy labs
+- Need first Speech perk to buy tempering and recharge services
+- Spell cost is 10x without first perk of the corresponding spell school
+- Need first Heavy Armor perk to move effectively while wearing heavy armor pieces
+- Stamina is no longer unlimited out of combat with Survival enabled
+- No stamina regen during attack/dodge
+- Over encumbrance penalty is much harsher
+- Increased the movement speed penalty during exhaustion from 25% to 50%
+- Dodge requires 1st Light Armor perk OR **any** dodge-related perk (Dodge Mastery, Distortion, Dodge Shot)
+- On maximum cold stage (Freezing), running out of Stamina begins damaging Health
 
 # Gameplay Tips
 
