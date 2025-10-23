@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.4.3](#043) Release Date: TBA
 - [0.4.2](#042) Release Date: October 19th, 2025
 - [0.4.1](#041) Release Date: October 17th, 2025
 - [0.4.0](#040) Release Date: October 15th, 2025
@@ -39,6 +40,39 @@
 - [0.3.4](#034) Release Date: August 10, 2025
 
 ### 0.4.2
+
+Key Info
+
+**This update is save-safe. Ignore missing plugins warning when loading a save. It doesn't matter!**
+
+If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
+
+- Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Fixed several landscape/worldspace/location issues
+- Few mod updates
+- 
+
+Survival Mode overhaul:
+
+<Details> 
+
+<summary>Details</summary>
+
+- Need first Smithing perk to use smithing stations (smelter, forge, tanning rack, workbench, sharpening wheel).
+- Need first Enchanting perk to use enchanting tables and recharge weapons with Soul Gems.
+- Need first Alchemy perk to use alchemy labs.
+- Need first Speech perk to buy tempering and recharge services. (Was previously needed also for non-survival players.)
+- Spell cost is 10x without first perk of the corresponding spell school.
+- Need first Heavy Armor perk to move effectively while wearing heavy armor pieces.
+- Stamina is no longer unlimited out of combat with Survival enabled.
+- No stamina regen during attack/dodge.
+- Over encumbrance penalty is much harsher.
+- Dodge requires 1st Light Armor perk OR **any** dodge-related perk (Dodge Mastery, Distortion, Dodge Shot)
+- On maximum cold stage (Freezing), running out of Stamina begins damaging Health.
+
+</Details> 
+
+### 0.4.3
 
 Key Info
 
