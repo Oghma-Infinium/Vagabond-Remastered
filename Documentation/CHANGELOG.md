@@ -48,8 +48,8 @@ Key Info
 If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
 
 - Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
-- Major overhaul to survival mode, read more about it in the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#survival-mode-overhaul)!
-- Reduced stamina and magicka regen in combat for Master and Legendary difficulties
+- Major overhaul to Survival Mode, read more about it in the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#survival-mode-overhaul)!
+- Reduced Stamina and Magicka regeneration in combat for Master and Legendary difficulties
 - Reduced damage of Rapid Shot by around 20%
 - Reduced cost of priest healing services from 200 to 50 gold (also cures diseases)
 - Reduced cost and weight of tents and travel packs
