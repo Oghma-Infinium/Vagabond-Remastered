@@ -330,7 +330,6 @@ Tips:
 # Quests Changes
 
 Vagabond Remastered changes a significant amount of vanilla quests in one way or another in order to offer a more complete roleplaying exprience. 
-**The thresholds should be verified as this list is copied from Apostasy and may not perfectly match the current state of this list**
 
 <Details>
 <summary>Vanilla Quests</summary>
