@@ -198,8 +198,8 @@ In vanilla game, the player chooses between health, magicka or stamina on level 
 |Apprentice|75% |110% |75%|100%|50%|100%|
 |Adept |100%|100%|100%|100%|0%|100%|
 |Expert |125%|90%|125%|50%|0%|0%|
-|Master |150%|80%|150%|60%|0%|0%|
-|Legendary |200%|70%|150%|70%|0%|0%|
+|Master |150%|80%|150%|40%|0%|0%|
+|Legendary |200%|70%|150%|30%|0%|0%|
 
 # Gameplay Tips
 
