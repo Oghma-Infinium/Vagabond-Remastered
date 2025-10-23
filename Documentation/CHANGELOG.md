@@ -48,33 +48,13 @@ Key Info
 If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
 
 - Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
-- Major overhaul to survival mode
+- Major overhaul to survival mode, read more about it in the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md#survival-mode-overhaul)!
 - Reduced stamina and magicka regen in combat for Master and Legendary difficulties
 - Reduced damage of Rapid Shot by around 20%
 - Reduced cost of priest healing services from 200 to 50 gold (also cures diseases)
 - Reduced cost and weight of tents and travel packs
 - Other minor undocumented balance changes (I don't remember what they were)
 - Few mod updates
-
-<Details> 
-
-<summary>Survival Mode overhaul details</summary>
-
-Listed changes **ONLY** affect survival mode play!
-- Need first Smithing perk to use smithing stations (smelter, forge, tanning rack, workbench, sharpening wheel)
-- Need first Enchanting perk to use enchanting tables and recharge weapons with Soul Gems
-- Need first Alchemy perk to use alchemy labs
-- Need first Speech perk to buy tempering and recharge services (was previously needed also for non-survival players)
-- Spell cost is 10x without first perk of the corresponding spell school
-- Need first Heavy Armor perk to move effectively while wearing heavy armor pieces
-- Stamina is no longer unlimited out of combat with Survival enabled
-- No stamina regen during attack/dodge
-- Over encumbrance penalty is much harsher
-- Increased the movement speed penalty during exhaustion from 25% to 50%
-- Dodge requires 1st Light Armor perk OR **any** dodge-related perk (Dodge Mastery, Distortion, Dodge Shot)
-- On maximum cold stage (Freezing), running out of Stamina begins damaging Health
-
-</Details> 
 
 ### 0.4.2
 
