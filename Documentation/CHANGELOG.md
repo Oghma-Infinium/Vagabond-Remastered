@@ -48,9 +48,8 @@ Key Info
 If using [**Maintained Magic**](https://www.nexusmods.com/skyrimspecialedition/mods/114983), unapply maintained spells before updating and re-apply the maintained spells after updating.
 
 - Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
-- Fixed several landscape/worldspace/location issues
+- Minor undocumented balance changes (I don't remember what they were)
 - Few mod updates
-- 
 
 Survival Mode overhaul:
 
