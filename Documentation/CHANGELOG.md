@@ -39,7 +39,7 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
-### 0.4.2
+### 0.4.3
 
 Key Info
 
@@ -72,7 +72,7 @@ Survival Mode overhaul:
 
 </Details> 
 
-### 0.4.3
+### 0.4.2
 
 Key Info
 
