@@ -20,7 +20,7 @@
 
 ## Beta Versions
 
-- [0.4.3](#043) Release Date: TBA
+- [0.4.3](#043) Release Date: October 23th, 2025
 - [0.4.2](#042) Release Date: October 19th, 2025
 - [0.4.1](#041) Release Date: October 17th, 2025
 - [0.4.0](#040) Release Date: October 15th, 2025
