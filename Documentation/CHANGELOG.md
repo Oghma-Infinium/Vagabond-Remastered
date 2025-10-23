@@ -58,6 +58,7 @@ Survival Mode overhaul:
 
 <summary>Details</summary>
 
+Listed changes **ONLY** affect survival mode play.
 - Need first Smithing perk to use smithing stations (smelter, forge, tanning rack, workbench, sharpening wheel).
 - Need first Enchanting perk to use enchanting tables and recharge weapons with Soul Gems.
 - Need first Alchemy perk to use alchemy labs.
