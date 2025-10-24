@@ -431,7 +431,8 @@ This will reduce the quality of certain large objects at far away distances, how
 ## Keyboard Keybinds
 
 >[!IMPORTANT]
->Keyboard and mouse setup may need additional setup in order to work as intended. Please refer to the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#mouse-and-keyboard-support) page.
+>Keyboard and mouse setup needs additional setup in order to work as intended. Please refer to the [Configuration](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/CONFIG.md#mouse-and-keyboard-support) page.
+>If you don't follow the guide, the keybinds **will not match** the image.
 
 ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond-Remastered/refs/heads/main/images/keyboardmap.png)
 
