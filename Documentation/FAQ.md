@@ -102,7 +102,7 @@ A: If you're on controller press `LT + start` to open up the vanilla favorites m
 A: Yes, but if you have to ask, no. Also adding or removing a mod would void any official support.
 
 ### Q: Will you add [insert mod] to the list?
-A: Use the `#vaga-rem-requests` channel on discord (when it is available) if you want to suggest mods.
+A: Probably not, but you can ask in `#vaga-gem-general`.
 
 ### Q: Will you add OStim/SexLab to the list?
 A: No
