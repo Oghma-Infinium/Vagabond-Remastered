@@ -59,7 +59,7 @@ A: No, but if you ask me any question on this document, I will refer you back to
 A: You can delete or move the download folder after Wabbajack is finished. However, when redownloading or updating the list Wabbajack will redownload *all* files that it can not find proper matches for, so consider this if you have slow internet, don't have nexus premium, or value your time in general.
 
 ### Q: What does the BETA mean?
-A: The BETA state is meant to communicate that the list is still considered work-in-progress feature and design wise. The label does not mean the list is unsuitable for longer playthroughs or that it is inherently unstable.
+A: The BETA state is meant to communicate that the list is still considered work-in-progress feature and design wise. The label does not mean the list is unsuitable for longer playthroughs or that it is inherently unstable. The BETA phase is expected to finish by the end of 2025.
 
 ### Q: Can I uncap the FPS?
 A: The list is capped to 61 FPS by default. While [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) adjusts timing values based on framerate to prevent physics from spazzing out at high framerates, some mods may use havok code that still rely on a ~60 FPS cap to prevent physics-based issues. If you wish to uncap the FPS, then you can do so in the ENB menu by prressing `END` in-game.
