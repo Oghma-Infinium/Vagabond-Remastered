@@ -342,7 +342,7 @@ Vagabond Remastered changes a significant amount of vanilla quests in one way or
    - [Kill the Giant](https://en.uesp.net/wiki/Skyrim:Kill_the_Giant_(Jarl))
    - [Missing in Action](https://en.uesp.net/wiki/Skyrim:Missing_In_Action)
    - [The Forsworn Conspiracy](https://en.uesp.net/wiki/Skyrim:The_Forsworn_Conspiracy)
-   - [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) Letter Requires level 15.
+   - [Hearthfire](https://en.uesp.net/wiki/Skyrim:Hearthfire) (Letter Requires level 15.)
  - **Level 20+**
    - [A Night To Remember](https://en.uesp.net/wiki/Skyrim:A_Night_To_Remember)
    - [Kill the Vampire](https://en.uesp.net/wiki/Skyrim:Kill_the_Vampire)
@@ -350,8 +350,6 @@ Vagabond Remastered changes a significant amount of vanilla quests in one way or
    - [The Break of Dawn](https://en.uesp.net/wiki/Skyrim:The_Break_of_Dawn)
    - [The Mind of Madness](https://en.uesp.net/wiki/Skyrim:The_Mind_of_Madness)
    - [Unfathomable Depths](https://en.uesp.net/wiki/Skyrim:Unfathomable_Depths)
-   - [Awakening](https://en.uesp.net/wiki/Skyrim:Awakening)
-     - However, this can be started at any point by going to [Dayspring Canyon](https://en.uesp.net/wiki/Skyrim:Dayspring_Canyon).
  - **Level 25+**
    - [A Daedra's Best Friend](https://en.uesp.net/wiki/Skyrim:A_Daedra%27s_Best_Friend)
    - [The Cursed Tribe](https://en.uesp.net/wiki/Skyrim:The_Cursed_Tribe)
@@ -430,6 +428,8 @@ Vagabond Remastered comes with several new quest mods and expansions for several
 
 ## Vanilla Quest Expansions and Edits
 
+ - [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) for Dawnguard, Companions, College of Winterhold and Misc modules. Rest of the modules are not used.
+   - Please read the page to avoid confusion when doing the aforementioned questlines.
  - [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916): No longer must you involve yourself in Sven and Faendal's quarrel, alternatively you can expose both of them to Camilla.
  - [Bring Meeko to Lod](https://www.nexusmods.com/skyrimspecialedition/mods/25246): "Lod wants a dog and Meeko wants an owner. Seems like a perfect pair."
  - [Boethiah's Calling - Alternate Questline](https://www.nexusmods.com/skyrimspecialedition/mods/121499): Adds a new quest that allows you to obtain the Ebony Mail without ever siding with Boethiah.
