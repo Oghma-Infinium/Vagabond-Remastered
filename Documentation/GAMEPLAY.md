@@ -72,7 +72,7 @@ Before reading this section, I suggest looking over the [load order](https://loa
  - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408/) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul the Vampire and Werewolf systems.
  - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619), [Artifacts of the Ancestors](https://www.nexusmods.com/skyrimspecialedition/mods/92389), and [Mysterious Mementos](https://www.nexusmods.com/skyrimspecialedition/mods/118342) overhaul unique artifacts and add several new ones.
  - [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) overhauls the vanilla shouts. Speech perk tree also contains shout improving perks.
-   - Note that the Dragonborn shouts custom perk tree from the mod is removed because the Speech Skill tree already covers shout perks.
+   - Note that the Dragonborn shouts custom perk tree is removed because the Speech Skill tree already covers shout perks.
  - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) cover Alchemy and Cooking respectively.
    - Also added a custom feature to first Alchemy Skill perk, which adds an additional effect to every food item in the game.
  - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) overhauls the enchanting system, combined with [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) via patch.
