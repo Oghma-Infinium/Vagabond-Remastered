@@ -49,7 +49,6 @@ Before reading this section, I suggest looking over the [load order](https://loa
 ## Core Overhauls
 
  - Vagabond Remastered uses [Vokord](https://www.nexusmods.com/skyrimspecialedition/mods/129564) as the perk overhaul, with major custom modifications, such as custom Timed Block branch for the Block skill tree and a Weapon Arts skill tree. Additionally, some perks from [aljo's Paragon perks](https://www.nexusmods.com/skyrimspecialedition/mods/120398) are added.
- - [Roleplaying in Skyrim - Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/149899) is used for overhauling vanilla encounter zones. [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) overhauls the loot balance.
  - [Imperious](https://www.nexusmods.com/skyrimspecialedition/mods/1315) overhauls the races, combined with classes from [Nirn's Chosen](https://www.nexusmods.com/skyrimspecialedition/mods/121427).
  - Standing Stones are covered by a mix of [Stones of Sacrifice](https://www.nexusmods.com/skyrimspecialedition/mods/121629) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411)
     <Details>
@@ -73,6 +72,9 @@ Before reading this section, I suggest looking over the [load order](https://loa
  - [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619), [Artifacts of the Ancestors](https://www.nexusmods.com/skyrimspecialedition/mods/92389), and [Mysterious Mementos](https://www.nexusmods.com/skyrimspecialedition/mods/118342) overhaul unique artifacts and add several new ones.
  - [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) overhauls the vanilla shouts. Speech perk tree also contains shout improving perks.
    - Note that the Dragonborn shouts custom perk tree is removed because the Speech Skill tree already covers shout perks.
+ - [Roleplaying in Skyrim - Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/149899) is used for overhauling vanilla encounter zones.
+ - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) overhauls the loot balance.
+   - [Prevent Overabundance Of Plunder](https://www.nexusmods.com/skyrimspecialedition/mods/160397) makes enemies not always drop all their gear as loot.
  - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) cover Alchemy and Cooking respectively.
    - Also added a custom feature to first Alchemy Skill perk, which adds an additional effect to every food item in the game.
  - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) overhauls the enchanting system, combined with [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) via patch.
