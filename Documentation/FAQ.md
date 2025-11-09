@@ -37,6 +37,7 @@
   - [Q: Will you add \[insert mod\] to the list?](#q-will-you-add-insert-mod-to-the-list)
   - [Q: Will you add OStim/SexLab to the list?](#q-will-you-add-ostimsexlab-to-the-list)
 - [Known Issues](#known-issues)
+  - [Anything Listed on Trello](#anything-listed-on-trello)
   - [Failed to create download folder!](#failed-to-create-download-folder)
   - [When leveling up skills, new perk nodes do not get highlighted until exiting and re-entering the perk menu!](#when-leveling-up-skills-new-perk-nodes-do-not-get-highlighted-until-exiting-and-re-entering-the-perk-menu)
   - [Night Eye effects do not work well!](#night-eye-effects-do-not-work-well)
@@ -108,6 +109,9 @@ A: Probably not, but you can ask in `#vaga-rem-general` Discord channel.
 A: No
 
 ## Known Issues
+
+### Anything listed on Trello
+ Issues listed on [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) page will be eventually fixed, unless inside the `Won't fix / low priority` section.
 
 ### Failed to create download folder!
 Solution(s)
