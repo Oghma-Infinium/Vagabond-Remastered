@@ -59,8 +59,6 @@ Vagabond Remastered is a combat focused modlist built around exploration and cha
 
 Character progression emphasizes solo play and the experience of a lone adventurer overcoming challenges. Mechanics such as attack commitment, timed block, perfect dodge, weapon arts, rapid shot and a spell hotbar form the foundation of its real time combat. The list supports a wide range of character builds through expanded perk trees, a class and attribute system and reworked artifacts, along with large arsenal of new weapon types and spells. The system favors weapon driven builds, while still allowing spells and powers to be used fluidly. Pure mage or stealth centric playstyles are possible but are not the intended focus. Survival mechanics are optional but strongly supported with customized features focused on early progression.
 
-For a comprehensive breakdown of the systems and mechanics, refer to the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md).
-
 A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/vagabond-remastered-2).
 
 You can find a summary of all relevant gameplay changes and notable mods on the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md).
