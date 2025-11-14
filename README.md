@@ -55,7 +55,11 @@
 
 # Introduction
 
+Vagabond Remastered is a combat focused modlist built around exploration and character progression, aiming to make Skyrim feel new again for experienced players. The core gameplay draws inspiration from modern action titles such as Elden Ring, Sekiro and Assassin’s Creed. Enemy placements and variety, loot distribution, location overhauls and new areas are selected with the goal of creating exploration that is unfamiliar and at times unpredictable. The list includes a broad selection of new quests, dungeons and world content chosen to fit the overall theme, while companion focused or dialogue heavy content is intentionally excluded. The list is tuned toward thoughtful preparation and deliberate combat, while difficulty settings allow players to choose the level of challenge they prefer. 
 
+Character progression emphasizes solo play and the experience of a lone adventurer overcoming challenges. Mechanics such as attack commitment, timed block, perfect dodge, weapon arts, rapid shot and a spell hotbar form the foundation of its real time combat. The list supports a wide range of character builds through expanded perk trees, a class and attribute system and reworked artifacts, along with large arsenal of new weapon types and spells. The system favors weapon driven builds, while still allowing spells and powers to be used fluidly. Pure mage or stealth centric playstyles are possible but are not the intended focus. Survival mechanics are optional but strongly supported with customized features focused on early progression.
+
+For a comprehensive breakdown of the systems and mechanics, refer to the [Gameplay Guide](https://github.com/Oghma-Infinium/Vagabond-Remastered/blob/main/Documentation/GAMEPLAY.md).
 
 A full list of the mods used in this modlist can be viewed [here](https://loadorderlibrary.com/lists/vagabond-remastered-2).
 
