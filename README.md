@@ -323,9 +323,6 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  8. Navigate to your Install folder for the list and click "Select Folder".
  9. **(OPTIONAL)** You can repeat these steps for the other executables:
     - ModOrganizer.exe (`[Path to Modlist]\ModOrganizer.exe`)
-    - Nemesis Unlimited Behavior Engine.exe (`[Path to Modlist]\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`)
-    - Synthesis.exe (`[Path to Modlist]\tools\Synthesis\Synthesis.exe`)
-
 </Details>  
 
 ## Pagefile and Crash Prevention
