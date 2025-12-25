@@ -48,6 +48,7 @@ Key Info
 **This update is NOT save-safe. You must create a new character to play this update!**
 
 - Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Huge update, so definitely bunch of new bugs too!
 - Updated list to 1.6.1170 exe (Note: this has NO influence on install steps)
 - Changed list to Community Shaders (Jiyae's experimental build) with Ray Tracing support and almost full PBR coverage
 - Overhauled Ward spells to be fire-and-forget buffs instead of concentration spells
