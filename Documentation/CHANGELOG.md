@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.5.0](#043) Release Date: TBD
 - [0.4.3](#043) Release Date: October 23rd, 2025
 - [0.4.2](#042) Release Date: October 19th, 2025
 - [0.4.1](#041) Release Date: October 17th, 2025
@@ -38,6 +39,42 @@
 - [0.3.6](#036) Release Date: August 12, 2025
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
+
+
+### 0.5.0
+
+Key Info
+
+**This update is NOT save-safe. You must create a new character to play this update!**
+
+- Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
+- Updated list to 1.6.1170 exe (Note: this has NO influence on install steps)
+- Changed list to Community Shaders (Jiyae's experimental build) with Ray Tracing support and almost full PBR coverage
+- Added [Yogurt's Community Shader preset](https://www.nexusmods.com/skyrimspecialedition/mods/165002)
+  - Plus some personal tweaks
+- Added [Midnight Sun](https://www.nexusmods.com/skyrimspecialedition/mods/163295)
+  - Didn't playtest the quest, let me know if it works
+- Added [The Frozen Heart](https://www.nexusmods.com/skyrimspecialedition/mods/159911)
+  - Didn't playtest the quest, let me know if it works
+- Added [Ultimate Markarth Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/153484)
+- Added [Skyrim Tranquil Ponds](https://www.nexusmods.com/skyrimspecialedition/mods/166171)
+- Added [Dragons Use Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/87085?tab=description)
+  - I didn't test dragon combat at all, let me know how good/bad it feels
+- Added [Skyrim Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/163710)
+  - Replaces [Skyrim Vocal Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/150386)
+- Added [GS Nilheim Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/118827?tab=description)
+- Added [JK's Nightgate Inn](https://www.nexusmods.com/skyrimspecialedition/mods/161218)
+- Added [RedBag's Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/163261)
+  - Replaces [The Great Town of Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977)
+- Added [Medieval Markets](https://www.nexusmods.com/skyrimspecialedition/mods/161479)
+- Added [Skyrim Bandit Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/154352?tab=description)
+- Added [Smart Talk](https://www.nexusmods.com/skyrimspecialedition/mods/161500)
+  - May cause some quest dialogue jank, let me know if something like that happens
+- Added [Interesting Locations](https://www.nexusmods.com/skyrimspecialedition/mods/153298?tab=description)
+- Added [Skybound](https://www.nexusmods.com/skyrimspecialedition/mods/167698)
+- Added [Equipment Durability System NG](https://www.nexusmods.com/skyrimspecialedition/mods/109899)
+  - Replaces [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544)
+  - I didn't test this at all, let me know how well/badly it works
 
 ### 0.4.3
 
