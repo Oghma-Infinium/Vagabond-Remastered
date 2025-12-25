@@ -77,6 +77,8 @@ Key Info
 - Added [Equipment Durability System NG](https://www.nexusmods.com/skyrimspecialedition/mods/109899)
   - Replaces [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544)
   - I didn't test this at all, let me know how well/badly it works
+- Added [Arclight](https://www.nexusmods.com/skyrimspecialedition/mods/90405)
+- Added [Flames of Coldharbour](https://www.nexusmods.com/skyrimspecialedition/mods/85425)
 
 ### 0.4.3
 
