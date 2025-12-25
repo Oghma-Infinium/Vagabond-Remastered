@@ -50,6 +50,7 @@ Key Info
 - Lots of bug fixes, too many to list all of them. See [Trello](https://trello.com/b/cVEDt7At/vagabond-remastered) for details. (thanks for all the bug reports)
 - Updated list to 1.6.1170 exe (Note: this has NO influence on install steps)
 - Changed list to Community Shaders (Jiyae's experimental build) with Ray Tracing support and almost full PBR coverage
+- Overhauled Ward spells to be fire-and-forget buffs instead of concentration spells
 - Added [Yogurt's Community Shader preset](https://www.nexusmods.com/skyrimspecialedition/mods/165002)
   - Plus some personal tweaks
 - Added [Midnight Sun](https://www.nexusmods.com/skyrimspecialedition/mods/163295)
