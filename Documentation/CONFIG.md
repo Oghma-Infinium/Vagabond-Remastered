@@ -21,8 +21,6 @@
   - [Performance Optimizations](#performance-optimizations)
 - [Changing FPS Limit](#changing-fps-limit)
 - [Upscalers and FrameGen](#upscalers-and-framegen)
-  - [ENB Frame Generation](#enb-frame-generation)
-  - [Skyrim Upscaler](#skyrim-upscaler)
   - [Lossless Scaling](#lossless-scaling)
 - [In-Game MCM Options](#in-game-mcm-options)
 - [Cleaning Saves](#cleaning-saves)
@@ -64,12 +62,10 @@ Vagabond Remastered is by default designed to be played with a controller. Howev
 
 
 Below are the list of mods you will find under the `OPTIONAL ADDONS` separator in MO2.
- 1. `ENB Frame Generation`: This mod requires a GPU that supports DirectX 12. **MUST DISABLE SMOOTH MOTION IN NVIDIA APP OR THE GAME CRASHES** (both global and program settings)
- 2. `ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA`: This mod requires a GPU that supports DirectX 12. It automatically enables correct AA type depending on your GPU brand.
- 3. `Force 1080p resolution`: As the name implies, this mod can be enabled to force the game run on 1080p. Intended as optional performance boost for those with 1440p or 4K screens. **DOES NOT WORK TOGETHER WITH FRAME GENERATION, WILL CAUSE A BLACK SCREEN**
- 5. `AVX 512 for HDT-SMP`: This mod contains the AVX512 version of the [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) `.dll` file compatible with the list. It is ***highly*** suggested that you try out this addon if you have a CPU that supports AVX-512 instruction. If you do not know if your CPU supports AVX-512, then google it or use a tool like HWinfo. **ENABLING THIS MOD WITH AN INCOMPATIBLE CPU WILL EITHER CRASH YOUR GAME OR BREAK ALL SMP**.
+ 1. `Force 1080p resolution`: As the name implies, this mod can be enabled to force the game run on 1080p. Intended as optional performance boost for those with 1440p or 4K screens. **DOES NOT WORK TOGETHER WITH FRAME GENERATION, WILL CAUSE A BLACK SCREEN**
+ 2. `AVX 512 for HDT-SMP`: This mod contains the AVX512 version of the [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) `.dll` file compatible with the list. It is ***highly*** suggested that you try out this addon if you have a CPU that supports AVX-512 instruction. If you do not know if your CPU supports AVX-512, then google it or use a tool like HWinfo. **ENABLING THIS MOD WITH AN INCOMPATIBLE CPU WILL EITHER CRASH YOUR GAME OR BREAK ALL SMP**.
 
-Beyond what I can easily offer, you may want to consider reducing the `iShadowMapResolution` from `2048` to `1024` or `512` in the `profiles/Vagabond Remastered/skyrimprefs.ini`.   
+Beyond what I can easily offer, you may want to consider reducing the `iShadowMapResolution` from `4096` to `2048` or `1024` in the `profiles/Vagabond Remastered/skyrimprefs.ini`.   
 
 >[!CAUTION]
 >**DO NOT** use tools such as [Bethini](https://www.nexusmods.com/site/mods/631)! The `.ini` files have already been extensively tweaked, and many of the preconfigured settings set by these tools are not optimized for the list. 
@@ -91,22 +87,6 @@ The following `.ini` files must be edited **while out of game**. After tweaking 
 </Details>
 
 # Upscalers and FrameGen
-
-## ENB Frame Generation
-
-The list includes the [ENB Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/144507) mod as an optional file under [Performance Optimizations](#performance-optimizations). While this mod is disabled by default, it can be enabled for potentially large performance gains at minimal quality loss. This mod is not considered a list modification. 
-
-The Waking Dreams staff and I (Ylikollikas) do not endorse any other potential alternative to this mod, however there are other 3rd party software that can be utilized to achieve a similar effect.
-
-## Skyrim Upscaler
-
-While [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) is an unsupported addition, it is asked about often enough that I felt I should put this here. In order to make sure your Upscaler works, you must change some lines in the `SSEDisplayTweaks.ini`.
-
-In the `SSEDisplayTweaks.ini` make sure that `Fullscreen = false` (line 39), `Borderless = true` (line 48), and `BorderlessUpscale = false` (line 58) under the `[Render]` section.  
-
-Additionally, if you intend on using the FrameGen features of the newer [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343) builds, go in the `SSEDisplayTweaks.ini` and set `FramerateLimit` (line 206) equal to **half** of your monitor's refresh rate.
-
-All other installation concerns for Skyrim Upscaler (DLSS) should be discussed in the modifications channel in the discord.  
 
 ## Lossless Scaling
 
