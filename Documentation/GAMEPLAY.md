@@ -236,8 +236,12 @@ Listed changes **ONLY** affect Survival Mode play!
 - Hold block for 3 seconds without letting go of the button to gain +200% stamina regeneration boost until you let go.
 - Enemies take 25% more damage from melee attacks when struck from behind.
 - Boss-type enemies become enraged during power attacks when above 25% stamina, taking drastically less physical and poise damage. Enrage is indicated by a faint red glow.
-- NPCs **below** player's level gain extra scaling of +1% melee damage, +5 health, +5 Armor and +0.5% Magic Resistance per level below player.
-  - For example if Player is level 20 and enemy level 5, then enemy gains the bonuses above for 15x (20 - 5 = 15)
+- Underleveled enemies are always scaled to be at most 10 levels below player. No more fighting level 1 enemies on level 50 character!
+- Damage caps:
+  - Weapon attacks may at most deal ten times the weapon's base damage, after all buffs and resistances are calculated. This cap is doubled for Power Attacks.
+  - Spells may at most deal ten times the spell's base magnitude in  damage, after all buffs and resistances are calculated.
+  - If you notice damage buffs are not increasing your damage dealt, you've likely reached the damage cap. It is recommended to focus on investing in other stats, such as health, armor and resource sustain in such cases.
+  - Remember that the damage cap is dependent on target's resistances too, so it may take more power to reach the damage cap against enemies with high armor or elemental resistances.
 
 ## Alternative Death Mechanics
 
@@ -251,7 +255,7 @@ When you die on four outcomes will happen:
 
 ## Item Durability
 
-Vagabond Remastered utilizes [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544), which makes armor and weapons lose their tempering durability over time. The items can degrade all the way to zero durability, meaning they provide no armor or damage.
+Vagabond Remastered utilizes [Equipment Durability System NG](https://www.nexusmods.com/skyrimspecialedition/mods/109899), which makes armor and weapons lose their tempering durability over time. The items can degrade all the way to zero durability, meaning they provide no armor or damage.
 However, the items can never completely break. The degration rate is set to be fairly slow to avoid the system feeling overly intrusive.
 
 To help manage item degradation, the player can find or craft hammers and whetstones to temper their gear while away from town.
