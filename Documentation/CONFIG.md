@@ -60,12 +60,13 @@ Vagabond Remastered is by default designed to be played with a controller. Howev
 
 </Details>
 
-
 Below are the list of mods you will find under the `OPTIONAL ADDONS` separator in MO2.
  1. `Force 1080p resolution`: As the name implies, this mod can be enabled to force the game run on 1080p. Intended as optional performance boost for those with 1440p or 4K screens. **DOES NOT WORK TOGETHER WITH FRAME GENERATION, WILL CAUSE A BLACK SCREEN**
  2. `AVX 512 for HDT-SMP`: This mod contains the AVX512 version of the [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339) `.dll` file compatible with the list. It is ***highly*** suggested that you try out this addon if you have a CPU that supports AVX-512 instruction. If you do not know if your CPU supports AVX-512, then google it or use a tool like HWinfo. **ENABLING THIS MOD WITH AN INCOMPATIBLE CPU WILL EITHER CRASH YOUR GAME OR BREAK ALL SMP**.
 
 Beyond what I can easily offer, you may want to consider reducing the `iShadowMapResolution` from `4096` to `2048` or `1024` in the `profiles/Vagabond Remastered/skyrimprefs.ini`.   
+
+You may also want to enable [Smooth Motion](https://nvidia.custhelp.com/app/answers/detail/a_id/5621/~/enabling-smooth-motion-in-nvidia-app) for Skyrim in Nvidia App. Yes, it stacks with Community Shaders frame generation.
 
 >[!CAUTION]
 >**DO NOT** use tools such as [Bethini](https://www.nexusmods.com/site/mods/631)! The `.ini` files have already been extensively tweaked, and many of the preconfigured settings set by these tools are not optimized for the list. 
