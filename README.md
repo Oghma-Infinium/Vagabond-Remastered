@@ -88,10 +88,10 @@ The list may run on lower specs than mine, but extensive performance testing has
 
 Individual performance may vary depending on specific hardware and software configurations, as well as other system optimizations. **Troubleshooting & support for hardware related issues will not be provided.**
 
-Downloads Size: ~253 GB  
-Install Size: ~204 GB  
+Downloads Size: ~320 GB  
+Install Size: ~300 GB  
 Temporary Files: ~40 GB  
-**TOTAL:** ~457 GB  
+**TOTAL:** ~660 GB  
 
 > In case of a a disparity between the listed sizes here and the Wabbajack Gallery, the values here should be more correct as Wabbajack does not properly account for archive compression in the post-installation list.
 
