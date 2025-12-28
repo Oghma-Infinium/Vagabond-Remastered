@@ -13,6 +13,8 @@
 
 ---
 
+# **NOT ACTIVELY SUPPORTED, DEVELOPMENT ON LONG HIATUS UNTIL FURTHER NOTICE**
+
 **Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
 
 >[!IMPORTANT]
