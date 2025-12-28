@@ -20,6 +20,7 @@
 
 ## Beta Versions
 
+- [0.5.1](#051) Release Date: December 28th, 2025
 - [0.5.0](#050) Release Date: December 26th, 2025
 - [0.4.3](#043) Release Date: October 23rd, 2025
 - [0.4.2](#042) Release Date: October 19th, 2025
@@ -40,6 +41,13 @@
 - [0.3.5](#035) Release Date: August 11, 2025
 - [0.3.4](#034) Release Date: August 10, 2025
 
+### 0.5.0
+
+Key Info
+
+**This update is NOT save-safe. You must create a new character to play this update!**
+
+Unfortunately had to rerun DynDOLOD because of issues with the previous output. Also removed one behavior mod, which also seemed to break existing saves. Fixed few other bugs too.
 
 ### 0.5.0
 
